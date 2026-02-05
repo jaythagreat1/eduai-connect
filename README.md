@@ -3,7 +3,6 @@ cat > README.md << 'READMEEOF'
 
 AI-powered meeting assistant that automatically transcribes meetings, extracts action items, and tracks follow-through.
 
-![Architecture](architecture.png)
 
 ## Problem Solved
 
@@ -19,6 +18,8 @@ Automated system using AWS AI services that:
 - Tracks completion
 
 ## Architecture
+
+![Architecture](architecture.png)
 
 Event-driven workflow using 8 AWS services orchestrated by Step Functions.
 
