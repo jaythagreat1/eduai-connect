@@ -1,8 +1,6 @@
-import React, { Suspense, useState, useEffect, useCallback } from "react";
+import React from "react";
 import styled from "styled-components";
 import Navbar from "./Navbar";
-import EnhancedCanvas from "./EnhancedCanvas";
-import { OrbitControls, Sphere, MeshDistortMaterial } from "@react-three/drei";
 
 const Section = styled.div`
   height: 100vh;
@@ -139,7 +137,7 @@ const Button = styled.button`
   cursor: pointer;
   font-size: 16px;
   transition: all 0.3s ease;
-  min-height: 44px; /* Touch target for mobile */
+  min-height: 44px;
 
   &:hover {
     background-color: #c7449a;
@@ -160,6 +158,9 @@ const Right = styled.div`
   flex: 3;
   position: relative;
   height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   @media (max-width: 768px) {
     flex: none;
@@ -174,20 +175,14 @@ const Right = styled.div`
 `;
 
 const Img = styled.img`
-  width: 800px;
-  height: 600px;
+  width: 600px;
+  height: 450px;
   object-fit: contain;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
   animation: animate 2s infinite ease alternate;
 
   @media (max-width: 1200px) {
-    width: 600px;
-    height: 450px;
+    width: 500px;
+    height: 375px;
   }
 
   @media (max-width: 768px) {
@@ -207,93 +202,10 @@ const Img = styled.img`
   }
 `;
 
-const CanvasContainer = styled.div`
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-
-  canvas {
-    width: 100% !important;
-    height: 100% !important;
-  }
-
-  @media (max-width: 768px) {
-    /* Simplify 3D on mobile if needed */
-    opacity: ${props => props.showSimplified ? 0.8 : 1};
-  }
-`;
-
-const ErrorMessage = styled.div`
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-  background: rgba(0, 0, 0, 0.7);
-  padding: 20px;
-  border-radius: 10px;
-  display: ${props => props.show ? 'block' : 'none'};
-`;
-
-const Hero = ({ performanceMode = 'medium' }) => {
-  const [isMobile, setIsMobile] = useState(false)
-  const [canvasError, setCanvasError] = useState(false)
-  const [isLoaded, setIsLoaded] = useState(false)
-
-  useEffect(() => {
-    const checkMobile = () => {
-      const mobile = window.innerWidth <= 768
-      setIsMobile(mobile)
-    }
-
-    checkMobile()
-    window.addEventListener('resize', checkMobile)
-
-    return () => window.removeEventListener('resize', checkMobile)
-  }, [])
-
-  const handleLearnMore = useCallback(() => {
-    try {
-      window.open('https://Techwayurself.com', '_blank', 'noopener,noreferrer')
-    } catch (error) {
-      console.error('Failed to open link:', error)
-      // Fallback: try direct navigation
-      window.location.href = 'https://Techwayurself.com'
-    }
-  }, [])
-
-  const handleCanvasLoad = useCallback(() => {
-    setIsLoaded(true)
-    setCanvasError(false)
-  }, [])
-
-  const handleCanvasError = useCallback((error) => {
-    console.error('Hero Canvas Error:', error)
-    setCanvasError(true)
-    setIsLoaded(false)
-  }, [])
-
-  // Enhanced Sphere component with error handling
-  const EnhancedSphere = () => {
-    try {
-      return (
-        <Sphere args={[1, 100, 200]} scale={isMobile ? 1.8 : 2.4}>
-          <MeshDistortMaterial
-            color="#262e85"
-            attach="material"
-            distort={performanceMode === 'low' ? 0.3 : 0.5}
-            speed={performanceMode === 'low' ? 1 : 2}
-          />
-        </Sphere>
-      )
-    } catch (error) {
-      console.error('Sphere creation failed:', error)
-      return null
-    }
-  }
+const Hero = () => {
+  const handleLearnMore = () => {
+    window.open('https://Techwayurself.com', '_blank', 'noopener,noreferrer');
+  };
 
   return (
     <Section>
@@ -302,11 +214,10 @@ const Hero = ({ performanceMode = 'medium' }) => {
         <Left>
           <Title>Think. Create. Solve.</Title>
           <WhatWeDo>
-            <Line 
-              src="./img/line.png" 
+            <Line
+              src="./img/line.png"
               alt="Decorative line"
               onError={(e) => {
-                console.warn('Line image failed to load')
                 e.target.style.display = 'none'
               }}
             />
@@ -315,50 +226,19 @@ const Hero = ({ performanceMode = 'medium' }) => {
           <Desc>
             Skyrocket your business to the clouds with AWS Architecture-based Solutions.
           </Desc>
-          <Button onClick={handleLearnMore} aria-label="Learn more about AWS solutions">
+          <Button onClick={handleLearnMore}>
             Learn More
           </Button>
         </Left>
 
         <Right>
-          <CanvasContainer showSimplified={isMobile && performanceMode === 'low'}>
-            {!canvasError ? (
-              <EnhancedCanvas
-                performanceMode={isMobile ? 'low' : performanceMode}
-                onLoad={handleCanvasLoad}
-                onError={handleCanvasError}
-                style={{ background: 'transparent' }}
-              >
-                <Suspense fallback={null}>
-                  {performanceMode !== 'low' && (
-                    <OrbitControls 
-                      enableZoom={false} 
-                      enablePan={false}
-                      autoRotate={performanceMode === 'high'}
-                      autoRotateSpeed={0.5}
-                    />
-                  )}
-
-                  <EnhancedSphere />
-                </Suspense>
-              </EnhancedCanvas>
-            ) : (
-              <ErrorMessage show={canvasError}>
-                <h3>3D Scene Error</h3>
-                <p>Displaying fallback design</p>
-              </ErrorMessage>
-            )}
-          </CanvasContainer>
-
-          <Img 
-            src="./img/moon.png" 
+          <Img
+            src="./img/moon.png"
             alt="Johnathan CloudSpace Logo"
             onError={(e) => {
-              console.warn('Moon image failed to load')
-              e.target.alt = 'Logo image failed to load'
-              e.target.style.opacity = '0.5'
+              e.target.alt = 'Logo image not found'
+              e.target.style.opacity = '0.3'
             }}
-            onLoad={() => console.log('Moon image loaded successfully')}
           />
         </Right>
       </Container>
