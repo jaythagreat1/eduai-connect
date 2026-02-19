@@ -1,0 +1,9123 @@
+[
+  {
+    "id": 3001,
+    "assignment_id": 203,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2025-12-03T07:05:23.283762"
+  },
+  {
+    "id": 3002,
+    "assignment_id": 204,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2025-12-12T02:45:49.159620"
+  },
+  {
+    "id": 3003,
+    "assignment_id": 212,
+    "student_id": 1001,
+    "score": 58.5,
+    "submitted_at": "2025-11-27T14:19:00.722941"
+  },
+  {
+    "id": 3004,
+    "assignment_id": 220,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2026-02-13T23:21:05.618820"
+  },
+  {
+    "id": 3005,
+    "assignment_id": 228,
+    "student_id": 1001,
+    "score": 59.7,
+    "submitted_at": "2025-12-06T08:03:43.111580"
+  },
+  {
+    "id": 3006,
+    "assignment_id": 202,
+    "student_id": 1001,
+    "score": 74.5,
+    "submitted_at": "2026-02-11T16:26:28.070785"
+  },
+  {
+    "id": 3007,
+    "assignment_id": 227,
+    "student_id": 1001,
+    "score": 73.7,
+    "submitted_at": "2025-12-31T17:52:40.799229"
+  },
+  {
+    "id": 3008,
+    "assignment_id": 208,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2025-12-10T13:10:03.558748"
+  },
+  {
+    "id": 3009,
+    "assignment_id": 216,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2025-11-22T08:38:54.142870"
+  },
+  {
+    "id": 3010,
+    "assignment_id": 224,
+    "student_id": 1001,
+    "score": 70.5,
+    "submitted_at": "2025-12-17T21:21:14.707345"
+  },
+  {
+    "id": 3011,
+    "assignment_id": 213,
+    "student_id": 1001,
+    "score": 57.0,
+    "submitted_at": "2026-02-14T10:31:44.429563"
+  },
+  {
+    "id": 3012,
+    "assignment_id": 221,
+    "student_id": 1001,
+    "score": 54.4,
+    "submitted_at": "2026-01-30T07:34:50.063918"
+  },
+  {
+    "id": 3013,
+    "assignment_id": 229,
+    "student_id": 1001,
+    "score": 68.3,
+    "submitted_at": "2026-01-21T05:15:26.420902"
+  },
+  {
+    "id": 3014,
+    "assignment_id": 210,
+    "student_id": 1001,
+    "score": 50.9,
+    "submitted_at": "2026-01-15T20:45:01.584499"
+  },
+  {
+    "id": 3015,
+    "assignment_id": 234,
+    "student_id": 1001,
+    "score": 70.4,
+    "submitted_at": "2026-02-04T17:14:11.649927"
+  },
+  {
+    "id": 3016,
+    "assignment_id": 209,
+    "student_id": 1001,
+    "score": 50.0,
+    "submitted_at": "2025-12-25T07:47:36.735425"
+  },
+  {
+    "id": 3017,
+    "assignment_id": 217,
+    "student_id": 1001,
+    "score": 59.9,
+    "submitted_at": "2025-12-30T14:13:46.046581"
+  },
+  {
+    "id": 3018,
+    "assignment_id": 225,
+    "student_id": 1001,
+    "score": 94.4,
+    "submitted_at": "2026-01-08T19:25:11.067652"
+  },
+  {
+    "id": 3019,
+    "assignment_id": 233,
+    "student_id": 1001,
+    "score": 63.6,
+    "submitted_at": "2025-12-15T21:05:52.472887"
+  },
+  {
+    "id": 3020,
+    "assignment_id": 201,
+    "student_id": 1002,
+    "score": 79.7,
+    "submitted_at": "2025-12-25T03:02:09.164905"
+  },
+  {
+    "id": 3021,
+    "assignment_id": 211,
+    "student_id": 1002,
+    "score": 57.4,
+    "submitted_at": "2026-02-07T17:09:31.667923"
+  },
+  {
+    "id": 3022,
+    "assignment_id": 219,
+    "student_id": 1002,
+    "score": 68.7,
+    "submitted_at": "2025-11-20T01:06:35.325062"
+  },
+  {
+    "id": 3023,
+    "assignment_id": 227,
+    "student_id": 1002,
+    "score": 64.7,
+    "submitted_at": "2025-11-27T09:53:12.541813"
+  },
+  {
+    "id": 3024,
+    "assignment_id": 207,
+    "student_id": 1002,
+    "score": 83.3,
+    "submitted_at": "2026-01-09T13:39:46.157224"
+  },
+  {
+    "id": 3025,
+    "assignment_id": 215,
+    "student_id": 1002,
+    "score": 51.9,
+    "submitted_at": "2026-02-06T01:51:35.663385"
+  },
+  {
+    "id": 3026,
+    "assignment_id": 223,
+    "student_id": 1002,
+    "score": 97.5,
+    "submitted_at": "2026-01-06T18:31:57.411912"
+  },
+  {
+    "id": 3027,
+    "assignment_id": 203,
+    "student_id": 1002,
+    "score": 50.0,
+    "submitted_at": "2026-02-15T01:19:54.891228"
+  },
+  {
+    "id": 3028,
+    "assignment_id": 204,
+    "student_id": 1002,
+    "score": 50.0,
+    "submitted_at": "2026-01-09T16:16:53.689406"
+  },
+  {
+    "id": 3029,
+    "assignment_id": 212,
+    "student_id": 1002,
+    "score": 60.0,
+    "submitted_at": "2025-12-13T07:45:28.802519"
+  },
+  {
+    "id": 3030,
+    "assignment_id": 220,
+    "student_id": 1002,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T07:44:00.575236"
+  },
+  {
+    "id": 3031,
+    "assignment_id": 209,
+    "student_id": 1002,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T15:15:13.239914"
+  },
+  {
+    "id": 3032,
+    "assignment_id": 217,
+    "student_id": 1002,
+    "score": 61.9,
+    "submitted_at": "2026-01-05T06:58:58.443564"
+  },
+  {
+    "id": 3033,
+    "assignment_id": 225,
+    "student_id": 1002,
+    "score": 89.3,
+    "submitted_at": "2025-12-11T09:37:02.281938"
+  },
+  {
+    "id": 3034,
+    "assignment_id": 233,
+    "student_id": 1002,
+    "score": 53.8,
+    "submitted_at": "2025-12-28T14:16:48.230422"
+  },
+  {
+    "id": 3035,
+    "assignment_id": 206,
+    "student_id": 1002,
+    "score": 53.4,
+    "submitted_at": "2025-11-20T06:22:37.771149"
+  },
+  {
+    "id": 3036,
+    "assignment_id": 214,
+    "student_id": 1002,
+    "score": 59.3,
+    "submitted_at": "2026-02-01T00:02:25.611909"
+  },
+  {
+    "id": 3037,
+    "assignment_id": 222,
+    "student_id": 1002,
+    "score": 93.5,
+    "submitted_at": "2025-11-24T09:22:36.746675"
+  },
+  {
+    "id": 3038,
+    "assignment_id": 230,
+    "student_id": 1002,
+    "score": 55.2,
+    "submitted_at": "2026-01-11T23:08:51.330086"
+  },
+  {
+    "id": 3039,
+    "assignment_id": 218,
+    "student_id": 1002,
+    "score": 71.5,
+    "submitted_at": "2025-12-24T08:51:46.643765"
+  },
+  {
+    "id": 3040,
+    "assignment_id": 226,
+    "student_id": 1002,
+    "score": 56.5,
+    "submitted_at": "2026-01-28T13:03:03.761234"
+  },
+  {
+    "id": 3041,
+    "assignment_id": 234,
+    "student_id": 1002,
+    "score": 58.7,
+    "submitted_at": "2026-01-09T02:33:19.261858"
+  },
+  {
+    "id": 3042,
+    "assignment_id": 203,
+    "student_id": 1003,
+    "score": 50.0,
+    "submitted_at": "2026-01-11T02:19:56.062321"
+  },
+  {
+    "id": 3043,
+    "assignment_id": 204,
+    "student_id": 1003,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T00:55:00.819333"
+  },
+  {
+    "id": 3044,
+    "assignment_id": 212,
+    "student_id": 1003,
+    "score": 58.1,
+    "submitted_at": "2026-01-25T23:33:23.205198"
+  },
+  {
+    "id": 3045,
+    "assignment_id": 220,
+    "student_id": 1003,
+    "score": 50.0,
+    "submitted_at": "2025-12-06T21:15:09.513768"
+  },
+  {
+    "id": 3046,
+    "assignment_id": 228,
+    "student_id": 1003,
+    "score": 55.3,
+    "submitted_at": "2026-01-24T10:21:46.796789"
+  },
+  {
+    "id": 3047,
+    "assignment_id": 201,
+    "student_id": 1003,
+    "score": 69.0,
+    "submitted_at": "2025-12-09T10:15:45.514164"
+  },
+  {
+    "id": 3048,
+    "assignment_id": 202,
+    "student_id": 1003,
+    "score": 62.8,
+    "submitted_at": "2026-01-13T13:47:50.486835"
+  },
+  {
+    "id": 3049,
+    "assignment_id": 211,
+    "student_id": 1003,
+    "score": 55.0,
+    "submitted_at": "2026-01-17T02:16:55.557983"
+  },
+  {
+    "id": 3050,
+    "assignment_id": 227,
+    "student_id": 1003,
+    "score": 73.5,
+    "submitted_at": "2026-01-27T19:19:21.666261"
+  },
+  {
+    "id": 3051,
+    "assignment_id": 214,
+    "student_id": 1003,
+    "score": 70.6,
+    "submitted_at": "2025-12-17T16:03:05.412764"
+  },
+  {
+    "id": 3052,
+    "assignment_id": 230,
+    "student_id": 1003,
+    "score": 66.8,
+    "submitted_at": "2025-12-16T18:10:09.044724"
+  },
+  {
+    "id": 3053,
+    "assignment_id": 209,
+    "student_id": 1003,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T15:29:06.293293"
+  },
+  {
+    "id": 3054,
+    "assignment_id": 217,
+    "student_id": 1003,
+    "score": 68.2,
+    "submitted_at": "2026-01-10T08:45:09.658056"
+  },
+  {
+    "id": 3055,
+    "assignment_id": 225,
+    "student_id": 1003,
+    "score": 54.0,
+    "submitted_at": "2025-11-20T12:39:41.827585"
+  },
+  {
+    "id": 3056,
+    "assignment_id": 233,
+    "student_id": 1003,
+    "score": 52.0,
+    "submitted_at": "2025-12-22T23:21:30.091951"
+  },
+  {
+    "id": 3057,
+    "assignment_id": 205,
+    "student_id": 1003,
+    "score": 81.7,
+    "submitted_at": "2025-12-14T11:10:48.875649"
+  },
+  {
+    "id": 3058,
+    "assignment_id": 213,
+    "student_id": 1003,
+    "score": 59.8,
+    "submitted_at": "2026-01-21T07:32:20.634148"
+  },
+  {
+    "id": 3059,
+    "assignment_id": 229,
+    "student_id": 1003,
+    "score": 59.1,
+    "submitted_at": "2026-02-15T06:09:34.783616"
+  },
+  {
+    "id": 3060,
+    "assignment_id": 208,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2026-01-20T20:06:56.056268"
+  },
+  {
+    "id": 3061,
+    "assignment_id": 216,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2025-12-13T02:37:54.969378"
+  },
+  {
+    "id": 3062,
+    "assignment_id": 224,
+    "student_id": 1004,
+    "score": 76.9,
+    "submitted_at": "2025-12-27T04:41:58.280800"
+  },
+  {
+    "id": 3063,
+    "assignment_id": 232,
+    "student_id": 1004,
+    "score": 55.4,
+    "submitted_at": "2026-02-11T17:12:43.129516"
+  },
+  {
+    "id": 3064,
+    "assignment_id": 207,
+    "student_id": 1004,
+    "score": 58.0,
+    "submitted_at": "2026-02-18T16:06:56.755719"
+  },
+  {
+    "id": 3065,
+    "assignment_id": 215,
+    "student_id": 1004,
+    "score": 52.3,
+    "submitted_at": "2025-12-20T15:22:46.611109"
+  },
+  {
+    "id": 3066,
+    "assignment_id": 223,
+    "student_id": 1004,
+    "score": 54.8,
+    "submitted_at": "2025-12-23T07:08:39.958979"
+  },
+  {
+    "id": 3067,
+    "assignment_id": 231,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2026-02-08T19:06:20.387729"
+  },
+  {
+    "id": 3068,
+    "assignment_id": 203,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2026-01-08T00:04:20.558856"
+  },
+  {
+    "id": 3069,
+    "assignment_id": 212,
+    "student_id": 1004,
+    "score": 70.8,
+    "submitted_at": "2026-02-11T05:50:19.657028"
+  },
+  {
+    "id": 3070,
+    "assignment_id": 220,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T23:46:02.481379"
+  },
+  {
+    "id": 3071,
+    "assignment_id": 228,
+    "student_id": 1004,
+    "score": 58.1,
+    "submitted_at": "2025-11-27T23:37:50.076850"
+  },
+  {
+    "id": 3072,
+    "assignment_id": 201,
+    "student_id": 1004,
+    "score": 73.5,
+    "submitted_at": "2025-12-13T04:31:25.873370"
+  },
+  {
+    "id": 3073,
+    "assignment_id": 202,
+    "student_id": 1004,
+    "score": 58.2,
+    "submitted_at": "2026-01-03T08:57:36.275472"
+  },
+  {
+    "id": 3074,
+    "assignment_id": 211,
+    "student_id": 1004,
+    "score": 53.5,
+    "submitted_at": "2025-12-15T14:51:59.054847"
+  },
+  {
+    "id": 3075,
+    "assignment_id": 219,
+    "student_id": 1004,
+    "score": 83.8,
+    "submitted_at": "2025-12-01T13:21:15.677037"
+  },
+  {
+    "id": 3076,
+    "assignment_id": 209,
+    "student_id": 1004,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T15:28:03.330066"
+  },
+  {
+    "id": 3077,
+    "assignment_id": 217,
+    "student_id": 1004,
+    "score": 57.0,
+    "submitted_at": "2026-01-04T06:15:10.665924"
+  },
+  {
+    "id": 3078,
+    "assignment_id": 225,
+    "student_id": 1004,
+    "score": 60.6,
+    "submitted_at": "2025-12-10T21:18:23.326156"
+  },
+  {
+    "id": 3079,
+    "assignment_id": 233,
+    "student_id": 1004,
+    "score": 56.7,
+    "submitted_at": "2026-01-10T02:20:31.419863"
+  },
+  {
+    "id": 3080,
+    "assignment_id": 205,
+    "student_id": 1004,
+    "score": 92.3,
+    "submitted_at": "2025-12-20T20:32:14.539021"
+  },
+  {
+    "id": 3081,
+    "assignment_id": 213,
+    "student_id": 1004,
+    "score": 72.9,
+    "submitted_at": "2025-12-23T16:23:06.781462"
+  },
+  {
+    "id": 3082,
+    "assignment_id": 221,
+    "student_id": 1004,
+    "score": 54.0,
+    "submitted_at": "2026-02-17T05:02:16.317516"
+  },
+  {
+    "id": 3083,
+    "assignment_id": 223,
+    "student_id": 1005,
+    "score": 82.1,
+    "submitted_at": "2025-11-27T09:23:33.676868"
+  },
+  {
+    "id": 3084,
+    "assignment_id": 231,
+    "student_id": 1005,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T03:20:13.671731"
+  },
+  {
+    "id": 3085,
+    "assignment_id": 216,
+    "student_id": 1005,
+    "score": 50.0,
+    "submitted_at": "2026-02-12T03:06:13.743802"
+  },
+  {
+    "id": 3086,
+    "assignment_id": 224,
+    "student_id": 1005,
+    "score": 60.8,
+    "submitted_at": "2026-01-13T07:06:42.834626"
+  },
+  {
+    "id": 3087,
+    "assignment_id": 232,
+    "student_id": 1005,
+    "score": 50.2,
+    "submitted_at": "2025-12-13T17:19:03.376852"
+  },
+  {
+    "id": 3088,
+    "assignment_id": 217,
+    "student_id": 1005,
+    "score": 58.0,
+    "submitted_at": "2026-01-28T22:31:00.662056"
+  },
+  {
+    "id": 3089,
+    "assignment_id": 225,
+    "student_id": 1005,
+    "score": 81.7,
+    "submitted_at": "2025-12-15T07:44:09.705836"
+  },
+  {
+    "id": 3090,
+    "assignment_id": 233,
+    "student_id": 1005,
+    "score": 72.4,
+    "submitted_at": "2026-01-19T02:35:35.817876"
+  },
+  {
+    "id": 3091,
+    "assignment_id": 201,
+    "student_id": 1005,
+    "score": 66.8,
+    "submitted_at": "2026-01-23T10:05:12.315875"
+  },
+  {
+    "id": 3092,
+    "assignment_id": 202,
+    "student_id": 1005,
+    "score": 59.3,
+    "submitted_at": "2026-02-09T11:09:36.126632"
+  },
+  {
+    "id": 3093,
+    "assignment_id": 211,
+    "student_id": 1005,
+    "score": 57.8,
+    "submitted_at": "2025-12-03T00:35:11.342318"
+  },
+  {
+    "id": 3094,
+    "assignment_id": 219,
+    "student_id": 1005,
+    "score": 53.8,
+    "submitted_at": "2026-02-13T22:08:49.343922"
+  },
+  {
+    "id": 3095,
+    "assignment_id": 227,
+    "student_id": 1005,
+    "score": 54.7,
+    "submitted_at": "2025-12-19T05:26:54.559463"
+  },
+  {
+    "id": 3096,
+    "assignment_id": 206,
+    "student_id": 1006,
+    "score": 83.7,
+    "submitted_at": "2025-12-24T22:34:58.836900"
+  },
+  {
+    "id": 3097,
+    "assignment_id": 214,
+    "student_id": 1006,
+    "score": 79.8,
+    "submitted_at": "2026-02-05T21:17:57.842184"
+  },
+  {
+    "id": 3098,
+    "assignment_id": 222,
+    "student_id": 1006,
+    "score": 72.1,
+    "submitted_at": "2026-01-17T05:40:31.130765"
+  },
+  {
+    "id": 3099,
+    "assignment_id": 230,
+    "student_id": 1006,
+    "score": 76.4,
+    "submitted_at": "2025-12-21T12:34:55.045329"
+  },
+  {
+    "id": 3100,
+    "assignment_id": 208,
+    "student_id": 1006,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T09:50:48.017619"
+  },
+  {
+    "id": 3101,
+    "assignment_id": 216,
+    "student_id": 1006,
+    "score": 50.0,
+    "submitted_at": "2026-01-25T09:00:18.725250"
+  },
+  {
+    "id": 3102,
+    "assignment_id": 224,
+    "student_id": 1006,
+    "score": 73.3,
+    "submitted_at": "2026-01-16T01:20:28.927053"
+  },
+  {
+    "id": 3103,
+    "assignment_id": 232,
+    "student_id": 1006,
+    "score": 59.9,
+    "submitted_at": "2026-02-10T06:06:41.936269"
+  },
+  {
+    "id": 3104,
+    "assignment_id": 205,
+    "student_id": 1006,
+    "score": 50.4,
+    "submitted_at": "2026-02-11T01:27:38.521461"
+  },
+  {
+    "id": 3105,
+    "assignment_id": 213,
+    "student_id": 1006,
+    "score": 56.3,
+    "submitted_at": "2025-12-20T14:29:03.831060"
+  },
+  {
+    "id": 3106,
+    "assignment_id": 221,
+    "student_id": 1006,
+    "score": 51.3,
+    "submitted_at": "2025-12-27T15:49:43.946242"
+  },
+  {
+    "id": 3107,
+    "assignment_id": 229,
+    "student_id": 1006,
+    "score": 50.2,
+    "submitted_at": "2025-12-24T18:53:41.521840"
+  },
+  {
+    "id": 3108,
+    "assignment_id": 201,
+    "student_id": 1006,
+    "score": 57.0,
+    "submitted_at": "2025-11-30T02:50:20.684649"
+  },
+  {
+    "id": 3109,
+    "assignment_id": 202,
+    "student_id": 1006,
+    "score": 67.6,
+    "submitted_at": "2025-11-22T11:27:34.950541"
+  },
+  {
+    "id": 3110,
+    "assignment_id": 211,
+    "student_id": 1006,
+    "score": 58.3,
+    "submitted_at": "2025-11-22T04:22:55.476743"
+  },
+  {
+    "id": 3111,
+    "assignment_id": 227,
+    "student_id": 1006,
+    "score": 75.9,
+    "submitted_at": "2026-02-18T08:57:03.256588"
+  },
+  {
+    "id": 3112,
+    "assignment_id": 203,
+    "student_id": 1006,
+    "score": 50.0,
+    "submitted_at": "2025-12-18T01:12:36.428445"
+  },
+  {
+    "id": 3113,
+    "assignment_id": 220,
+    "student_id": 1006,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T17:06:40.782241"
+  },
+  {
+    "id": 3114,
+    "assignment_id": 228,
+    "student_id": 1006,
+    "score": 54.2,
+    "submitted_at": "2025-12-23T10:11:48.980933"
+  },
+  {
+    "id": 3115,
+    "assignment_id": 207,
+    "student_id": 1006,
+    "score": 50.7,
+    "submitted_at": "2026-01-17T16:06:19.774675"
+  },
+  {
+    "id": 3116,
+    "assignment_id": 215,
+    "student_id": 1006,
+    "score": 54.0,
+    "submitted_at": "2025-11-28T21:27:10.664169"
+  },
+  {
+    "id": 3117,
+    "assignment_id": 223,
+    "student_id": 1006,
+    "score": 91.6,
+    "submitted_at": "2025-11-30T04:49:34.455572"
+  },
+  {
+    "id": 3118,
+    "assignment_id": 210,
+    "student_id": 1007,
+    "score": 62.7,
+    "submitted_at": "2025-11-29T08:53:19.068467"
+  },
+  {
+    "id": 3119,
+    "assignment_id": 218,
+    "student_id": 1007,
+    "score": 64.7,
+    "submitted_at": "2025-12-30T05:27:03.856246"
+  },
+  {
+    "id": 3120,
+    "assignment_id": 226,
+    "student_id": 1007,
+    "score": 69.8,
+    "submitted_at": "2025-12-02T09:51:51.762143"
+  },
+  {
+    "id": 3121,
+    "assignment_id": 234,
+    "student_id": 1007,
+    "score": 67.0,
+    "submitted_at": "2026-01-28T00:42:18.322929"
+  },
+  {
+    "id": 3122,
+    "assignment_id": 203,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2025-12-27T14:16:05.308681"
+  },
+  {
+    "id": 3123,
+    "assignment_id": 204,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2025-12-25T11:11:26.504250"
+  },
+  {
+    "id": 3124,
+    "assignment_id": 212,
+    "student_id": 1007,
+    "score": 72.6,
+    "submitted_at": "2025-12-12T19:58:32.998276"
+  },
+  {
+    "id": 3125,
+    "assignment_id": 220,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T23:15:57.366661"
+  },
+  {
+    "id": 3126,
+    "assignment_id": 213,
+    "student_id": 1007,
+    "score": 54.4,
+    "submitted_at": "2026-02-11T03:51:01.810303"
+  },
+  {
+    "id": 3127,
+    "assignment_id": 221,
+    "student_id": 1007,
+    "score": 53.0,
+    "submitted_at": "2025-12-12T18:34:57.842123"
+  },
+  {
+    "id": 3128,
+    "assignment_id": 229,
+    "student_id": 1007,
+    "score": 63.1,
+    "submitted_at": "2026-01-19T05:13:06.503170"
+  },
+  {
+    "id": 3129,
+    "assignment_id": 209,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2025-12-03T09:35:07.465373"
+  },
+  {
+    "id": 3130,
+    "assignment_id": 217,
+    "student_id": 1007,
+    "score": 65.1,
+    "submitted_at": "2025-12-16T18:11:18.625959"
+  },
+  {
+    "id": 3131,
+    "assignment_id": 225,
+    "student_id": 1007,
+    "score": 72.4,
+    "submitted_at": "2026-02-04T17:12:05.637449"
+  },
+  {
+    "id": 3132,
+    "assignment_id": 207,
+    "student_id": 1007,
+    "score": 72.2,
+    "submitted_at": "2025-12-28T20:34:25.669429"
+  },
+  {
+    "id": 3133,
+    "assignment_id": 215,
+    "student_id": 1007,
+    "score": 54.3,
+    "submitted_at": "2025-12-01T17:12:51.105016"
+  },
+  {
+    "id": 3134,
+    "assignment_id": 223,
+    "student_id": 1007,
+    "score": 57.5,
+    "submitted_at": "2026-02-17T17:58:02.772776"
+  },
+  {
+    "id": 3135,
+    "assignment_id": 231,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2026-02-10T09:13:10.578511"
+  },
+  {
+    "id": 3136,
+    "assignment_id": 208,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2026-01-07T13:08:09.479316"
+  },
+  {
+    "id": 3137,
+    "assignment_id": 216,
+    "student_id": 1007,
+    "score": 50.0,
+    "submitted_at": "2025-12-22T09:05:49.102639"
+  },
+  {
+    "id": 3138,
+    "assignment_id": 224,
+    "student_id": 1007,
+    "score": 65.8,
+    "submitted_at": "2025-12-27T11:36:17.402732"
+  },
+  {
+    "id": 3139,
+    "assignment_id": 232,
+    "student_id": 1007,
+    "score": 70.8,
+    "submitted_at": "2026-02-10T11:35:01.238717"
+  },
+  {
+    "id": 3140,
+    "assignment_id": 203,
+    "student_id": 1008,
+    "score": 50.0,
+    "submitted_at": "2025-12-31T13:46:44.219645"
+  },
+  {
+    "id": 3141,
+    "assignment_id": 212,
+    "student_id": 1008,
+    "score": 62.7,
+    "submitted_at": "2025-11-28T02:59:26.853190"
+  },
+  {
+    "id": 3142,
+    "assignment_id": 220,
+    "student_id": 1008,
+    "score": 50.0,
+    "submitted_at": "2025-11-20T03:33:55.454465"
+  },
+  {
+    "id": 3143,
+    "assignment_id": 228,
+    "student_id": 1008,
+    "score": 59.0,
+    "submitted_at": "2026-01-16T14:24:53.243862"
+  },
+  {
+    "id": 3144,
+    "assignment_id": 210,
+    "student_id": 1008,
+    "score": 62.1,
+    "submitted_at": "2025-12-19T17:07:34.266387"
+  },
+  {
+    "id": 3145,
+    "assignment_id": 218,
+    "student_id": 1008,
+    "score": 58.0,
+    "submitted_at": "2025-12-15T05:16:39.488014"
+  },
+  {
+    "id": 3146,
+    "assignment_id": 226,
+    "student_id": 1008,
+    "score": 57.5,
+    "submitted_at": "2026-02-04T19:48:57.359867"
+  },
+  {
+    "id": 3147,
+    "assignment_id": 234,
+    "student_id": 1008,
+    "score": 55.2,
+    "submitted_at": "2025-12-31T09:49:33.932824"
+  },
+  {
+    "id": 3148,
+    "assignment_id": 216,
+    "student_id": 1008,
+    "score": 50.0,
+    "submitted_at": "2026-01-09T01:43:52.779304"
+  },
+  {
+    "id": 3149,
+    "assignment_id": 224,
+    "student_id": 1008,
+    "score": 56.0,
+    "submitted_at": "2025-12-08T10:28:03.872004"
+  },
+  {
+    "id": 3150,
+    "assignment_id": 232,
+    "student_id": 1008,
+    "score": 60.9,
+    "submitted_at": "2026-01-05T02:44:47.748255"
+  },
+  {
+    "id": 3151,
+    "assignment_id": 209,
+    "student_id": 1008,
+    "score": 50.0,
+    "submitted_at": "2026-01-01T21:05:58.993461"
+  },
+  {
+    "id": 3152,
+    "assignment_id": 217,
+    "student_id": 1008,
+    "score": 57.5,
+    "submitted_at": "2026-01-27T21:08:34.455760"
+  },
+  {
+    "id": 3153,
+    "assignment_id": 225,
+    "student_id": 1008,
+    "score": 70.4,
+    "submitted_at": "2025-12-31T22:40:51.532791"
+  },
+  {
+    "id": 3154,
+    "assignment_id": 233,
+    "student_id": 1008,
+    "score": 67.9,
+    "submitted_at": "2026-01-30T20:58:49.268454"
+  },
+  {
+    "id": 3155,
+    "assignment_id": 203,
+    "student_id": 1009,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T23:14:09.607550"
+  },
+  {
+    "id": 3156,
+    "assignment_id": 204,
+    "student_id": 1009,
+    "score": 50.0,
+    "submitted_at": "2025-12-10T04:02:16.339829"
+  },
+  {
+    "id": 3157,
+    "assignment_id": 212,
+    "student_id": 1009,
+    "score": 57.1,
+    "submitted_at": "2025-12-13T04:05:35.684011"
+  },
+  {
+    "id": 3158,
+    "assignment_id": 220,
+    "student_id": 1009,
+    "score": 50.0,
+    "submitted_at": "2025-11-22T03:06:51.466408"
+  },
+  {
+    "id": 3159,
+    "assignment_id": 216,
+    "student_id": 1009,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T18:06:40.177951"
+  },
+  {
+    "id": 3160,
+    "assignment_id": 224,
+    "student_id": 1009,
+    "score": 62.2,
+    "submitted_at": "2026-01-06T15:49:10.939939"
+  },
+  {
+    "id": 3161,
+    "assignment_id": 207,
+    "student_id": 1009,
+    "score": 63.7,
+    "submitted_at": "2026-01-27T17:39:05.182196"
+  },
+  {
+    "id": 3162,
+    "assignment_id": 215,
+    "student_id": 1009,
+    "score": 54.7,
+    "submitted_at": "2026-01-14T18:54:09.742367"
+  },
+  {
+    "id": 3163,
+    "assignment_id": 223,
+    "student_id": 1009,
+    "score": 68.8,
+    "submitted_at": "2025-12-18T12:51:42.422362"
+  },
+  {
+    "id": 3164,
+    "assignment_id": 231,
+    "student_id": 1009,
+    "score": 50.0,
+    "submitted_at": "2025-12-30T23:57:36.300988"
+  },
+  {
+    "id": 3165,
+    "assignment_id": 205,
+    "student_id": 1009,
+    "score": 91.4,
+    "submitted_at": "2026-01-10T08:47:27.318278"
+  },
+  {
+    "id": 3166,
+    "assignment_id": 213,
+    "student_id": 1009,
+    "score": 70.6,
+    "submitted_at": "2025-11-20T21:09:45.831085"
+  },
+  {
+    "id": 3167,
+    "assignment_id": 221,
+    "student_id": 1009,
+    "score": 53.2,
+    "submitted_at": "2025-12-22T16:11:24.771621"
+  },
+  {
+    "id": 3168,
+    "assignment_id": 229,
+    "student_id": 1009,
+    "score": 57.2,
+    "submitted_at": "2026-01-06T01:51:36.182986"
+  },
+  {
+    "id": 3169,
+    "assignment_id": 205,
+    "student_id": 1010,
+    "score": 59.0,
+    "submitted_at": "2026-02-03T03:43:40.114141"
+  },
+  {
+    "id": 3170,
+    "assignment_id": 213,
+    "student_id": 1010,
+    "score": 78.4,
+    "submitted_at": "2026-02-15T03:42:44.093012"
+  },
+  {
+    "id": 3171,
+    "assignment_id": 221,
+    "student_id": 1010,
+    "score": 51.1,
+    "submitted_at": "2025-12-21T14:52:48.463166"
+  },
+  {
+    "id": 3172,
+    "assignment_id": 229,
+    "student_id": 1010,
+    "score": 51.5,
+    "submitted_at": "2026-01-25T09:42:50.462463"
+  },
+  {
+    "id": 3173,
+    "assignment_id": 215,
+    "student_id": 1010,
+    "score": 53.9,
+    "submitted_at": "2026-01-24T22:52:44.423424"
+  },
+  {
+    "id": 3174,
+    "assignment_id": 201,
+    "student_id": 1010,
+    "score": 63.5,
+    "submitted_at": "2025-12-27T04:43:26.226299"
+  },
+  {
+    "id": 3175,
+    "assignment_id": 202,
+    "student_id": 1010,
+    "score": 53.3,
+    "submitted_at": "2025-12-08T18:49:56.484531"
+  },
+  {
+    "id": 3176,
+    "assignment_id": 211,
+    "student_id": 1010,
+    "score": 51.6,
+    "submitted_at": "2026-01-29T06:08:57.162170"
+  },
+  {
+    "id": 3177,
+    "assignment_id": 227,
+    "student_id": 1010,
+    "score": 74.3,
+    "submitted_at": "2025-12-03T03:36:47.150748"
+  },
+  {
+    "id": 3178,
+    "assignment_id": 210,
+    "student_id": 1010,
+    "score": 56.6,
+    "submitted_at": "2026-01-28T16:15:51.315025"
+  },
+  {
+    "id": 3179,
+    "assignment_id": 218,
+    "student_id": 1010,
+    "score": 66.9,
+    "submitted_at": "2026-01-10T15:55:12.221332"
+  },
+  {
+    "id": 3180,
+    "assignment_id": 226,
+    "student_id": 1010,
+    "score": 72.2,
+    "submitted_at": "2025-12-05T02:26:26.538848"
+  },
+  {
+    "id": 3181,
+    "assignment_id": 234,
+    "student_id": 1010,
+    "score": 87.4,
+    "submitted_at": "2026-02-15T18:12:53.960375"
+  },
+  {
+    "id": 3182,
+    "assignment_id": 203,
+    "student_id": 1010,
+    "score": 50.0,
+    "submitted_at": "2026-01-02T06:08:52.727400"
+  },
+  {
+    "id": 3183,
+    "assignment_id": 204,
+    "student_id": 1010,
+    "score": 50.0,
+    "submitted_at": "2026-01-01T02:21:12.594670"
+  },
+  {
+    "id": 3184,
+    "assignment_id": 212,
+    "student_id": 1010,
+    "score": 70.9,
+    "submitted_at": "2025-12-18T19:37:13.015481"
+  },
+  {
+    "id": 3185,
+    "assignment_id": 220,
+    "student_id": 1010,
+    "score": 50.0,
+    "submitted_at": "2026-02-16T08:48:53.950678"
+  },
+  {
+    "id": 3186,
+    "assignment_id": 203,
+    "student_id": 1011,
+    "score": 50.0,
+    "submitted_at": "2025-12-11T02:48:43.940073"
+  },
+  {
+    "id": 3187,
+    "assignment_id": 204,
+    "student_id": 1011,
+    "score": 50.0,
+    "submitted_at": "2025-11-29T09:10:31.625796"
+  },
+  {
+    "id": 3188,
+    "assignment_id": 205,
+    "student_id": 1011,
+    "score": 62.5,
+    "submitted_at": "2025-11-19T18:36:11.818304"
+  },
+  {
+    "id": 3189,
+    "assignment_id": 213,
+    "student_id": 1011,
+    "score": 76.2,
+    "submitted_at": "2026-02-17T11:35:20.761809"
+  },
+  {
+    "id": 3190,
+    "assignment_id": 221,
+    "student_id": 1011,
+    "score": 50.5,
+    "submitted_at": "2025-11-28T02:23:37.887743"
+  },
+  {
+    "id": 3191,
+    "assignment_id": 217,
+    "student_id": 1011,
+    "score": 65.3,
+    "submitted_at": "2025-12-16T11:58:41.020155"
+  },
+  {
+    "id": 3192,
+    "assignment_id": 225,
+    "student_id": 1011,
+    "score": 95.3,
+    "submitted_at": "2026-02-06T14:27:32.985878"
+  },
+  {
+    "id": 3193,
+    "assignment_id": 233,
+    "student_id": 1011,
+    "score": 63.1,
+    "submitted_at": "2026-01-10T00:21:49.598076"
+  },
+  {
+    "id": 3194,
+    "assignment_id": 218,
+    "student_id": 1011,
+    "score": 61.3,
+    "submitted_at": "2026-01-21T06:57:10.174188"
+  },
+  {
+    "id": 3195,
+    "assignment_id": 226,
+    "student_id": 1011,
+    "score": 51.3,
+    "submitted_at": "2025-11-25T14:22:00.039194"
+  },
+  {
+    "id": 3196,
+    "assignment_id": 234,
+    "student_id": 1011,
+    "score": 75.1,
+    "submitted_at": "2026-01-06T15:55:42.992301"
+  },
+  {
+    "id": 3197,
+    "assignment_id": 205,
+    "student_id": 1012,
+    "score": 99.7,
+    "submitted_at": "2026-02-01T11:31:07.290774"
+  },
+  {
+    "id": 3198,
+    "assignment_id": 213,
+    "student_id": 1012,
+    "score": 50.8,
+    "submitted_at": "2026-02-08T04:04:31.350694"
+  },
+  {
+    "id": 3199,
+    "assignment_id": 203,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2026-02-16T23:42:42.663965"
+  },
+  {
+    "id": 3200,
+    "assignment_id": 204,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2026-01-24T19:47:28.335557"
+  },
+  {
+    "id": 3201,
+    "assignment_id": 220,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2026-01-24T13:23:56.165362"
+  },
+  {
+    "id": 3202,
+    "assignment_id": 228,
+    "student_id": 1012,
+    "score": 54.5,
+    "submitted_at": "2026-02-07T00:53:15.462869"
+  },
+  {
+    "id": 3203,
+    "assignment_id": 208,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2025-11-25T04:27:01.613209"
+  },
+  {
+    "id": 3204,
+    "assignment_id": 216,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T20:23:19.721234"
+  },
+  {
+    "id": 3205,
+    "assignment_id": 224,
+    "student_id": 1012,
+    "score": 75.5,
+    "submitted_at": "2025-11-22T23:58:36.725812"
+  },
+  {
+    "id": 3206,
+    "assignment_id": 232,
+    "student_id": 1012,
+    "score": 52.8,
+    "submitted_at": "2026-02-14T12:16:22.829798"
+  },
+  {
+    "id": 3207,
+    "assignment_id": 206,
+    "student_id": 1012,
+    "score": 65.1,
+    "submitted_at": "2026-02-03T05:10:11.834653"
+  },
+  {
+    "id": 3208,
+    "assignment_id": 214,
+    "student_id": 1012,
+    "score": 68.9,
+    "submitted_at": "2025-12-12T21:51:16.298321"
+  },
+  {
+    "id": 3209,
+    "assignment_id": 222,
+    "student_id": 1012,
+    "score": 72.9,
+    "submitted_at": "2026-01-12T00:06:52.199280"
+  },
+  {
+    "id": 3210,
+    "assignment_id": 230,
+    "student_id": 1012,
+    "score": 81.7,
+    "submitted_at": "2026-01-10T10:00:34.707042"
+  },
+  {
+    "id": 3211,
+    "assignment_id": 209,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2026-01-03T14:06:29.252954"
+  },
+  {
+    "id": 3212,
+    "assignment_id": 217,
+    "student_id": 1012,
+    "score": 54.8,
+    "submitted_at": "2025-11-29T18:11:19.559068"
+  },
+  {
+    "id": 3213,
+    "assignment_id": 225,
+    "student_id": 1012,
+    "score": 71.5,
+    "submitted_at": "2025-12-10T22:30:23.068382"
+  },
+  {
+    "id": 3214,
+    "assignment_id": 233,
+    "student_id": 1012,
+    "score": 57.2,
+    "submitted_at": "2025-11-27T01:37:18.488553"
+  },
+  {
+    "id": 3215,
+    "assignment_id": 207,
+    "student_id": 1012,
+    "score": 73.3,
+    "submitted_at": "2025-12-30T14:00:50.465562"
+  },
+  {
+    "id": 3216,
+    "assignment_id": 215,
+    "student_id": 1012,
+    "score": 54.9,
+    "submitted_at": "2026-01-11T12:32:29.545335"
+  },
+  {
+    "id": 3217,
+    "assignment_id": 223,
+    "student_id": 1012,
+    "score": 76.3,
+    "submitted_at": "2026-01-07T19:45:19.363956"
+  },
+  {
+    "id": 3218,
+    "assignment_id": 231,
+    "student_id": 1012,
+    "score": 50.0,
+    "submitted_at": "2025-12-11T15:25:52.816061"
+  },
+  {
+    "id": 3219,
+    "assignment_id": 208,
+    "student_id": 1013,
+    "score": 50.0,
+    "submitted_at": "2026-02-06T13:59:41.726559"
+  },
+  {
+    "id": 3220,
+    "assignment_id": 216,
+    "student_id": 1013,
+    "score": 50.0,
+    "submitted_at": "2025-11-29T04:34:39.059521"
+  },
+  {
+    "id": 3221,
+    "assignment_id": 232,
+    "student_id": 1013,
+    "score": 50.4,
+    "submitted_at": "2026-01-03T06:26:30.153949"
+  },
+  {
+    "id": 3222,
+    "assignment_id": 206,
+    "student_id": 1013,
+    "score": 67.2,
+    "submitted_at": "2026-01-12T11:24:45.027039"
+  },
+  {
+    "id": 3223,
+    "assignment_id": 214,
+    "student_id": 1013,
+    "score": 78.3,
+    "submitted_at": "2026-01-04T07:16:57.074576"
+  },
+  {
+    "id": 3224,
+    "assignment_id": 222,
+    "student_id": 1013,
+    "score": 86.8,
+    "submitted_at": "2026-02-15T07:21:32.102750"
+  },
+  {
+    "id": 3225,
+    "assignment_id": 230,
+    "student_id": 1013,
+    "score": 51.6,
+    "submitted_at": "2025-11-30T15:11:06.375968"
+  },
+  {
+    "id": 3226,
+    "assignment_id": 207,
+    "student_id": 1013,
+    "score": 78.5,
+    "submitted_at": "2025-12-18T19:22:40.055830"
+  },
+  {
+    "id": 3227,
+    "assignment_id": 215,
+    "student_id": 1013,
+    "score": 53.9,
+    "submitted_at": "2026-01-09T10:29:32.545637"
+  },
+  {
+    "id": 3228,
+    "assignment_id": 223,
+    "student_id": 1013,
+    "score": 84.8,
+    "submitted_at": "2026-02-03T04:31:06.891525"
+  },
+  {
+    "id": 3229,
+    "assignment_id": 231,
+    "student_id": 1013,
+    "score": 50.0,
+    "submitted_at": "2025-12-06T06:04:15.754622"
+  },
+  {
+    "id": 3230,
+    "assignment_id": 209,
+    "student_id": 1013,
+    "score": 50.0,
+    "submitted_at": "2025-12-20T16:50:46.182507"
+  },
+  {
+    "id": 3231,
+    "assignment_id": 217,
+    "student_id": 1013,
+    "score": 55.9,
+    "submitted_at": "2026-01-11T02:58:54.857507"
+  },
+  {
+    "id": 3232,
+    "assignment_id": 225,
+    "student_id": 1013,
+    "score": 60.0,
+    "submitted_at": "2025-12-06T22:04:04.519182"
+  },
+  {
+    "id": 3233,
+    "assignment_id": 233,
+    "student_id": 1013,
+    "score": 78.0,
+    "submitted_at": "2025-12-19T11:02:35.327289"
+  },
+  {
+    "id": 3234,
+    "assignment_id": 201,
+    "student_id": 1013,
+    "score": 89.6,
+    "submitted_at": "2025-12-15T04:57:47.983921"
+  },
+  {
+    "id": 3235,
+    "assignment_id": 202,
+    "student_id": 1013,
+    "score": 56.3,
+    "submitted_at": "2026-01-16T04:32:07.627335"
+  },
+  {
+    "id": 3236,
+    "assignment_id": 211,
+    "student_id": 1013,
+    "score": 51.9,
+    "submitted_at": "2025-12-04T05:38:12.908913"
+  },
+  {
+    "id": 3237,
+    "assignment_id": 219,
+    "student_id": 1013,
+    "score": 85.1,
+    "submitted_at": "2026-01-29T19:34:33.402692"
+  },
+  {
+    "id": 3238,
+    "assignment_id": 210,
+    "student_id": 1013,
+    "score": 51.9,
+    "submitted_at": "2025-12-11T14:40:45.431875"
+  },
+  {
+    "id": 3239,
+    "assignment_id": 218,
+    "student_id": 1013,
+    "score": 72.2,
+    "submitted_at": "2026-01-30T21:39:11.278502"
+  },
+  {
+    "id": 3240,
+    "assignment_id": 226,
+    "student_id": 1013,
+    "score": 94.7,
+    "submitted_at": "2025-11-24T23:34:23.160752"
+  },
+  {
+    "id": 3241,
+    "assignment_id": 234,
+    "student_id": 1013,
+    "score": 98.7,
+    "submitted_at": "2025-12-31T20:00:10.877706"
+  },
+  {
+    "id": 3242,
+    "assignment_id": 203,
+    "student_id": 1014,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T00:00:38.548921"
+  },
+  {
+    "id": 3243,
+    "assignment_id": 212,
+    "student_id": 1014,
+    "score": 70.0,
+    "submitted_at": "2026-01-22T16:23:52.780723"
+  },
+  {
+    "id": 3244,
+    "assignment_id": 220,
+    "student_id": 1014,
+    "score": 50.0,
+    "submitted_at": "2025-11-27T13:06:46.159205"
+  },
+  {
+    "id": 3245,
+    "assignment_id": 228,
+    "student_id": 1014,
+    "score": 58.2,
+    "submitted_at": "2026-02-06T23:36:48.952775"
+  },
+  {
+    "id": 3246,
+    "assignment_id": 207,
+    "student_id": 1014,
+    "score": 61.2,
+    "submitted_at": "2025-12-11T12:51:13.752772"
+  },
+  {
+    "id": 3247,
+    "assignment_id": 215,
+    "student_id": 1014,
+    "score": 53.3,
+    "submitted_at": "2025-12-18T01:27:10.959390"
+  },
+  {
+    "id": 3248,
+    "assignment_id": 223,
+    "student_id": 1014,
+    "score": 80.1,
+    "submitted_at": "2026-01-05T04:21:45.108959"
+  },
+  {
+    "id": 3249,
+    "assignment_id": 231,
+    "student_id": 1014,
+    "score": 50.0,
+    "submitted_at": "2026-01-17T03:39:58.955920"
+  },
+  {
+    "id": 3250,
+    "assignment_id": 210,
+    "student_id": 1014,
+    "score": 50.6,
+    "submitted_at": "2025-12-12T06:40:19.658608"
+  },
+  {
+    "id": 3251,
+    "assignment_id": 226,
+    "student_id": 1014,
+    "score": 99.9,
+    "submitted_at": "2025-12-23T23:30:26.902181"
+  },
+  {
+    "id": 3252,
+    "assignment_id": 234,
+    "student_id": 1014,
+    "score": 99.0,
+    "submitted_at": "2025-12-02T18:32:30.348781"
+  },
+  {
+    "id": 3253,
+    "assignment_id": 213,
+    "student_id": 1014,
+    "score": 69.1,
+    "submitted_at": "2026-02-07T13:50:12.558736"
+  },
+  {
+    "id": 3254,
+    "assignment_id": 221,
+    "student_id": 1014,
+    "score": 54.0,
+    "submitted_at": "2026-01-21T21:32:28.767476"
+  },
+  {
+    "id": 3255,
+    "assignment_id": 229,
+    "student_id": 1014,
+    "score": 69.1,
+    "submitted_at": "2026-02-02T04:46:40.454547"
+  },
+  {
+    "id": 3256,
+    "assignment_id": 206,
+    "student_id": 1014,
+    "score": 80.4,
+    "submitted_at": "2025-12-23T14:20:58.200629"
+  },
+  {
+    "id": 3257,
+    "assignment_id": 214,
+    "student_id": 1014,
+    "score": 51.6,
+    "submitted_at": "2026-02-12T22:07:35.074213"
+  },
+  {
+    "id": 3258,
+    "assignment_id": 222,
+    "student_id": 1014,
+    "score": 88.9,
+    "submitted_at": "2026-01-10T07:32:41.806666"
+  },
+  {
+    "id": 3259,
+    "assignment_id": 230,
+    "student_id": 1014,
+    "score": 63.4,
+    "submitted_at": "2025-11-22T14:48:29.990657"
+  },
+  {
+    "id": 3260,
+    "assignment_id": 203,
+    "student_id": 1015,
+    "score": 50.0,
+    "submitted_at": "2026-01-26T04:28:55.760373"
+  },
+  {
+    "id": 3261,
+    "assignment_id": 204,
+    "student_id": 1015,
+    "score": 50.0,
+    "submitted_at": "2025-11-23T09:35:06.918665"
+  },
+  {
+    "id": 3262,
+    "assignment_id": 212,
+    "student_id": 1015,
+    "score": 69.1,
+    "submitted_at": "2026-01-23T11:29:36.847858"
+  },
+  {
+    "id": 3263,
+    "assignment_id": 220,
+    "student_id": 1015,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T21:03:10.461772"
+  },
+  {
+    "id": 3264,
+    "assignment_id": 228,
+    "student_id": 1015,
+    "score": 56.5,
+    "submitted_at": "2026-02-06T14:10:28.830627"
+  },
+  {
+    "id": 3265,
+    "assignment_id": 208,
+    "student_id": 1015,
+    "score": 50.0,
+    "submitted_at": "2025-11-25T18:58:41.918167"
+  },
+  {
+    "id": 3266,
+    "assignment_id": 216,
+    "student_id": 1015,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T03:42:57.328509"
+  },
+  {
+    "id": 3267,
+    "assignment_id": 224,
+    "student_id": 1015,
+    "score": 69.7,
+    "submitted_at": "2026-01-22T19:25:21.974550"
+  },
+  {
+    "id": 3268,
+    "assignment_id": 232,
+    "student_id": 1015,
+    "score": 56.5,
+    "submitted_at": "2026-01-29T00:31:36.714581"
+  },
+  {
+    "id": 3269,
+    "assignment_id": 206,
+    "student_id": 1015,
+    "score": 99.8,
+    "submitted_at": "2025-12-04T11:21:26.270356"
+  },
+  {
+    "id": 3270,
+    "assignment_id": 214,
+    "student_id": 1015,
+    "score": 91.2,
+    "submitted_at": "2025-12-25T05:27:09.779562"
+  },
+  {
+    "id": 3271,
+    "assignment_id": 222,
+    "student_id": 1015,
+    "score": 56.1,
+    "submitted_at": "2025-11-26T22:20:56.320064"
+  },
+  {
+    "id": 3272,
+    "assignment_id": 205,
+    "student_id": 1015,
+    "score": 94.9,
+    "submitted_at": "2025-12-04T00:22:27.935134"
+  },
+  {
+    "id": 3273,
+    "assignment_id": 213,
+    "student_id": 1015,
+    "score": 52.6,
+    "submitted_at": "2026-02-18T14:04:38.549958"
+  },
+  {
+    "id": 3274,
+    "assignment_id": 221,
+    "student_id": 1015,
+    "score": 54.2,
+    "submitted_at": "2026-01-06T01:24:03.291628"
+  },
+  {
+    "id": 3275,
+    "assignment_id": 229,
+    "student_id": 1015,
+    "score": 56.9,
+    "submitted_at": "2026-01-29T18:43:01.654639"
+  },
+  {
+    "id": 3276,
+    "assignment_id": 203,
+    "student_id": 1016,
+    "score": 50.0,
+    "submitted_at": "2025-12-25T03:22:08.380636"
+  },
+  {
+    "id": 3277,
+    "assignment_id": 220,
+    "student_id": 1016,
+    "score": 50.0,
+    "submitted_at": "2026-01-19T04:26:59.557289"
+  },
+  {
+    "id": 3278,
+    "assignment_id": 228,
+    "student_id": 1016,
+    "score": 57.9,
+    "submitted_at": "2025-11-23T10:33:16.183249"
+  },
+  {
+    "id": 3279,
+    "assignment_id": 210,
+    "student_id": 1016,
+    "score": 51.8,
+    "submitted_at": "2025-12-18T13:44:56.182295"
+  },
+  {
+    "id": 3280,
+    "assignment_id": 218,
+    "student_id": 1016,
+    "score": 53.5,
+    "submitted_at": "2025-12-25T01:50:00.332610"
+  },
+  {
+    "id": 3281,
+    "assignment_id": 226,
+    "student_id": 1016,
+    "score": 51.3,
+    "submitted_at": "2025-11-30T04:19:48.950050"
+  },
+  {
+    "id": 3282,
+    "assignment_id": 234,
+    "student_id": 1016,
+    "score": 68.4,
+    "submitted_at": "2025-12-23T03:56:21.984304"
+  },
+  {
+    "id": 3283,
+    "assignment_id": 217,
+    "student_id": 1016,
+    "score": 62.2,
+    "submitted_at": "2025-12-10T03:05:46.147682"
+  },
+  {
+    "id": 3284,
+    "assignment_id": 225,
+    "student_id": 1016,
+    "score": 65.5,
+    "submitted_at": "2026-02-05T02:11:03.021955"
+  },
+  {
+    "id": 3285,
+    "assignment_id": 208,
+    "student_id": 1016,
+    "score": 50.0,
+    "submitted_at": "2026-02-18T06:15:11.686693"
+  },
+  {
+    "id": 3286,
+    "assignment_id": 216,
+    "student_id": 1016,
+    "score": 50.0,
+    "submitted_at": "2026-01-31T03:06:55.760615"
+  },
+  {
+    "id": 3287,
+    "assignment_id": 224,
+    "student_id": 1016,
+    "score": 84.0,
+    "submitted_at": "2025-12-11T22:20:46.442510"
+  },
+  {
+    "id": 3288,
+    "assignment_id": 232,
+    "student_id": 1016,
+    "score": 61.2,
+    "submitted_at": "2026-02-14T14:10:18.314173"
+  },
+  {
+    "id": 3289,
+    "assignment_id": 206,
+    "student_id": 1016,
+    "score": 67.2,
+    "submitted_at": "2026-02-16T12:57:25.395021"
+  },
+  {
+    "id": 3290,
+    "assignment_id": 222,
+    "student_id": 1016,
+    "score": 82.0,
+    "submitted_at": "2025-11-29T19:20:38.201454"
+  },
+  {
+    "id": 3291,
+    "assignment_id": 230,
+    "student_id": 1016,
+    "score": 83.8,
+    "submitted_at": "2025-12-18T05:14:11.717906"
+  },
+  {
+    "id": 3292,
+    "assignment_id": 203,
+    "student_id": 1017,
+    "score": 50.0,
+    "submitted_at": "2025-12-16T19:45:41.925322"
+  },
+  {
+    "id": 3293,
+    "assignment_id": 204,
+    "student_id": 1017,
+    "score": 50.0,
+    "submitted_at": "2025-11-21T06:08:08.612268"
+  },
+  {
+    "id": 3294,
+    "assignment_id": 212,
+    "student_id": 1017,
+    "score": 54.1,
+    "submitted_at": "2025-11-22T03:18:06.222153"
+  },
+  {
+    "id": 3295,
+    "assignment_id": 220,
+    "student_id": 1017,
+    "score": 50.0,
+    "submitted_at": "2026-01-31T23:55:43.350594"
+  },
+  {
+    "id": 3296,
+    "assignment_id": 228,
+    "student_id": 1017,
+    "score": 59.4,
+    "submitted_at": "2026-01-13T02:46:31.532438"
+  },
+  {
+    "id": 3297,
+    "assignment_id": 225,
+    "student_id": 1017,
+    "score": 81.8,
+    "submitted_at": "2026-01-23T20:18:49.476611"
+  },
+  {
+    "id": 3298,
+    "assignment_id": 233,
+    "student_id": 1017,
+    "score": 53.8,
+    "submitted_at": "2026-01-02T03:47:16.353813"
+  },
+  {
+    "id": 3299,
+    "assignment_id": 210,
+    "student_id": 1017,
+    "score": 58.0,
+    "submitted_at": "2026-02-13T18:29:47.818857"
+  },
+  {
+    "id": 3300,
+    "assignment_id": 218,
+    "student_id": 1017,
+    "score": 54.2,
+    "submitted_at": "2026-01-11T20:30:36.618248"
+  },
+  {
+    "id": 3301,
+    "assignment_id": 234,
+    "student_id": 1017,
+    "score": 82.9,
+    "submitted_at": "2025-12-18T13:08:48.713156"
+  },
+  {
+    "id": 3302,
+    "assignment_id": 208,
+    "student_id": 1017,
+    "score": 50.0,
+    "submitted_at": "2026-01-24T18:57:52.876587"
+  },
+  {
+    "id": 3303,
+    "assignment_id": 224,
+    "student_id": 1017,
+    "score": 78.9,
+    "submitted_at": "2026-02-04T20:47:39.285136"
+  },
+  {
+    "id": 3304,
+    "assignment_id": 232,
+    "student_id": 1017,
+    "score": 51.1,
+    "submitted_at": "2025-11-26T02:05:21.408765"
+  },
+  {
+    "id": 3305,
+    "assignment_id": 210,
+    "student_id": 1018,
+    "score": 58.7,
+    "submitted_at": "2026-02-08T02:43:08.788173"
+  },
+  {
+    "id": 3306,
+    "assignment_id": 218,
+    "student_id": 1018,
+    "score": 69.2,
+    "submitted_at": "2026-01-23T06:29:51.998890"
+  },
+  {
+    "id": 3307,
+    "assignment_id": 226,
+    "student_id": 1018,
+    "score": 81.9,
+    "submitted_at": "2026-01-26T08:24:21.783159"
+  },
+  {
+    "id": 3308,
+    "assignment_id": 234,
+    "student_id": 1018,
+    "score": 81.4,
+    "submitted_at": "2025-11-23T05:47:02.390475"
+  },
+  {
+    "id": 3309,
+    "assignment_id": 205,
+    "student_id": 1018,
+    "score": 97.8,
+    "submitted_at": "2025-11-27T23:32:29.850413"
+  },
+  {
+    "id": 3310,
+    "assignment_id": 213,
+    "student_id": 1018,
+    "score": 74.1,
+    "submitted_at": "2026-01-02T15:49:59.572084"
+  },
+  {
+    "id": 3311,
+    "assignment_id": 221,
+    "student_id": 1018,
+    "score": 51.5,
+    "submitted_at": "2025-12-13T17:42:09.753012"
+  },
+  {
+    "id": 3312,
+    "assignment_id": 229,
+    "student_id": 1018,
+    "score": 51.2,
+    "submitted_at": "2025-11-30T11:12:50.369843"
+  },
+  {
+    "id": 3313,
+    "assignment_id": 206,
+    "student_id": 1018,
+    "score": 74.2,
+    "submitted_at": "2026-01-14T03:42:41.498681"
+  },
+  {
+    "id": 3314,
+    "assignment_id": 214,
+    "student_id": 1018,
+    "score": 77.3,
+    "submitted_at": "2026-02-13T19:24:07.927835"
+  },
+  {
+    "id": 3315,
+    "assignment_id": 222,
+    "student_id": 1018,
+    "score": 85.9,
+    "submitted_at": "2025-12-01T09:16:12.187551"
+  },
+  {
+    "id": 3316,
+    "assignment_id": 230,
+    "student_id": 1018,
+    "score": 80.1,
+    "submitted_at": "2026-02-12T11:59:11.625220"
+  },
+  {
+    "id": 3317,
+    "assignment_id": 215,
+    "student_id": 1018,
+    "score": 51.9,
+    "submitted_at": "2026-01-11T21:55:39.608411"
+  },
+  {
+    "id": 3318,
+    "assignment_id": 223,
+    "student_id": 1018,
+    "score": 66.0,
+    "submitted_at": "2025-12-08T13:21:13.135741"
+  },
+  {
+    "id": 3319,
+    "assignment_id": 231,
+    "student_id": 1018,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T13:27:16.592099"
+  },
+  {
+    "id": 3320,
+    "assignment_id": 208,
+    "student_id": 1018,
+    "score": 50.0,
+    "submitted_at": "2026-02-09T11:13:33.058111"
+  },
+  {
+    "id": 3321,
+    "assignment_id": 216,
+    "student_id": 1018,
+    "score": 50.0,
+    "submitted_at": "2026-02-08T08:46:52.135781"
+  },
+  {
+    "id": 3322,
+    "assignment_id": 224,
+    "student_id": 1018,
+    "score": 58.7,
+    "submitted_at": "2026-01-18T07:28:15.406062"
+  },
+  {
+    "id": 3323,
+    "assignment_id": 205,
+    "student_id": 1019,
+    "score": 66.4,
+    "submitted_at": "2026-01-17T21:22:11.181242"
+  },
+  {
+    "id": 3324,
+    "assignment_id": 213,
+    "student_id": 1019,
+    "score": 59.4,
+    "submitted_at": "2025-11-22T11:57:58.991400"
+  },
+  {
+    "id": 3325,
+    "assignment_id": 221,
+    "student_id": 1019,
+    "score": 52.5,
+    "submitted_at": "2026-02-01T18:48:39.472668"
+  },
+  {
+    "id": 3326,
+    "assignment_id": 229,
+    "student_id": 1019,
+    "score": 60.0,
+    "submitted_at": "2026-02-06T12:02:48.439296"
+  },
+  {
+    "id": 3327,
+    "assignment_id": 201,
+    "student_id": 1019,
+    "score": 50.9,
+    "submitted_at": "2026-01-28T20:39:39.939882"
+  },
+  {
+    "id": 3328,
+    "assignment_id": 211,
+    "student_id": 1019,
+    "score": 59.7,
+    "submitted_at": "2025-12-27T20:02:07.363489"
+  },
+  {
+    "id": 3329,
+    "assignment_id": 219,
+    "student_id": 1019,
+    "score": 65.9,
+    "submitted_at": "2025-12-20T18:42:56.617989"
+  },
+  {
+    "id": 3330,
+    "assignment_id": 227,
+    "student_id": 1019,
+    "score": 64.8,
+    "submitted_at": "2026-02-04T07:00:09.417921"
+  },
+  {
+    "id": 3331,
+    "assignment_id": 215,
+    "student_id": 1019,
+    "score": 52.4,
+    "submitted_at": "2025-12-17T11:35:46.328902"
+  },
+  {
+    "id": 3332,
+    "assignment_id": 223,
+    "student_id": 1019,
+    "score": 92.4,
+    "submitted_at": "2026-01-21T01:03:51.953583"
+  },
+  {
+    "id": 3333,
+    "assignment_id": 231,
+    "student_id": 1019,
+    "score": 50.0,
+    "submitted_at": "2025-11-29T15:18:10.501199"
+  },
+  {
+    "id": 3334,
+    "assignment_id": 209,
+    "student_id": 1019,
+    "score": 50.0,
+    "submitted_at": "2026-01-04T13:09:04.598282"
+  },
+  {
+    "id": 3335,
+    "assignment_id": 217,
+    "student_id": 1019,
+    "score": 58.0,
+    "submitted_at": "2025-12-11T17:24:41.973949"
+  },
+  {
+    "id": 3336,
+    "assignment_id": 225,
+    "student_id": 1019,
+    "score": 59.7,
+    "submitted_at": "2026-02-05T14:23:32.433140"
+  },
+  {
+    "id": 3337,
+    "assignment_id": 233,
+    "student_id": 1019,
+    "score": 52.2,
+    "submitted_at": "2026-01-30T23:46:33.294878"
+  },
+  {
+    "id": 3338,
+    "assignment_id": 203,
+    "student_id": 1019,
+    "score": 50.0,
+    "submitted_at": "2025-12-30T10:51:51.244066"
+  },
+  {
+    "id": 3339,
+    "assignment_id": 204,
+    "student_id": 1019,
+    "score": 50.0,
+    "submitted_at": "2025-12-31T13:14:18.623185"
+  },
+  {
+    "id": 3340,
+    "assignment_id": 212,
+    "student_id": 1019,
+    "score": 53.0,
+    "submitted_at": "2025-12-13T04:57:22.723571"
+  },
+  {
+    "id": 3341,
+    "assignment_id": 228,
+    "student_id": 1019,
+    "score": 57.9,
+    "submitted_at": "2026-01-19T20:55:53.981428"
+  },
+  {
+    "id": 3342,
+    "assignment_id": 203,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2026-01-26T13:25:06.287620"
+  },
+  {
+    "id": 3343,
+    "assignment_id": 204,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T21:04:18.844779"
+  },
+  {
+    "id": 3344,
+    "assignment_id": 212,
+    "student_id": 1020,
+    "score": 62.5,
+    "submitted_at": "2026-02-16T21:21:18.918488"
+  },
+  {
+    "id": 3345,
+    "assignment_id": 220,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T14:07:19.799276"
+  },
+  {
+    "id": 3346,
+    "assignment_id": 228,
+    "student_id": 1020,
+    "score": 54.7,
+    "submitted_at": "2026-01-24T10:24:07.835515"
+  },
+  {
+    "id": 3347,
+    "assignment_id": 206,
+    "student_id": 1020,
+    "score": 80.3,
+    "submitted_at": "2026-01-11T21:10:59.697200"
+  },
+  {
+    "id": 3348,
+    "assignment_id": 214,
+    "student_id": 1020,
+    "score": 64.8,
+    "submitted_at": "2025-12-24T10:50:00.218962"
+  },
+  {
+    "id": 3349,
+    "assignment_id": 222,
+    "student_id": 1020,
+    "score": 58.1,
+    "submitted_at": "2025-12-28T08:38:32.208344"
+  },
+  {
+    "id": 3350,
+    "assignment_id": 208,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2026-02-02T01:10:51.755199"
+  },
+  {
+    "id": 3351,
+    "assignment_id": 216,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T16:20:07.087255"
+  },
+  {
+    "id": 3352,
+    "assignment_id": 224,
+    "student_id": 1020,
+    "score": 74.8,
+    "submitted_at": "2025-12-15T16:41:22.556548"
+  },
+  {
+    "id": 3353,
+    "assignment_id": 232,
+    "student_id": 1020,
+    "score": 70.4,
+    "submitted_at": "2025-11-26T11:58:23.662618"
+  },
+  {
+    "id": 3354,
+    "assignment_id": 207,
+    "student_id": 1020,
+    "score": 73.6,
+    "submitted_at": "2026-01-21T14:01:21.278023"
+  },
+  {
+    "id": 3355,
+    "assignment_id": 223,
+    "student_id": 1020,
+    "score": 89.8,
+    "submitted_at": "2025-11-23T00:54:12.725597"
+  },
+  {
+    "id": 3356,
+    "assignment_id": 231,
+    "student_id": 1020,
+    "score": 50.0,
+    "submitted_at": "2026-01-19T19:54:33.964371"
+  },
+  {
+    "id": 3357,
+    "assignment_id": 205,
+    "student_id": 1020,
+    "score": 73.7,
+    "submitted_at": "2026-01-24T14:27:22.618006"
+  },
+  {
+    "id": 3358,
+    "assignment_id": 221,
+    "student_id": 1020,
+    "score": 53.9,
+    "submitted_at": "2026-01-16T21:13:30.756994"
+  },
+  {
+    "id": 3359,
+    "assignment_id": 229,
+    "student_id": 1020,
+    "score": 64.4,
+    "submitted_at": "2025-12-27T02:49:20.088125"
+  },
+  {
+    "id": 3360,
+    "assignment_id": 210,
+    "student_id": 1020,
+    "score": 52.6,
+    "submitted_at": "2025-12-16T19:48:55.335159"
+  },
+  {
+    "id": 3361,
+    "assignment_id": 218,
+    "student_id": 1020,
+    "score": 65.5,
+    "submitted_at": "2025-11-29T14:38:11.859814"
+  },
+  {
+    "id": 3362,
+    "assignment_id": 234,
+    "student_id": 1020,
+    "score": 84.0,
+    "submitted_at": "2025-12-19T11:14:55.367942"
+  },
+  {
+    "id": 3363,
+    "assignment_id": 210,
+    "student_id": 1021,
+    "score": 64.2,
+    "submitted_at": "2026-02-17T21:53:55.281816"
+  },
+  {
+    "id": 3364,
+    "assignment_id": 218,
+    "student_id": 1021,
+    "score": 50.5,
+    "submitted_at": "2026-02-09T08:38:15.829183"
+  },
+  {
+    "id": 3365,
+    "assignment_id": 226,
+    "student_id": 1021,
+    "score": 57.6,
+    "submitted_at": "2025-11-25T06:18:37.956579"
+  },
+  {
+    "id": 3366,
+    "assignment_id": 234,
+    "student_id": 1021,
+    "score": 70.5,
+    "submitted_at": "2025-12-22T10:16:00.351267"
+  },
+  {
+    "id": 3367,
+    "assignment_id": 207,
+    "student_id": 1021,
+    "score": 82.2,
+    "submitted_at": "2026-01-05T03:07:31.182835"
+  },
+  {
+    "id": 3368,
+    "assignment_id": 223,
+    "student_id": 1021,
+    "score": 53.1,
+    "submitted_at": "2025-11-30T13:08:17.186868"
+  },
+  {
+    "id": 3369,
+    "assignment_id": 231,
+    "student_id": 1021,
+    "score": 50.0,
+    "submitted_at": "2026-02-18T18:56:56.706779"
+  },
+  {
+    "id": 3370,
+    "assignment_id": 209,
+    "student_id": 1021,
+    "score": 50.0,
+    "submitted_at": "2025-11-26T16:53:21.351575"
+  },
+  {
+    "id": 3371,
+    "assignment_id": 217,
+    "student_id": 1021,
+    "score": 56.3,
+    "submitted_at": "2025-12-17T04:26:59.141984"
+  },
+  {
+    "id": 3372,
+    "assignment_id": 225,
+    "student_id": 1021,
+    "score": 95.6,
+    "submitted_at": "2026-01-29T04:13:10.069711"
+  },
+  {
+    "id": 3373,
+    "assignment_id": 233,
+    "student_id": 1021,
+    "score": 60.6,
+    "submitted_at": "2026-01-23T20:12:28.653412"
+  },
+  {
+    "id": 3374,
+    "assignment_id": 201,
+    "student_id": 1021,
+    "score": 78.8,
+    "submitted_at": "2025-11-28T16:37:57.863869"
+  },
+  {
+    "id": 3375,
+    "assignment_id": 202,
+    "student_id": 1021,
+    "score": 67.3,
+    "submitted_at": "2026-01-07T19:04:28.958289"
+  },
+  {
+    "id": 3376,
+    "assignment_id": 211,
+    "student_id": 1021,
+    "score": 51.9,
+    "submitted_at": "2025-12-16T12:50:40.828708"
+  },
+  {
+    "id": 3377,
+    "assignment_id": 219,
+    "student_id": 1021,
+    "score": 75.1,
+    "submitted_at": "2026-01-12T18:27:08.713455"
+  },
+  {
+    "id": 3378,
+    "assignment_id": 227,
+    "student_id": 1021,
+    "score": 79.2,
+    "submitted_at": "2025-12-28T10:56:40.562396"
+  },
+  {
+    "id": 3379,
+    "assignment_id": 205,
+    "student_id": 1022,
+    "score": 64.5,
+    "submitted_at": "2026-01-16T18:40:04.896095"
+  },
+  {
+    "id": 3380,
+    "assignment_id": 213,
+    "student_id": 1022,
+    "score": 71.1,
+    "submitted_at": "2025-12-19T00:41:15.423586"
+  },
+  {
+    "id": 3381,
+    "assignment_id": 221,
+    "student_id": 1022,
+    "score": 51.7,
+    "submitted_at": "2026-01-19T12:57:07.487575"
+  },
+  {
+    "id": 3382,
+    "assignment_id": 206,
+    "student_id": 1022,
+    "score": 63.7,
+    "submitted_at": "2026-01-20T19:19:33.793340"
+  },
+  {
+    "id": 3383,
+    "assignment_id": 214,
+    "student_id": 1022,
+    "score": 80.4,
+    "submitted_at": "2026-01-20T21:41:27.106857"
+  },
+  {
+    "id": 3384,
+    "assignment_id": 222,
+    "student_id": 1022,
+    "score": 99.0,
+    "submitted_at": "2025-12-28T08:38:52.259761"
+  },
+  {
+    "id": 3385,
+    "assignment_id": 223,
+    "student_id": 1022,
+    "score": 64.4,
+    "submitted_at": "2026-01-28T03:49:33.272218"
+  },
+  {
+    "id": 3386,
+    "assignment_id": 231,
+    "student_id": 1022,
+    "score": 50.0,
+    "submitted_at": "2026-02-14T13:32:39.967413"
+  },
+  {
+    "id": 3387,
+    "assignment_id": 210,
+    "student_id": 1022,
+    "score": 53.8,
+    "submitted_at": "2026-01-01T23:44:59.007627"
+  },
+  {
+    "id": 3388,
+    "assignment_id": 218,
+    "student_id": 1022,
+    "score": 55.1,
+    "submitted_at": "2025-11-20T15:01:03.291102"
+  },
+  {
+    "id": 3389,
+    "assignment_id": 226,
+    "student_id": 1022,
+    "score": 96.7,
+    "submitted_at": "2025-12-21T06:32:26.196658"
+  },
+  {
+    "id": 3390,
+    "assignment_id": 234,
+    "student_id": 1022,
+    "score": 56.9,
+    "submitted_at": "2026-01-27T05:11:30.104458"
+  },
+  {
+    "id": 3391,
+    "assignment_id": 201,
+    "student_id": 1022,
+    "score": 73.5,
+    "submitted_at": "2025-12-30T02:07:52.514210"
+  },
+  {
+    "id": 3392,
+    "assignment_id": 202,
+    "student_id": 1022,
+    "score": 66.7,
+    "submitted_at": "2026-02-07T01:17:37.897905"
+  },
+  {
+    "id": 3393,
+    "assignment_id": 211,
+    "student_id": 1022,
+    "score": 56.4,
+    "submitted_at": "2026-01-27T16:26:18.310288"
+  },
+  {
+    "id": 3394,
+    "assignment_id": 219,
+    "student_id": 1022,
+    "score": 68.6,
+    "submitted_at": "2026-01-31T14:06:58.669627"
+  },
+  {
+    "id": 3395,
+    "assignment_id": 227,
+    "student_id": 1022,
+    "score": 53.0,
+    "submitted_at": "2025-12-09T06:14:48.856791"
+  },
+  {
+    "id": 3396,
+    "assignment_id": 205,
+    "student_id": 1023,
+    "score": 50.3,
+    "submitted_at": "2025-11-28T17:10:25.662992"
+  },
+  {
+    "id": 3397,
+    "assignment_id": 213,
+    "student_id": 1023,
+    "score": 77.9,
+    "submitted_at": "2025-11-22T23:59:27.659455"
+  },
+  {
+    "id": 3398,
+    "assignment_id": 221,
+    "student_id": 1023,
+    "score": 54.7,
+    "submitted_at": "2025-11-23T15:30:29.016447"
+  },
+  {
+    "id": 3399,
+    "assignment_id": 210,
+    "student_id": 1023,
+    "score": 53.0,
+    "submitted_at": "2026-01-06T02:52:22.272758"
+  },
+  {
+    "id": 3400,
+    "assignment_id": 226,
+    "student_id": 1023,
+    "score": 82.3,
+    "submitted_at": "2026-02-13T22:17:33.730329"
+  },
+  {
+    "id": 3401,
+    "assignment_id": 209,
+    "student_id": 1023,
+    "score": 50.0,
+    "submitted_at": "2026-01-08T15:11:23.328891"
+  },
+  {
+    "id": 3402,
+    "assignment_id": 217,
+    "student_id": 1023,
+    "score": 64.5,
+    "submitted_at": "2026-01-12T04:18:37.209638"
+  },
+  {
+    "id": 3403,
+    "assignment_id": 207,
+    "student_id": 1023,
+    "score": 80.9,
+    "submitted_at": "2025-12-23T20:15:57.678263"
+  },
+  {
+    "id": 3404,
+    "assignment_id": 215,
+    "student_id": 1023,
+    "score": 54.6,
+    "submitted_at": "2026-01-11T17:16:34.031987"
+  },
+  {
+    "id": 3405,
+    "assignment_id": 231,
+    "student_id": 1023,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T12:54:47.074008"
+  },
+  {
+    "id": 3406,
+    "assignment_id": 228,
+    "student_id": 1023,
+    "score": 55.7,
+    "submitted_at": "2025-12-05T11:55:42.279631"
+  },
+  {
+    "id": 3407,
+    "assignment_id": 208,
+    "student_id": 1023,
+    "score": 50.0,
+    "submitted_at": "2025-12-09T20:18:19.841764"
+  },
+  {
+    "id": 3408,
+    "assignment_id": 216,
+    "student_id": 1023,
+    "score": 50.0,
+    "submitted_at": "2026-01-31T16:31:14.945077"
+  },
+  {
+    "id": 3409,
+    "assignment_id": 224,
+    "student_id": 1023,
+    "score": 67.3,
+    "submitted_at": "2026-02-08T07:44:45.268355"
+  },
+  {
+    "id": 3410,
+    "assignment_id": 202,
+    "student_id": 1024,
+    "score": 54.8,
+    "submitted_at": "2026-01-14T14:36:08.919700"
+  },
+  {
+    "id": 3411,
+    "assignment_id": 211,
+    "student_id": 1024,
+    "score": 51.6,
+    "submitted_at": "2025-12-28T09:52:38.043927"
+  },
+  {
+    "id": 3412,
+    "assignment_id": 219,
+    "student_id": 1024,
+    "score": 61.6,
+    "submitted_at": "2025-12-09T19:20:26.693468"
+  },
+  {
+    "id": 3413,
+    "assignment_id": 227,
+    "student_id": 1024,
+    "score": 72.1,
+    "submitted_at": "2026-02-15T02:35:43.654057"
+  },
+  {
+    "id": 3414,
+    "assignment_id": 210,
+    "student_id": 1024,
+    "score": 58.5,
+    "submitted_at": "2025-12-27T15:14:46.160579"
+  },
+  {
+    "id": 3415,
+    "assignment_id": 218,
+    "student_id": 1024,
+    "score": 54.4,
+    "submitted_at": "2025-12-22T15:02:56.428597"
+  },
+  {
+    "id": 3416,
+    "assignment_id": 213,
+    "student_id": 1024,
+    "score": 52.6,
+    "submitted_at": "2025-12-25T14:53:43.257660"
+  },
+  {
+    "id": 3417,
+    "assignment_id": 221,
+    "student_id": 1024,
+    "score": 50.9,
+    "submitted_at": "2026-02-15T09:51:46.268990"
+  },
+  {
+    "id": 3418,
+    "assignment_id": 229,
+    "student_id": 1024,
+    "score": 56.5,
+    "submitted_at": "2025-11-30T19:26:23.333615"
+  },
+  {
+    "id": 3419,
+    "assignment_id": 203,
+    "student_id": 1024,
+    "score": 50.0,
+    "submitted_at": "2026-02-18T08:17:33.651466"
+  },
+  {
+    "id": 3420,
+    "assignment_id": 204,
+    "student_id": 1024,
+    "score": 50.0,
+    "submitted_at": "2026-01-07T15:04:27.920095"
+  },
+  {
+    "id": 3421,
+    "assignment_id": 220,
+    "student_id": 1024,
+    "score": 50.0,
+    "submitted_at": "2026-01-11T04:18:01.363791"
+  },
+  {
+    "id": 3422,
+    "assignment_id": 228,
+    "student_id": 1024,
+    "score": 56.5,
+    "submitted_at": "2026-01-13T05:20:02.193421"
+  },
+  {
+    "id": 3423,
+    "assignment_id": 208,
+    "student_id": 1024,
+    "score": 50.0,
+    "submitted_at": "2026-01-20T03:51:56.736177"
+  },
+  {
+    "id": 3424,
+    "assignment_id": 216,
+    "student_id": 1024,
+    "score": 50.0,
+    "submitted_at": "2026-02-09T05:55:10.494295"
+  },
+  {
+    "id": 3425,
+    "assignment_id": 224,
+    "student_id": 1024,
+    "score": 67.6,
+    "submitted_at": "2026-02-06T03:52:25.346926"
+  },
+  {
+    "id": 3426,
+    "assignment_id": 205,
+    "student_id": 1025,
+    "score": 65.5,
+    "submitted_at": "2025-12-18T02:30:00.341466"
+  },
+  {
+    "id": 3427,
+    "assignment_id": 213,
+    "student_id": 1025,
+    "score": 77.5,
+    "submitted_at": "2025-12-05T10:33:24.799706"
+  },
+  {
+    "id": 3428,
+    "assignment_id": 221,
+    "student_id": 1025,
+    "score": 53.1,
+    "submitted_at": "2026-01-05T18:31:41.775599"
+  },
+  {
+    "id": 3429,
+    "assignment_id": 229,
+    "student_id": 1025,
+    "score": 52.7,
+    "submitted_at": "2025-12-14T19:20:17.569961"
+  },
+  {
+    "id": 3430,
+    "assignment_id": 206,
+    "student_id": 1025,
+    "score": 87.4,
+    "submitted_at": "2025-12-08T00:31:00.793716"
+  },
+  {
+    "id": 3431,
+    "assignment_id": 214,
+    "student_id": 1025,
+    "score": 68.7,
+    "submitted_at": "2025-11-24T10:43:55.294217"
+  },
+  {
+    "id": 3432,
+    "assignment_id": 222,
+    "student_id": 1025,
+    "score": 73.5,
+    "submitted_at": "2025-12-31T16:17:13.843939"
+  },
+  {
+    "id": 3433,
+    "assignment_id": 230,
+    "student_id": 1025,
+    "score": 73.2,
+    "submitted_at": "2026-02-16T14:51:28.011975"
+  },
+  {
+    "id": 3434,
+    "assignment_id": 203,
+    "student_id": 1025,
+    "score": 50.0,
+    "submitted_at": "2026-01-27T00:38:22.999193"
+  },
+  {
+    "id": 3435,
+    "assignment_id": 204,
+    "student_id": 1025,
+    "score": 50.0,
+    "submitted_at": "2026-01-25T08:00:09.525599"
+  },
+  {
+    "id": 3436,
+    "assignment_id": 212,
+    "student_id": 1025,
+    "score": 61.2,
+    "submitted_at": "2025-12-29T20:31:01.127378"
+  },
+  {
+    "id": 3437,
+    "assignment_id": 220,
+    "student_id": 1025,
+    "score": 50.0,
+    "submitted_at": "2026-01-10T06:01:23.825097"
+  },
+  {
+    "id": 3438,
+    "assignment_id": 228,
+    "student_id": 1025,
+    "score": 50.6,
+    "submitted_at": "2026-02-18T19:23:02.091268"
+  },
+  {
+    "id": 3439,
+    "assignment_id": 201,
+    "student_id": 1025,
+    "score": 70.2,
+    "submitted_at": "2026-02-06T08:40:34.767776"
+  },
+  {
+    "id": 3440,
+    "assignment_id": 202,
+    "student_id": 1025,
+    "score": 53.7,
+    "submitted_at": "2026-01-15T03:02:19.371408"
+  },
+  {
+    "id": 3441,
+    "assignment_id": 211,
+    "student_id": 1025,
+    "score": 55.2,
+    "submitted_at": "2025-12-09T04:21:18.662291"
+  },
+  {
+    "id": 3442,
+    "assignment_id": 219,
+    "student_id": 1025,
+    "score": 59.2,
+    "submitted_at": "2026-01-12T07:06:35.707302"
+  },
+  {
+    "id": 3443,
+    "assignment_id": 227,
+    "student_id": 1025,
+    "score": 52.7,
+    "submitted_at": "2026-01-09T00:07:31.090127"
+  },
+  {
+    "id": 3444,
+    "assignment_id": 210,
+    "student_id": 1025,
+    "score": 62.1,
+    "submitted_at": "2026-02-08T09:42:55.853803"
+  },
+  {
+    "id": 3445,
+    "assignment_id": 218,
+    "student_id": 1025,
+    "score": 62.8,
+    "submitted_at": "2025-11-29T14:37:49.909751"
+  },
+  {
+    "id": 3446,
+    "assignment_id": 226,
+    "student_id": 1025,
+    "score": 52.9,
+    "submitted_at": "2025-12-30T23:06:25.450583"
+  },
+  {
+    "id": 3447,
+    "assignment_id": 234,
+    "student_id": 1025,
+    "score": 90.3,
+    "submitted_at": "2026-02-08T03:09:12.196177"
+  },
+  {
+    "id": 3448,
+    "assignment_id": 208,
+    "student_id": 1025,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T22:06:03.227243"
+  },
+  {
+    "id": 3449,
+    "assignment_id": 224,
+    "student_id": 1025,
+    "score": 70.2,
+    "submitted_at": "2025-12-04T02:08:46.105589"
+  },
+  {
+    "id": 3450,
+    "assignment_id": 232,
+    "student_id": 1025,
+    "score": 58.6,
+    "submitted_at": "2025-11-19T20:58:57.014690"
+  },
+  {
+    "id": 3451,
+    "assignment_id": 205,
+    "student_id": 1026,
+    "score": 99.7,
+    "submitted_at": "2026-01-20T16:08:51.171926"
+  },
+  {
+    "id": 3452,
+    "assignment_id": 221,
+    "student_id": 1026,
+    "score": 54.7,
+    "submitted_at": "2025-12-19T19:52:45.821641"
+  },
+  {
+    "id": 3453,
+    "assignment_id": 229,
+    "student_id": 1026,
+    "score": 58.2,
+    "submitted_at": "2025-11-20T09:33:54.971640"
+  },
+  {
+    "id": 3454,
+    "assignment_id": 203,
+    "student_id": 1026,
+    "score": 50.0,
+    "submitted_at": "2025-12-24T12:48:58.014411"
+  },
+  {
+    "id": 3455,
+    "assignment_id": 212,
+    "student_id": 1026,
+    "score": 60.5,
+    "submitted_at": "2025-11-28T01:47:24.614381"
+  },
+  {
+    "id": 3456,
+    "assignment_id": 228,
+    "student_id": 1026,
+    "score": 58.7,
+    "submitted_at": "2025-12-21T06:07:03.853029"
+  },
+  {
+    "id": 3457,
+    "assignment_id": 217,
+    "student_id": 1026,
+    "score": 63.7,
+    "submitted_at": "2026-02-16T00:03:07.080146"
+  },
+  {
+    "id": 3458,
+    "assignment_id": 225,
+    "student_id": 1026,
+    "score": 77.0,
+    "submitted_at": "2026-01-20T01:32:43.393459"
+  },
+  {
+    "id": 3459,
+    "assignment_id": 233,
+    "student_id": 1026,
+    "score": 60.4,
+    "submitted_at": "2025-12-06T08:49:13.667213"
+  },
+  {
+    "id": 3460,
+    "assignment_id": 208,
+    "student_id": 1026,
+    "score": 50.0,
+    "submitted_at": "2026-01-20T05:04:12.919438"
+  },
+  {
+    "id": 3461,
+    "assignment_id": 216,
+    "student_id": 1026,
+    "score": 50.0,
+    "submitted_at": "2026-01-05T19:30:42.518106"
+  },
+  {
+    "id": 3462,
+    "assignment_id": 224,
+    "student_id": 1026,
+    "score": 50.1,
+    "submitted_at": "2026-02-13T21:43:20.857209"
+  },
+  {
+    "id": 3463,
+    "assignment_id": 232,
+    "student_id": 1026,
+    "score": 57.5,
+    "submitted_at": "2025-12-25T09:27:43.978001"
+  },
+  {
+    "id": 3464,
+    "assignment_id": 206,
+    "student_id": 1026,
+    "score": 77.2,
+    "submitted_at": "2025-12-22T09:01:41.365678"
+  },
+  {
+    "id": 3465,
+    "assignment_id": 214,
+    "student_id": 1026,
+    "score": 87.1,
+    "submitted_at": "2025-12-29T12:03:36.102331"
+  },
+  {
+    "id": 3466,
+    "assignment_id": 222,
+    "student_id": 1026,
+    "score": 67.3,
+    "submitted_at": "2026-02-02T00:11:11.018972"
+  },
+  {
+    "id": 3467,
+    "assignment_id": 230,
+    "student_id": 1026,
+    "score": 82.8,
+    "submitted_at": "2025-12-17T09:19:21.915778"
+  },
+  {
+    "id": 3468,
+    "assignment_id": 203,
+    "student_id": 1027,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T23:26:02.577101"
+  },
+  {
+    "id": 3469,
+    "assignment_id": 212,
+    "student_id": 1027,
+    "score": 69.2,
+    "submitted_at": "2026-02-01T01:59:17.960857"
+  },
+  {
+    "id": 3470,
+    "assignment_id": 228,
+    "student_id": 1027,
+    "score": 52.1,
+    "submitted_at": "2026-02-05T21:46:34.760366"
+  },
+  {
+    "id": 3471,
+    "assignment_id": 206,
+    "student_id": 1027,
+    "score": 51.7,
+    "submitted_at": "2026-02-16T01:55:06.488062"
+  },
+  {
+    "id": 3472,
+    "assignment_id": 214,
+    "student_id": 1027,
+    "score": 81.6,
+    "submitted_at": "2026-01-22T08:15:07.434788"
+  },
+  {
+    "id": 3473,
+    "assignment_id": 222,
+    "student_id": 1027,
+    "score": 87.0,
+    "submitted_at": "2026-02-14T20:33:01.933661"
+  },
+  {
+    "id": 3474,
+    "assignment_id": 230,
+    "student_id": 1027,
+    "score": 58.2,
+    "submitted_at": "2025-12-15T02:04:03.077763"
+  },
+  {
+    "id": 3475,
+    "assignment_id": 201,
+    "student_id": 1027,
+    "score": 84.5,
+    "submitted_at": "2026-01-03T08:20:36.918437"
+  },
+  {
+    "id": 3476,
+    "assignment_id": 202,
+    "student_id": 1027,
+    "score": 62.6,
+    "submitted_at": "2025-12-05T00:07:18.433130"
+  },
+  {
+    "id": 3477,
+    "assignment_id": 211,
+    "student_id": 1027,
+    "score": 58.2,
+    "submitted_at": "2025-12-20T23:43:33.728461"
+  },
+  {
+    "id": 3478,
+    "assignment_id": 219,
+    "student_id": 1027,
+    "score": 64.4,
+    "submitted_at": "2025-11-22T22:23:58.571918"
+  },
+  {
+    "id": 3479,
+    "assignment_id": 227,
+    "student_id": 1027,
+    "score": 70.2,
+    "submitted_at": "2025-12-18T22:28:56.238414"
+  },
+  {
+    "id": 3480,
+    "assignment_id": 209,
+    "student_id": 1027,
+    "score": 50.0,
+    "submitted_at": "2026-02-15T04:07:15.217017"
+  },
+  {
+    "id": 3481,
+    "assignment_id": 217,
+    "student_id": 1027,
+    "score": 63.2,
+    "submitted_at": "2026-02-04T19:59:34.277689"
+  },
+  {
+    "id": 3482,
+    "assignment_id": 225,
+    "student_id": 1027,
+    "score": 65.0,
+    "submitted_at": "2026-02-04T19:37:56.513173"
+  },
+  {
+    "id": 3483,
+    "assignment_id": 233,
+    "student_id": 1027,
+    "score": 78.5,
+    "submitted_at": "2026-01-04T10:32:54.345208"
+  },
+  {
+    "id": 3484,
+    "assignment_id": 226,
+    "student_id": 1027,
+    "score": 71.4,
+    "submitted_at": "2025-11-29T05:41:22.989194"
+  },
+  {
+    "id": 3485,
+    "assignment_id": 234,
+    "student_id": 1027,
+    "score": 98.6,
+    "submitted_at": "2025-12-31T14:54:21.643115"
+  },
+  {
+    "id": 3486,
+    "assignment_id": 216,
+    "student_id": 1027,
+    "score": 50.0,
+    "submitted_at": "2025-12-30T14:38:15.494907"
+  },
+  {
+    "id": 3487,
+    "assignment_id": 224,
+    "student_id": 1027,
+    "score": 64.6,
+    "submitted_at": "2026-02-02T04:33:26.950291"
+  },
+  {
+    "id": 3488,
+    "assignment_id": 232,
+    "student_id": 1027,
+    "score": 59.4,
+    "submitted_at": "2026-02-06T09:36:58.091979"
+  },
+  {
+    "id": 3489,
+    "assignment_id": 207,
+    "student_id": 1028,
+    "score": 66.6,
+    "submitted_at": "2026-01-19T01:16:02.662601"
+  },
+  {
+    "id": 3490,
+    "assignment_id": 223,
+    "student_id": 1028,
+    "score": 85.4,
+    "submitted_at": "2025-11-30T13:42:47.138785"
+  },
+  {
+    "id": 3491,
+    "assignment_id": 213,
+    "student_id": 1028,
+    "score": 79.0,
+    "submitted_at": "2026-01-05T04:33:17.167729"
+  },
+  {
+    "id": 3492,
+    "assignment_id": 221,
+    "student_id": 1028,
+    "score": 50.7,
+    "submitted_at": "2025-12-06T06:10:59.813753"
+  },
+  {
+    "id": 3493,
+    "assignment_id": 229,
+    "student_id": 1028,
+    "score": 54.1,
+    "submitted_at": "2025-12-12T14:43:20.230972"
+  },
+  {
+    "id": 3494,
+    "assignment_id": 208,
+    "student_id": 1028,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T05:02:14.141861"
+  },
+  {
+    "id": 3495,
+    "assignment_id": 224,
+    "student_id": 1028,
+    "score": 75.4,
+    "submitted_at": "2026-02-04T12:33:25.256069"
+  },
+  {
+    "id": 3496,
+    "assignment_id": 232,
+    "student_id": 1028,
+    "score": 56.7,
+    "submitted_at": "2025-11-24T16:08:18.012549"
+  },
+  {
+    "id": 3497,
+    "assignment_id": 210,
+    "student_id": 1028,
+    "score": 59.0,
+    "submitted_at": "2026-02-08T19:44:24.828347"
+  },
+  {
+    "id": 3498,
+    "assignment_id": 226,
+    "student_id": 1028,
+    "score": 88.1,
+    "submitted_at": "2025-12-02T10:52:08.803410"
+  },
+  {
+    "id": 3499,
+    "assignment_id": 234,
+    "student_id": 1028,
+    "score": 77.9,
+    "submitted_at": "2026-01-04T23:32:39.488268"
+  },
+  {
+    "id": 3500,
+    "assignment_id": 207,
+    "student_id": 1029,
+    "score": 80.4,
+    "submitted_at": "2025-12-20T06:36:03.565347"
+  },
+  {
+    "id": 3501,
+    "assignment_id": 215,
+    "student_id": 1029,
+    "score": 54.8,
+    "submitted_at": "2025-12-12T11:10:11.208503"
+  },
+  {
+    "id": 3502,
+    "assignment_id": 223,
+    "student_id": 1029,
+    "score": 96.9,
+    "submitted_at": "2026-01-21T01:31:20.167023"
+  },
+  {
+    "id": 3503,
+    "assignment_id": 201,
+    "student_id": 1029,
+    "score": 90.0,
+    "submitted_at": "2025-11-26T01:47:37.072764"
+  },
+  {
+    "id": 3504,
+    "assignment_id": 202,
+    "student_id": 1029,
+    "score": 56.1,
+    "submitted_at": "2026-01-21T20:40:57.931315"
+  },
+  {
+    "id": 3505,
+    "assignment_id": 211,
+    "student_id": 1029,
+    "score": 52.0,
+    "submitted_at": "2025-12-01T09:13:25.009878"
+  },
+  {
+    "id": 3506,
+    "assignment_id": 227,
+    "student_id": 1029,
+    "score": 73.3,
+    "submitted_at": "2026-01-23T06:57:48.909831"
+  },
+  {
+    "id": 3507,
+    "assignment_id": 209,
+    "student_id": 1029,
+    "score": 50.0,
+    "submitted_at": "2025-12-20T06:38:53.860780"
+  },
+  {
+    "id": 3508,
+    "assignment_id": 217,
+    "student_id": 1029,
+    "score": 55.2,
+    "submitted_at": "2025-12-02T08:50:16.300517"
+  },
+  {
+    "id": 3509,
+    "assignment_id": 225,
+    "student_id": 1029,
+    "score": 74.9,
+    "submitted_at": "2025-12-17T00:07:53.850121"
+  },
+  {
+    "id": 3510,
+    "assignment_id": 233,
+    "student_id": 1029,
+    "score": 79.4,
+    "submitted_at": "2025-12-22T08:49:16.981399"
+  },
+  {
+    "id": 3511,
+    "assignment_id": 210,
+    "student_id": 1029,
+    "score": 62.6,
+    "submitted_at": "2025-12-09T11:20:50.651966"
+  },
+  {
+    "id": 3512,
+    "assignment_id": 226,
+    "student_id": 1029,
+    "score": 70.7,
+    "submitted_at": "2026-01-14T09:09:10.256496"
+  },
+  {
+    "id": 3513,
+    "assignment_id": 234,
+    "student_id": 1029,
+    "score": 61.1,
+    "submitted_at": "2025-12-12T05:27:13.793771"
+  },
+  {
+    "id": 3514,
+    "assignment_id": 207,
+    "student_id": 1030,
+    "score": 59.1,
+    "submitted_at": "2025-11-22T14:03:12.737793"
+  },
+  {
+    "id": 3515,
+    "assignment_id": 223,
+    "student_id": 1030,
+    "score": 70.9,
+    "submitted_at": "2026-01-16T22:18:36.367657"
+  },
+  {
+    "id": 3516,
+    "assignment_id": 231,
+    "student_id": 1030,
+    "score": 50.0,
+    "submitted_at": "2025-12-08T07:14:21.920428"
+  },
+  {
+    "id": 3517,
+    "assignment_id": 201,
+    "student_id": 1030,
+    "score": 83.3,
+    "submitted_at": "2025-12-03T15:51:34.330129"
+  },
+  {
+    "id": 3518,
+    "assignment_id": 202,
+    "student_id": 1030,
+    "score": 66.4,
+    "submitted_at": "2026-01-02T09:48:23.507284"
+  },
+  {
+    "id": 3519,
+    "assignment_id": 211,
+    "student_id": 1030,
+    "score": 52.6,
+    "submitted_at": "2026-02-03T05:14:23.850940"
+  },
+  {
+    "id": 3520,
+    "assignment_id": 208,
+    "student_id": 1030,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T08:58:19.954185"
+  },
+  {
+    "id": 3521,
+    "assignment_id": 216,
+    "student_id": 1030,
+    "score": 50.0,
+    "submitted_at": "2025-12-03T05:56:06.617104"
+  },
+  {
+    "id": 3522,
+    "assignment_id": 224,
+    "student_id": 1030,
+    "score": 75.2,
+    "submitted_at": "2026-01-08T18:09:05.055310"
+  },
+  {
+    "id": 3523,
+    "assignment_id": 232,
+    "student_id": 1030,
+    "score": 72.9,
+    "submitted_at": "2026-02-12T18:09:09.838061"
+  },
+  {
+    "id": 3524,
+    "assignment_id": 206,
+    "student_id": 1030,
+    "score": 82.1,
+    "submitted_at": "2026-01-04T23:55:23.994403"
+  },
+  {
+    "id": 3525,
+    "assignment_id": 214,
+    "student_id": 1030,
+    "score": 51.5,
+    "submitted_at": "2026-01-02T11:56:27.514445"
+  },
+  {
+    "id": 3526,
+    "assignment_id": 208,
+    "student_id": 1031,
+    "score": 50.0,
+    "submitted_at": "2026-01-19T05:52:20.676006"
+  },
+  {
+    "id": 3527,
+    "assignment_id": 216,
+    "student_id": 1031,
+    "score": 50.0,
+    "submitted_at": "2025-12-27T02:50:58.404599"
+  },
+  {
+    "id": 3528,
+    "assignment_id": 224,
+    "student_id": 1031,
+    "score": 74.8,
+    "submitted_at": "2026-02-08T19:37:38.253145"
+  },
+  {
+    "id": 3529,
+    "assignment_id": 232,
+    "student_id": 1031,
+    "score": 62.6,
+    "submitted_at": "2025-12-24T04:05:10.483344"
+  },
+  {
+    "id": 3530,
+    "assignment_id": 207,
+    "student_id": 1031,
+    "score": 71.6,
+    "submitted_at": "2025-12-22T02:00:23.948369"
+  },
+  {
+    "id": 3531,
+    "assignment_id": 215,
+    "student_id": 1031,
+    "score": 53.1,
+    "submitted_at": "2025-11-28T08:51:37.558438"
+  },
+  {
+    "id": 3532,
+    "assignment_id": 223,
+    "student_id": 1031,
+    "score": 74.4,
+    "submitted_at": "2026-02-17T03:30:26.478240"
+  },
+  {
+    "id": 3533,
+    "assignment_id": 231,
+    "student_id": 1031,
+    "score": 50.0,
+    "submitted_at": "2026-01-21T20:42:18.474300"
+  },
+  {
+    "id": 3534,
+    "assignment_id": 205,
+    "student_id": 1031,
+    "score": 76.5,
+    "submitted_at": "2025-12-12T08:53:36.107947"
+  },
+  {
+    "id": 3535,
+    "assignment_id": 213,
+    "student_id": 1031,
+    "score": 79.3,
+    "submitted_at": "2025-11-25T22:19:27.426444"
+  },
+  {
+    "id": 3536,
+    "assignment_id": 221,
+    "student_id": 1031,
+    "score": 54.1,
+    "submitted_at": "2026-02-15T06:28:09.536060"
+  },
+  {
+    "id": 3537,
+    "assignment_id": 229,
+    "student_id": 1031,
+    "score": 66.1,
+    "submitted_at": "2025-12-08T02:19:06.971504"
+  },
+  {
+    "id": 3538,
+    "assignment_id": 202,
+    "student_id": 1031,
+    "score": 52.4,
+    "submitted_at": "2026-02-04T13:10:40.397320"
+  },
+  {
+    "id": 3539,
+    "assignment_id": 211,
+    "student_id": 1031,
+    "score": 51.9,
+    "submitted_at": "2025-12-03T16:49:05.430349"
+  },
+  {
+    "id": 3540,
+    "assignment_id": 219,
+    "student_id": 1031,
+    "score": 86.7,
+    "submitted_at": "2026-01-21T21:09:50.395138"
+  },
+  {
+    "id": 3541,
+    "assignment_id": 227,
+    "student_id": 1031,
+    "score": 61.9,
+    "submitted_at": "2025-12-22T12:02:48.102404"
+  },
+  {
+    "id": 3542,
+    "assignment_id": 210,
+    "student_id": 1031,
+    "score": 56.1,
+    "submitted_at": "2026-02-02T22:43:18.915140"
+  },
+  {
+    "id": 3543,
+    "assignment_id": 218,
+    "student_id": 1031,
+    "score": 74.8,
+    "submitted_at": "2026-02-03T08:38:48.426054"
+  },
+  {
+    "id": 3544,
+    "assignment_id": 226,
+    "student_id": 1031,
+    "score": 84.2,
+    "submitted_at": "2026-01-21T15:29:16.430179"
+  },
+  {
+    "id": 3545,
+    "assignment_id": 206,
+    "student_id": 1031,
+    "score": 92.9,
+    "submitted_at": "2025-12-23T09:22:35.345991"
+  },
+  {
+    "id": 3546,
+    "assignment_id": 214,
+    "student_id": 1031,
+    "score": 54.2,
+    "submitted_at": "2025-12-28T12:33:45.028698"
+  },
+  {
+    "id": 3547,
+    "assignment_id": 222,
+    "student_id": 1031,
+    "score": 77.6,
+    "submitted_at": "2025-11-23T01:54:06.543244"
+  },
+  {
+    "id": 3548,
+    "assignment_id": 230,
+    "student_id": 1031,
+    "score": 50.3,
+    "submitted_at": "2026-02-07T12:19:42.244813"
+  },
+  {
+    "id": 3549,
+    "assignment_id": 207,
+    "student_id": 1032,
+    "score": 67.5,
+    "submitted_at": "2025-11-27T02:33:00.370085"
+  },
+  {
+    "id": 3550,
+    "assignment_id": 215,
+    "student_id": 1032,
+    "score": 53.9,
+    "submitted_at": "2025-12-28T22:56:04.425759"
+  },
+  {
+    "id": 3551,
+    "assignment_id": 223,
+    "student_id": 1032,
+    "score": 92.9,
+    "submitted_at": "2025-12-12T15:25:15.651040"
+  },
+  {
+    "id": 3552,
+    "assignment_id": 231,
+    "student_id": 1032,
+    "score": 50.0,
+    "submitted_at": "2026-01-04T00:36:53.669999"
+  },
+  {
+    "id": 3553,
+    "assignment_id": 206,
+    "student_id": 1032,
+    "score": 60.6,
+    "submitted_at": "2025-12-29T22:11:33.748749"
+  },
+  {
+    "id": 3554,
+    "assignment_id": 230,
+    "student_id": 1032,
+    "score": 51.6,
+    "submitted_at": "2026-02-04T15:39:52.825404"
+  },
+  {
+    "id": 3555,
+    "assignment_id": 210,
+    "student_id": 1032,
+    "score": 63.9,
+    "submitted_at": "2026-01-10T07:07:55.385432"
+  },
+  {
+    "id": 3556,
+    "assignment_id": 226,
+    "student_id": 1032,
+    "score": 51.6,
+    "submitted_at": "2025-12-03T04:41:24.849693"
+  },
+  {
+    "id": 3557,
+    "assignment_id": 201,
+    "student_id": 1032,
+    "score": 88.5,
+    "submitted_at": "2026-01-18T16:16:53.248572"
+  },
+  {
+    "id": 3558,
+    "assignment_id": 202,
+    "student_id": 1032,
+    "score": 68.8,
+    "submitted_at": "2026-01-25T02:38:23.848772"
+  },
+  {
+    "id": 3559,
+    "assignment_id": 211,
+    "student_id": 1032,
+    "score": 54.0,
+    "submitted_at": "2026-01-24T09:42:36.490067"
+  },
+  {
+    "id": 3560,
+    "assignment_id": 219,
+    "student_id": 1032,
+    "score": 57.3,
+    "submitted_at": "2025-12-17T23:12:33.980500"
+  },
+  {
+    "id": 3561,
+    "assignment_id": 227,
+    "student_id": 1032,
+    "score": 75.0,
+    "submitted_at": "2026-01-03T01:06:18.093641"
+  },
+  {
+    "id": 3562,
+    "assignment_id": 205,
+    "student_id": 1032,
+    "score": 94.8,
+    "submitted_at": "2025-12-17T05:01:54.977519"
+  },
+  {
+    "id": 3563,
+    "assignment_id": 213,
+    "student_id": 1032,
+    "score": 72.7,
+    "submitted_at": "2026-02-07T18:17:11.247505"
+  },
+  {
+    "id": 3564,
+    "assignment_id": 221,
+    "student_id": 1032,
+    "score": 54.9,
+    "submitted_at": "2026-02-04T19:49:42.762420"
+  },
+  {
+    "id": 3565,
+    "assignment_id": 229,
+    "student_id": 1032,
+    "score": 60.0,
+    "submitted_at": "2026-02-09T06:35:10.129735"
+  },
+  {
+    "id": 3566,
+    "assignment_id": 204,
+    "student_id": 1032,
+    "score": 50.0,
+    "submitted_at": "2025-12-08T09:47:38.894513"
+  },
+  {
+    "id": 3567,
+    "assignment_id": 220,
+    "student_id": 1032,
+    "score": 50.0,
+    "submitted_at": "2025-12-12T20:49:42.165286"
+  },
+  {
+    "id": 3568,
+    "assignment_id": 205,
+    "student_id": 1033,
+    "score": 88.7,
+    "submitted_at": "2026-01-07T20:50:54.208987"
+  },
+  {
+    "id": 3569,
+    "assignment_id": 213,
+    "student_id": 1033,
+    "score": 58.2,
+    "submitted_at": "2026-01-19T21:47:52.877130"
+  },
+  {
+    "id": 3570,
+    "assignment_id": 229,
+    "student_id": 1033,
+    "score": 57.1,
+    "submitted_at": "2026-02-11T13:19:25.068383"
+  },
+  {
+    "id": 3571,
+    "assignment_id": 216,
+    "student_id": 1033,
+    "score": 50.0,
+    "submitted_at": "2025-12-27T17:47:52.982939"
+  },
+  {
+    "id": 3572,
+    "assignment_id": 224,
+    "student_id": 1033,
+    "score": 53.0,
+    "submitted_at": "2025-12-20T17:33:04.800927"
+  },
+  {
+    "id": 3573,
+    "assignment_id": 232,
+    "student_id": 1033,
+    "score": 70.0,
+    "submitted_at": "2025-12-29T14:45:22.345479"
+  },
+  {
+    "id": 3574,
+    "assignment_id": 201,
+    "student_id": 1033,
+    "score": 53.3,
+    "submitted_at": "2025-12-10T04:21:17.958395"
+  },
+  {
+    "id": 3575,
+    "assignment_id": 202,
+    "student_id": 1033,
+    "score": 67.8,
+    "submitted_at": "2026-02-01T08:48:17.447177"
+  },
+  {
+    "id": 3576,
+    "assignment_id": 211,
+    "student_id": 1033,
+    "score": 57.4,
+    "submitted_at": "2026-02-01T05:10:14.083326"
+  },
+  {
+    "id": 3577,
+    "assignment_id": 219,
+    "student_id": 1033,
+    "score": 54.8,
+    "submitted_at": "2026-01-10T02:11:00.557504"
+  },
+  {
+    "id": 3578,
+    "assignment_id": 227,
+    "student_id": 1033,
+    "score": 59.2,
+    "submitted_at": "2026-01-02T10:49:08.993155"
+  },
+  {
+    "id": 3579,
+    "assignment_id": 210,
+    "student_id": 1033,
+    "score": 54.0,
+    "submitted_at": "2026-01-04T14:36:42.115756"
+  },
+  {
+    "id": 3580,
+    "assignment_id": 218,
+    "student_id": 1033,
+    "score": 54.7,
+    "submitted_at": "2025-12-14T15:35:25.027175"
+  },
+  {
+    "id": 3581,
+    "assignment_id": 226,
+    "student_id": 1033,
+    "score": 77.7,
+    "submitted_at": "2026-01-26T18:35:15.281098"
+  },
+  {
+    "id": 3582,
+    "assignment_id": 234,
+    "student_id": 1033,
+    "score": 51.3,
+    "submitted_at": "2026-01-02T14:22:49.303588"
+  },
+  {
+    "id": 3583,
+    "assignment_id": 207,
+    "student_id": 1033,
+    "score": 53.3,
+    "submitted_at": "2026-01-06T08:06:43.801445"
+  },
+  {
+    "id": 3584,
+    "assignment_id": 215,
+    "student_id": 1033,
+    "score": 51.6,
+    "submitted_at": "2026-01-28T15:28:39.309808"
+  },
+  {
+    "id": 3585,
+    "assignment_id": 223,
+    "student_id": 1033,
+    "score": 64.6,
+    "submitted_at": "2026-01-07T03:26:07.391113"
+  },
+  {
+    "id": 3586,
+    "assignment_id": 231,
+    "student_id": 1033,
+    "score": 50.0,
+    "submitted_at": "2026-02-11T17:42:35.768256"
+  },
+  {
+    "id": 3587,
+    "assignment_id": 233,
+    "student_id": 1033,
+    "score": 55.1,
+    "submitted_at": "2026-01-03T08:14:08.490442"
+  },
+  {
+    "id": 3588,
+    "assignment_id": 210,
+    "student_id": 1034,
+    "score": 52.1,
+    "submitted_at": "2025-11-26T13:44:39.066953"
+  },
+  {
+    "id": 3589,
+    "assignment_id": 218,
+    "student_id": 1034,
+    "score": 62.3,
+    "submitted_at": "2025-11-28T23:31:22.165503"
+  },
+  {
+    "id": 3590,
+    "assignment_id": 226,
+    "student_id": 1034,
+    "score": 71.7,
+    "submitted_at": "2026-01-05T12:41:08.812043"
+  },
+  {
+    "id": 3591,
+    "assignment_id": 234,
+    "student_id": 1034,
+    "score": 74.2,
+    "submitted_at": "2025-12-22T13:25:30.265874"
+  },
+  {
+    "id": 3592,
+    "assignment_id": 206,
+    "student_id": 1034,
+    "score": 62.6,
+    "submitted_at": "2025-12-11T20:36:55.129897"
+  },
+  {
+    "id": 3593,
+    "assignment_id": 214,
+    "student_id": 1034,
+    "score": 78.1,
+    "submitted_at": "2026-01-05T06:39:55.733193"
+  },
+  {
+    "id": 3594,
+    "assignment_id": 222,
+    "student_id": 1034,
+    "score": 59.8,
+    "submitted_at": "2026-01-18T20:41:43.556500"
+  },
+  {
+    "id": 3595,
+    "assignment_id": 230,
+    "student_id": 1034,
+    "score": 60.7,
+    "submitted_at": "2026-01-18T09:27:51.018123"
+  },
+  {
+    "id": 3596,
+    "assignment_id": 216,
+    "student_id": 1034,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T12:10:05.264412"
+  },
+  {
+    "id": 3597,
+    "assignment_id": 232,
+    "student_id": 1034,
+    "score": 58.4,
+    "submitted_at": "2025-12-25T20:13:15.183552"
+  },
+  {
+    "id": 3598,
+    "assignment_id": 231,
+    "student_id": 1034,
+    "score": 50.0,
+    "submitted_at": "2026-01-23T18:51:41.223832"
+  },
+  {
+    "id": 3599,
+    "assignment_id": 217,
+    "student_id": 1035,
+    "score": 56.3,
+    "submitted_at": "2025-12-05T08:13:52.185923"
+  },
+  {
+    "id": 3600,
+    "assignment_id": 203,
+    "student_id": 1035,
+    "score": 50.0,
+    "submitted_at": "2025-12-24T14:12:47.098639"
+  },
+  {
+    "id": 3601,
+    "assignment_id": 204,
+    "student_id": 1035,
+    "score": 50.0,
+    "submitted_at": "2026-02-10T08:03:23.525911"
+  },
+  {
+    "id": 3602,
+    "assignment_id": 212,
+    "student_id": 1035,
+    "score": 59.4,
+    "submitted_at": "2026-01-03T23:45:06.184674"
+  },
+  {
+    "id": 3603,
+    "assignment_id": 228,
+    "student_id": 1035,
+    "score": 51.1,
+    "submitted_at": "2026-01-23T03:42:09.948794"
+  },
+  {
+    "id": 3604,
+    "assignment_id": 210,
+    "student_id": 1035,
+    "score": 58.9,
+    "submitted_at": "2026-01-21T17:11:19.513336"
+  },
+  {
+    "id": 3605,
+    "assignment_id": 218,
+    "student_id": 1035,
+    "score": 67.0,
+    "submitted_at": "2025-11-27T00:02:36.127008"
+  },
+  {
+    "id": 3606,
+    "assignment_id": 226,
+    "student_id": 1035,
+    "score": 97.7,
+    "submitted_at": "2025-12-24T16:27:20.143326"
+  },
+  {
+    "id": 3607,
+    "assignment_id": 234,
+    "student_id": 1035,
+    "score": 85.4,
+    "submitted_at": "2026-02-02T17:29:17.150590"
+  },
+  {
+    "id": 3608,
+    "assignment_id": 207,
+    "student_id": 1035,
+    "score": 60.2,
+    "submitted_at": "2026-01-25T11:50:35.773613"
+  },
+  {
+    "id": 3609,
+    "assignment_id": 215,
+    "student_id": 1035,
+    "score": 54.1,
+    "submitted_at": "2026-01-13T19:11:05.590161"
+  },
+  {
+    "id": 3610,
+    "assignment_id": 223,
+    "student_id": 1035,
+    "score": 70.5,
+    "submitted_at": "2026-01-24T08:20:00.430365"
+  },
+  {
+    "id": 3611,
+    "assignment_id": 231,
+    "student_id": 1035,
+    "score": 50.0,
+    "submitted_at": "2026-01-15T12:19:50.693616"
+  },
+  {
+    "id": 3612,
+    "assignment_id": 208,
+    "student_id": 1036,
+    "score": 50.0,
+    "submitted_at": "2025-12-28T14:08:56.129272"
+  },
+  {
+    "id": 3613,
+    "assignment_id": 216,
+    "student_id": 1036,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T10:23:25.507190"
+  },
+  {
+    "id": 3614,
+    "assignment_id": 224,
+    "student_id": 1036,
+    "score": 84.7,
+    "submitted_at": "2026-01-04T03:15:06.660922"
+  },
+  {
+    "id": 3615,
+    "assignment_id": 232,
+    "student_id": 1036,
+    "score": 60.0,
+    "submitted_at": "2026-01-09T03:44:54.998012"
+  },
+  {
+    "id": 3616,
+    "assignment_id": 209,
+    "student_id": 1036,
+    "score": 50.0,
+    "submitted_at": "2026-01-04T23:22:55.959545"
+  },
+  {
+    "id": 3617,
+    "assignment_id": 217,
+    "student_id": 1036,
+    "score": 60.9,
+    "submitted_at": "2025-11-20T18:31:09.370792"
+  },
+  {
+    "id": 3618,
+    "assignment_id": 225,
+    "student_id": 1036,
+    "score": 68.0,
+    "submitted_at": "2026-01-29T21:55:10.989292"
+  },
+  {
+    "id": 3619,
+    "assignment_id": 206,
+    "student_id": 1036,
+    "score": 81.9,
+    "submitted_at": "2025-12-07T20:30:29.003867"
+  },
+  {
+    "id": 3620,
+    "assignment_id": 214,
+    "student_id": 1036,
+    "score": 84.6,
+    "submitted_at": "2025-12-19T10:13:02.772383"
+  },
+  {
+    "id": 3621,
+    "assignment_id": 222,
+    "student_id": 1036,
+    "score": 67.8,
+    "submitted_at": "2025-11-29T11:04:05.520874"
+  },
+  {
+    "id": 3622,
+    "assignment_id": 230,
+    "student_id": 1036,
+    "score": 51.6,
+    "submitted_at": "2026-01-16T10:40:58.617330"
+  },
+  {
+    "id": 3623,
+    "assignment_id": 215,
+    "student_id": 1036,
+    "score": 52.0,
+    "submitted_at": "2025-12-08T00:02:37.849953"
+  },
+  {
+    "id": 3624,
+    "assignment_id": 223,
+    "student_id": 1036,
+    "score": 98.3,
+    "submitted_at": "2026-02-07T02:03:22.298553"
+  },
+  {
+    "id": 3625,
+    "assignment_id": 231,
+    "student_id": 1036,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T01:02:28.032879"
+  },
+  {
+    "id": 3626,
+    "assignment_id": 210,
+    "student_id": 1036,
+    "score": 57.7,
+    "submitted_at": "2026-01-04T23:49:43.684988"
+  },
+  {
+    "id": 3627,
+    "assignment_id": 218,
+    "student_id": 1036,
+    "score": 64.5,
+    "submitted_at": "2026-02-09T06:12:58.612535"
+  },
+  {
+    "id": 3628,
+    "assignment_id": 226,
+    "student_id": 1036,
+    "score": 72.3,
+    "submitted_at": "2026-01-28T23:00:01.622323"
+  },
+  {
+    "id": 3629,
+    "assignment_id": 234,
+    "student_id": 1036,
+    "score": 88.6,
+    "submitted_at": "2026-01-29T17:12:59.746919"
+  },
+  {
+    "id": 3630,
+    "assignment_id": 205,
+    "student_id": 1036,
+    "score": 75.0,
+    "submitted_at": "2026-01-19T20:48:20.583571"
+  },
+  {
+    "id": 3631,
+    "assignment_id": 213,
+    "student_id": 1036,
+    "score": 50.7,
+    "submitted_at": "2026-02-12T01:26:42.306110"
+  },
+  {
+    "id": 3632,
+    "assignment_id": 221,
+    "student_id": 1036,
+    "score": 52.1,
+    "submitted_at": "2026-01-18T16:57:23.924334"
+  },
+  {
+    "id": 3633,
+    "assignment_id": 206,
+    "student_id": 1037,
+    "score": 97.0,
+    "submitted_at": "2025-11-21T00:47:46.454295"
+  },
+  {
+    "id": 3634,
+    "assignment_id": 214,
+    "student_id": 1037,
+    "score": 64.0,
+    "submitted_at": "2025-12-31T01:08:18.259355"
+  },
+  {
+    "id": 3635,
+    "assignment_id": 222,
+    "student_id": 1037,
+    "score": 60.3,
+    "submitted_at": "2025-11-21T03:37:07.135812"
+  },
+  {
+    "id": 3636,
+    "assignment_id": 230,
+    "student_id": 1037,
+    "score": 66.7,
+    "submitted_at": "2025-12-04T21:54:49.432085"
+  },
+  {
+    "id": 3637,
+    "assignment_id": 205,
+    "student_id": 1037,
+    "score": 84.8,
+    "submitted_at": "2026-01-29T10:32:10.826143"
+  },
+  {
+    "id": 3638,
+    "assignment_id": 213,
+    "student_id": 1037,
+    "score": 59.0,
+    "submitted_at": "2026-02-04T16:01:15.146825"
+  },
+  {
+    "id": 3639,
+    "assignment_id": 229,
+    "student_id": 1037,
+    "score": 67.0,
+    "submitted_at": "2025-12-28T15:13:31.853306"
+  },
+  {
+    "id": 3640,
+    "assignment_id": 210,
+    "student_id": 1037,
+    "score": 60.2,
+    "submitted_at": "2025-11-20T01:18:01.331018"
+  },
+  {
+    "id": 3641,
+    "assignment_id": 218,
+    "student_id": 1037,
+    "score": 74.6,
+    "submitted_at": "2025-11-28T13:56:32.581201"
+  },
+  {
+    "id": 3642,
+    "assignment_id": 226,
+    "student_id": 1037,
+    "score": 58.7,
+    "submitted_at": "2025-12-02T01:48:26.230017"
+  },
+  {
+    "id": 3643,
+    "assignment_id": 234,
+    "student_id": 1037,
+    "score": 78.0,
+    "submitted_at": "2026-02-10T06:12:07.258221"
+  },
+  {
+    "id": 3644,
+    "assignment_id": 202,
+    "student_id": 1037,
+    "score": 60.1,
+    "submitted_at": "2026-01-14T11:25:03.292861"
+  },
+  {
+    "id": 3645,
+    "assignment_id": 211,
+    "student_id": 1037,
+    "score": 56.4,
+    "submitted_at": "2026-02-06T22:52:06.543692"
+  },
+  {
+    "id": 3646,
+    "assignment_id": 219,
+    "student_id": 1037,
+    "score": 51.3,
+    "submitted_at": "2026-01-30T22:22:17.980427"
+  },
+  {
+    "id": 3647,
+    "assignment_id": 227,
+    "student_id": 1037,
+    "score": 55.9,
+    "submitted_at": "2025-11-22T10:59:46.729404"
+  },
+  {
+    "id": 3648,
+    "assignment_id": 209,
+    "student_id": 1037,
+    "score": 50.0,
+    "submitted_at": "2026-01-11T18:01:16.872398"
+  },
+  {
+    "id": 3649,
+    "assignment_id": 217,
+    "student_id": 1037,
+    "score": 54.1,
+    "submitted_at": "2026-02-14T07:43:30.918247"
+  },
+  {
+    "id": 3650,
+    "assignment_id": 225,
+    "student_id": 1037,
+    "score": 90.4,
+    "submitted_at": "2025-12-20T08:00:35.062263"
+  },
+  {
+    "id": 3651,
+    "assignment_id": 233,
+    "student_id": 1037,
+    "score": 53.1,
+    "submitted_at": "2025-12-02T17:10:47.731625"
+  },
+  {
+    "id": 3652,
+    "assignment_id": 204,
+    "student_id": 1038,
+    "score": 50.0,
+    "submitted_at": "2025-11-26T15:15:42.181668"
+  },
+  {
+    "id": 3653,
+    "assignment_id": 212,
+    "student_id": 1038,
+    "score": 56.6,
+    "submitted_at": "2026-01-22T14:49:35.574994"
+  },
+  {
+    "id": 3654,
+    "assignment_id": 228,
+    "student_id": 1038,
+    "score": 56.4,
+    "submitted_at": "2025-12-30T23:38:55.728836"
+  },
+  {
+    "id": 3655,
+    "assignment_id": 206,
+    "student_id": 1038,
+    "score": 80.6,
+    "submitted_at": "2025-11-24T10:20:42.050507"
+  },
+  {
+    "id": 3656,
+    "assignment_id": 214,
+    "student_id": 1038,
+    "score": 65.7,
+    "submitted_at": "2026-01-03T22:53:58.032405"
+  },
+  {
+    "id": 3657,
+    "assignment_id": 230,
+    "student_id": 1038,
+    "score": 78.5,
+    "submitted_at": "2026-01-17T09:41:57.807830"
+  },
+  {
+    "id": 3658,
+    "assignment_id": 209,
+    "student_id": 1038,
+    "score": 50.0,
+    "submitted_at": "2025-12-03T03:43:43.783994"
+  },
+  {
+    "id": 3659,
+    "assignment_id": 217,
+    "student_id": 1038,
+    "score": 51.7,
+    "submitted_at": "2025-12-02T00:47:08.261362"
+  },
+  {
+    "id": 3660,
+    "assignment_id": 225,
+    "student_id": 1038,
+    "score": 55.9,
+    "submitted_at": "2026-01-21T10:33:05.311610"
+  },
+  {
+    "id": 3661,
+    "assignment_id": 233,
+    "student_id": 1038,
+    "score": 55.5,
+    "submitted_at": "2026-02-02T09:24:46.131297"
+  },
+  {
+    "id": 3662,
+    "assignment_id": 205,
+    "student_id": 1038,
+    "score": 75.5,
+    "submitted_at": "2025-12-20T09:11:02.820487"
+  },
+  {
+    "id": 3663,
+    "assignment_id": 213,
+    "student_id": 1038,
+    "score": 54.1,
+    "submitted_at": "2026-01-03T08:51:21.518709"
+  },
+  {
+    "id": 3664,
+    "assignment_id": 221,
+    "student_id": 1038,
+    "score": 50.9,
+    "submitted_at": "2025-11-22T18:09:06.644169"
+  },
+  {
+    "id": 3665,
+    "assignment_id": 229,
+    "student_id": 1038,
+    "score": 63.9,
+    "submitted_at": "2026-01-12T21:38:17.391475"
+  },
+  {
+    "id": 3666,
+    "assignment_id": 209,
+    "student_id": 1039,
+    "score": 50.0,
+    "submitted_at": "2026-02-07T18:33:27.859519"
+  },
+  {
+    "id": 3667,
+    "assignment_id": 217,
+    "student_id": 1039,
+    "score": 59.8,
+    "submitted_at": "2025-12-30T03:17:55.292689"
+  },
+  {
+    "id": 3668,
+    "assignment_id": 225,
+    "student_id": 1039,
+    "score": 65.7,
+    "submitted_at": "2026-01-17T01:19:34.212242"
+  },
+  {
+    "id": 3669,
+    "assignment_id": 233,
+    "student_id": 1039,
+    "score": 51.6,
+    "submitted_at": "2026-02-02T08:38:46.867225"
+  },
+  {
+    "id": 3670,
+    "assignment_id": 206,
+    "student_id": 1039,
+    "score": 50.5,
+    "submitted_at": "2026-01-03T14:27:48.484578"
+  },
+  {
+    "id": 3671,
+    "assignment_id": 214,
+    "student_id": 1039,
+    "score": 86.7,
+    "submitted_at": "2026-01-05T07:37:05.286505"
+  },
+  {
+    "id": 3672,
+    "assignment_id": 230,
+    "student_id": 1039,
+    "score": 67.3,
+    "submitted_at": "2025-12-30T16:18:57.849809"
+  },
+  {
+    "id": 3673,
+    "assignment_id": 201,
+    "student_id": 1039,
+    "score": 66.6,
+    "submitted_at": "2025-12-22T22:07:54.517459"
+  },
+  {
+    "id": 3674,
+    "assignment_id": 211,
+    "student_id": 1039,
+    "score": 50.8,
+    "submitted_at": "2025-12-09T22:55:42.349203"
+  },
+  {
+    "id": 3675,
+    "assignment_id": 219,
+    "student_id": 1039,
+    "score": 84.2,
+    "submitted_at": "2026-02-08T14:56:55.660165"
+  },
+  {
+    "id": 3676,
+    "assignment_id": 227,
+    "student_id": 1039,
+    "score": 58.2,
+    "submitted_at": "2025-12-25T21:57:17.946272"
+  },
+  {
+    "id": 3677,
+    "assignment_id": 205,
+    "student_id": 1039,
+    "score": 58.4,
+    "submitted_at": "2025-12-13T11:42:47.571510"
+  },
+  {
+    "id": 3678,
+    "assignment_id": 213,
+    "student_id": 1039,
+    "score": 72.3,
+    "submitted_at": "2026-01-14T02:57:42.555146"
+  },
+  {
+    "id": 3679,
+    "assignment_id": 221,
+    "student_id": 1039,
+    "score": 52.7,
+    "submitted_at": "2026-01-28T22:08:01.824163"
+  },
+  {
+    "id": 3680,
+    "assignment_id": 229,
+    "student_id": 1039,
+    "score": 52.3,
+    "submitted_at": "2026-02-14T14:38:51.350241"
+  },
+  {
+    "id": 3681,
+    "assignment_id": 207,
+    "student_id": 1039,
+    "score": 78.8,
+    "submitted_at": "2025-11-19T21:16:42.682735"
+  },
+  {
+    "id": 3682,
+    "assignment_id": 215,
+    "student_id": 1039,
+    "score": 54.1,
+    "submitted_at": "2025-12-04T04:21:55.362128"
+  },
+  {
+    "id": 3683,
+    "assignment_id": 223,
+    "student_id": 1039,
+    "score": 85.9,
+    "submitted_at": "2026-02-11T11:38:16.103248"
+  },
+  {
+    "id": 3684,
+    "assignment_id": 231,
+    "student_id": 1039,
+    "score": 50.0,
+    "submitted_at": "2025-12-27T07:29:49.331685"
+  },
+  {
+    "id": 3685,
+    "assignment_id": 203,
+    "student_id": 1039,
+    "score": 50.0,
+    "submitted_at": "2025-12-19T14:29:59.481143"
+  },
+  {
+    "id": 3686,
+    "assignment_id": 204,
+    "student_id": 1039,
+    "score": 50.0,
+    "submitted_at": "2026-01-30T22:04:13.492133"
+  },
+  {
+    "id": 3687,
+    "assignment_id": 220,
+    "student_id": 1039,
+    "score": 50.0,
+    "submitted_at": "2025-12-17T09:10:08.276005"
+  },
+  {
+    "id": 3688,
+    "assignment_id": 210,
+    "student_id": 1040,
+    "score": 64.9,
+    "submitted_at": "2026-01-11T06:02:49.769684"
+  },
+  {
+    "id": 3689,
+    "assignment_id": 218,
+    "student_id": 1040,
+    "score": 55.9,
+    "submitted_at": "2026-01-12T01:41:23.609844"
+  },
+  {
+    "id": 3690,
+    "assignment_id": 234,
+    "student_id": 1040,
+    "score": 67.5,
+    "submitted_at": "2025-12-17T17:31:09.831851"
+  },
+  {
+    "id": 3691,
+    "assignment_id": 201,
+    "student_id": 1040,
+    "score": 75.3,
+    "submitted_at": "2025-12-21T19:15:44.235781"
+  },
+  {
+    "id": 3692,
+    "assignment_id": 202,
+    "student_id": 1040,
+    "score": 53.5,
+    "submitted_at": "2026-01-18T23:23:49.441367"
+  },
+  {
+    "id": 3693,
+    "assignment_id": 211,
+    "student_id": 1040,
+    "score": 52.1,
+    "submitted_at": "2025-12-01T05:49:13.924630"
+  },
+  {
+    "id": 3694,
+    "assignment_id": 219,
+    "student_id": 1040,
+    "score": 65.8,
+    "submitted_at": "2025-12-03T16:20:37.563307"
+  },
+  {
+    "id": 3695,
+    "assignment_id": 227,
+    "student_id": 1040,
+    "score": 66.2,
+    "submitted_at": "2025-12-29T12:29:36.541691"
+  },
+  {
+    "id": 3696,
+    "assignment_id": 206,
+    "student_id": 1040,
+    "score": 85.2,
+    "submitted_at": "2026-01-30T15:39:19.276042"
+  },
+  {
+    "id": 3697,
+    "assignment_id": 214,
+    "student_id": 1040,
+    "score": 62.0,
+    "submitted_at": "2025-12-08T08:17:41.106112"
+  },
+  {
+    "id": 3698,
+    "assignment_id": 205,
+    "student_id": 1040,
+    "score": 54.8,
+    "submitted_at": "2025-12-05T14:41:05.992934"
+  },
+  {
+    "id": 3699,
+    "assignment_id": 221,
+    "student_id": 1040,
+    "score": 54.6,
+    "submitted_at": "2026-02-11T19:22:11.275828"
+  },
+  {
+    "id": 3700,
+    "assignment_id": 216,
+    "student_id": 1040,
+    "score": 50.0,
+    "submitted_at": "2026-01-29T10:08:00.880376"
+  },
+  {
+    "id": 3701,
+    "assignment_id": 224,
+    "student_id": 1040,
+    "score": 74.9,
+    "submitted_at": "2025-12-06T17:07:32.996522"
+  },
+  {
+    "id": 3702,
+    "assignment_id": 203,
+    "student_id": 1041,
+    "score": 50.0,
+    "submitted_at": "2025-12-20T12:26:48.913399"
+  },
+  {
+    "id": 3703,
+    "assignment_id": 204,
+    "student_id": 1041,
+    "score": 50.0,
+    "submitted_at": "2026-02-14T01:27:31.377228"
+  },
+  {
+    "id": 3704,
+    "assignment_id": 212,
+    "student_id": 1041,
+    "score": 60.4,
+    "submitted_at": "2026-02-02T21:42:08.955985"
+  },
+  {
+    "id": 3705,
+    "assignment_id": 220,
+    "student_id": 1041,
+    "score": 50.0,
+    "submitted_at": "2026-01-17T20:24:30.413272"
+  },
+  {
+    "id": 3706,
+    "assignment_id": 208,
+    "student_id": 1041,
+    "score": 50.0,
+    "submitted_at": "2026-01-13T18:06:47.588409"
+  },
+  {
+    "id": 3707,
+    "assignment_id": 216,
+    "student_id": 1041,
+    "score": 50.0,
+    "submitted_at": "2025-11-25T02:04:18.149146"
+  },
+  {
+    "id": 3708,
+    "assignment_id": 224,
+    "student_id": 1041,
+    "score": 83.3,
+    "submitted_at": "2026-01-08T04:38:10.307638"
+  },
+  {
+    "id": 3709,
+    "assignment_id": 232,
+    "student_id": 1041,
+    "score": 50.1,
+    "submitted_at": "2025-12-20T21:21:57.380402"
+  },
+  {
+    "id": 3710,
+    "assignment_id": 206,
+    "student_id": 1041,
+    "score": 86.6,
+    "submitted_at": "2026-01-12T09:51:34.592724"
+  },
+  {
+    "id": 3711,
+    "assignment_id": 214,
+    "student_id": 1041,
+    "score": 70.6,
+    "submitted_at": "2025-12-21T12:19:51.659918"
+  },
+  {
+    "id": 3712,
+    "assignment_id": 222,
+    "student_id": 1041,
+    "score": 67.9,
+    "submitted_at": "2025-12-26T01:39:34.939510"
+  },
+  {
+    "id": 3713,
+    "assignment_id": 230,
+    "student_id": 1041,
+    "score": 68.7,
+    "submitted_at": "2026-01-28T21:27:53.521262"
+  },
+  {
+    "id": 3714,
+    "assignment_id": 210,
+    "student_id": 1041,
+    "score": 56.4,
+    "submitted_at": "2025-12-25T01:56:00.805430"
+  },
+  {
+    "id": 3715,
+    "assignment_id": 218,
+    "student_id": 1041,
+    "score": 56.7,
+    "submitted_at": "2026-01-21T10:45:50.584026"
+  },
+  {
+    "id": 3716,
+    "assignment_id": 234,
+    "student_id": 1041,
+    "score": 78.9,
+    "submitted_at": "2026-01-30T06:35:34.108104"
+  },
+  {
+    "id": 3717,
+    "assignment_id": 207,
+    "student_id": 1042,
+    "score": 67.0,
+    "submitted_at": "2025-11-20T14:15:03.035781"
+  },
+  {
+    "id": 3718,
+    "assignment_id": 215,
+    "student_id": 1042,
+    "score": 53.4,
+    "submitted_at": "2025-11-25T06:41:01.509674"
+  },
+  {
+    "id": 3719,
+    "assignment_id": 223,
+    "student_id": 1042,
+    "score": 55.0,
+    "submitted_at": "2026-01-20T00:33:51.591406"
+  },
+  {
+    "id": 3720,
+    "assignment_id": 231,
+    "student_id": 1042,
+    "score": 50.0,
+    "submitted_at": "2026-01-07T19:45:17.900903"
+  },
+  {
+    "id": 3721,
+    "assignment_id": 209,
+    "student_id": 1042,
+    "score": 50.0,
+    "submitted_at": "2026-02-13T03:23:45.008346"
+  },
+  {
+    "id": 3722,
+    "assignment_id": 217,
+    "student_id": 1042,
+    "score": 50.0,
+    "submitted_at": "2026-02-09T11:28:18.837344"
+  },
+  {
+    "id": 3723,
+    "assignment_id": 233,
+    "student_id": 1042,
+    "score": 70.7,
+    "submitted_at": "2026-01-07T15:50:05.650577"
+  },
+  {
+    "id": 3724,
+    "assignment_id": 206,
+    "student_id": 1042,
+    "score": 82.5,
+    "submitted_at": "2026-02-15T13:40:55.902811"
+  },
+  {
+    "id": 3725,
+    "assignment_id": 214,
+    "student_id": 1042,
+    "score": 92.0,
+    "submitted_at": "2026-02-15T12:23:19.407381"
+  },
+  {
+    "id": 3726,
+    "assignment_id": 222,
+    "student_id": 1042,
+    "score": 82.7,
+    "submitted_at": "2025-12-03T08:06:09.505303"
+  },
+  {
+    "id": 3727,
+    "assignment_id": 230,
+    "student_id": 1042,
+    "score": 63.0,
+    "submitted_at": "2026-01-17T12:50:15.964265"
+  },
+  {
+    "id": 3728,
+    "assignment_id": 213,
+    "student_id": 1042,
+    "score": 61.9,
+    "submitted_at": "2026-01-12T08:31:04.855822"
+  },
+  {
+    "id": 3729,
+    "assignment_id": 221,
+    "student_id": 1042,
+    "score": 53.5,
+    "submitted_at": "2025-12-19T22:10:48.092520"
+  },
+  {
+    "id": 3730,
+    "assignment_id": 229,
+    "student_id": 1042,
+    "score": 63.1,
+    "submitted_at": "2025-11-30T00:57:31.281730"
+  },
+  {
+    "id": 3731,
+    "assignment_id": 201,
+    "student_id": 1042,
+    "score": 50.0,
+    "submitted_at": "2026-01-18T19:21:17.222828"
+  },
+  {
+    "id": 3732,
+    "assignment_id": 202,
+    "student_id": 1042,
+    "score": 53.3,
+    "submitted_at": "2025-12-21T19:18:45.344396"
+  },
+  {
+    "id": 3733,
+    "assignment_id": 211,
+    "student_id": 1042,
+    "score": 56.8,
+    "submitted_at": "2025-12-10T04:48:07.765682"
+  },
+  {
+    "id": 3734,
+    "assignment_id": 219,
+    "student_id": 1042,
+    "score": 81.3,
+    "submitted_at": "2026-01-21T12:02:19.038270"
+  },
+  {
+    "id": 3735,
+    "assignment_id": 202,
+    "student_id": 1043,
+    "score": 53.3,
+    "submitted_at": "2026-01-26T23:05:05.249528"
+  },
+  {
+    "id": 3736,
+    "assignment_id": 211,
+    "student_id": 1043,
+    "score": 53.8,
+    "submitted_at": "2026-01-11T16:54:53.567270"
+  },
+  {
+    "id": 3737,
+    "assignment_id": 219,
+    "student_id": 1043,
+    "score": 54.6,
+    "submitted_at": "2025-12-31T03:59:31.960497"
+  },
+  {
+    "id": 3738,
+    "assignment_id": 227,
+    "student_id": 1043,
+    "score": 76.4,
+    "submitted_at": "2025-12-09T06:02:51.286550"
+  },
+  {
+    "id": 3739,
+    "assignment_id": 203,
+    "student_id": 1043,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T14:36:10.832357"
+  },
+  {
+    "id": 3740,
+    "assignment_id": 204,
+    "student_id": 1043,
+    "score": 50.0,
+    "submitted_at": "2025-11-26T01:36:32.725317"
+  },
+  {
+    "id": 3741,
+    "assignment_id": 220,
+    "student_id": 1043,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T05:44:03.398487"
+  },
+  {
+    "id": 3742,
+    "assignment_id": 228,
+    "student_id": 1043,
+    "score": 56.5,
+    "submitted_at": "2025-11-26T16:08:55.231123"
+  },
+  {
+    "id": 3743,
+    "assignment_id": 209,
+    "student_id": 1043,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T23:47:49.342018"
+  },
+  {
+    "id": 3744,
+    "assignment_id": 217,
+    "student_id": 1043,
+    "score": 53.0,
+    "submitted_at": "2026-02-09T17:20:34.317147"
+  },
+  {
+    "id": 3745,
+    "assignment_id": 225,
+    "student_id": 1043,
+    "score": 84.3,
+    "submitted_at": "2025-11-25T13:48:54.457480"
+  },
+  {
+    "id": 3746,
+    "assignment_id": 210,
+    "student_id": 1043,
+    "score": 51.5,
+    "submitted_at": "2025-12-12T21:00:00.699090"
+  },
+  {
+    "id": 3747,
+    "assignment_id": 218,
+    "student_id": 1043,
+    "score": 64.7,
+    "submitted_at": "2025-12-11T21:09:42.593568"
+  },
+  {
+    "id": 3748,
+    "assignment_id": 226,
+    "student_id": 1043,
+    "score": 98.2,
+    "submitted_at": "2026-02-10T21:28:07.296134"
+  },
+  {
+    "id": 3749,
+    "assignment_id": 234,
+    "student_id": 1043,
+    "score": 57.0,
+    "submitted_at": "2025-12-01T17:10:06.012414"
+  },
+  {
+    "id": 3750,
+    "assignment_id": 205,
+    "student_id": 1044,
+    "score": 54.2,
+    "submitted_at": "2025-12-30T19:14:00.449527"
+  },
+  {
+    "id": 3751,
+    "assignment_id": 213,
+    "student_id": 1044,
+    "score": 68.0,
+    "submitted_at": "2026-01-21T16:33:23.060396"
+  },
+  {
+    "id": 3752,
+    "assignment_id": 221,
+    "student_id": 1044,
+    "score": 53.9,
+    "submitted_at": "2026-01-22T03:29:56.069299"
+  },
+  {
+    "id": 3753,
+    "assignment_id": 229,
+    "student_id": 1044,
+    "score": 67.0,
+    "submitted_at": "2025-12-16T05:27:59.521156"
+  },
+  {
+    "id": 3754,
+    "assignment_id": 207,
+    "student_id": 1044,
+    "score": 60.6,
+    "submitted_at": "2026-01-24T08:50:01.303212"
+  },
+  {
+    "id": 3755,
+    "assignment_id": 215,
+    "student_id": 1044,
+    "score": 52.5,
+    "submitted_at": "2025-12-17T09:28:25.155622"
+  },
+  {
+    "id": 3756,
+    "assignment_id": 223,
+    "student_id": 1044,
+    "score": 64.8,
+    "submitted_at": "2026-02-15T19:11:12.700132"
+  },
+  {
+    "id": 3757,
+    "assignment_id": 231,
+    "student_id": 1044,
+    "score": 50.0,
+    "submitted_at": "2025-12-10T22:06:36.148274"
+  },
+  {
+    "id": 3758,
+    "assignment_id": 217,
+    "student_id": 1044,
+    "score": 52.3,
+    "submitted_at": "2026-02-13T11:58:03.913358"
+  },
+  {
+    "id": 3759,
+    "assignment_id": 225,
+    "student_id": 1044,
+    "score": 79.7,
+    "submitted_at": "2026-01-16T01:08:55.331919"
+  },
+  {
+    "id": 3760,
+    "assignment_id": 233,
+    "student_id": 1044,
+    "score": 79.3,
+    "submitted_at": "2026-01-20T16:18:48.931150"
+  },
+  {
+    "id": 3761,
+    "assignment_id": 211,
+    "student_id": 1044,
+    "score": 58.6,
+    "submitted_at": "2026-01-31T01:55:42.103269"
+  },
+  {
+    "id": 3762,
+    "assignment_id": 219,
+    "student_id": 1044,
+    "score": 66.4,
+    "submitted_at": "2025-12-06T05:37:03.957840"
+  },
+  {
+    "id": 3763,
+    "assignment_id": 227,
+    "student_id": 1044,
+    "score": 72.9,
+    "submitted_at": "2025-12-01T20:03:00.397535"
+  },
+  {
+    "id": 3764,
+    "assignment_id": 204,
+    "student_id": 1044,
+    "score": 50.0,
+    "submitted_at": "2026-01-20T23:15:08.972172"
+  },
+  {
+    "id": 3765,
+    "assignment_id": 212,
+    "student_id": 1044,
+    "score": 56.6,
+    "submitted_at": "2026-01-18T17:34:37.853515"
+  },
+  {
+    "id": 3766,
+    "assignment_id": 220,
+    "student_id": 1044,
+    "score": 50.0,
+    "submitted_at": "2026-02-03T02:56:18.078664"
+  },
+  {
+    "id": 3767,
+    "assignment_id": 228,
+    "student_id": 1044,
+    "score": 55.1,
+    "submitted_at": "2025-12-15T22:03:50.311296"
+  },
+  {
+    "id": 3768,
+    "assignment_id": 203,
+    "student_id": 1045,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T09:38:10.309172"
+  },
+  {
+    "id": 3769,
+    "assignment_id": 204,
+    "student_id": 1045,
+    "score": 50.0,
+    "submitted_at": "2025-12-28T08:07:00.876615"
+  },
+  {
+    "id": 3770,
+    "assignment_id": 212,
+    "student_id": 1045,
+    "score": 63.4,
+    "submitted_at": "2026-01-26T18:53:38.921025"
+  },
+  {
+    "id": 3771,
+    "assignment_id": 220,
+    "student_id": 1045,
+    "score": 50.0,
+    "submitted_at": "2025-12-25T10:51:13.711185"
+  },
+  {
+    "id": 3772,
+    "assignment_id": 228,
+    "student_id": 1045,
+    "score": 55.1,
+    "submitted_at": "2026-02-12T21:03:25.941732"
+  },
+  {
+    "id": 3773,
+    "assignment_id": 207,
+    "student_id": 1045,
+    "score": 78.3,
+    "submitted_at": "2026-01-13T23:38:08.047831"
+  },
+  {
+    "id": 3774,
+    "assignment_id": 215,
+    "student_id": 1045,
+    "score": 52.0,
+    "submitted_at": "2025-11-30T01:34:19.366093"
+  },
+  {
+    "id": 3775,
+    "assignment_id": 223,
+    "student_id": 1045,
+    "score": 91.7,
+    "submitted_at": "2025-12-22T22:12:14.875151"
+  },
+  {
+    "id": 3776,
+    "assignment_id": 231,
+    "student_id": 1045,
+    "score": 50.0,
+    "submitted_at": "2026-01-12T06:33:20.938296"
+  },
+  {
+    "id": 3777,
+    "assignment_id": 208,
+    "student_id": 1045,
+    "score": 50.0,
+    "submitted_at": "2026-01-24T05:46:57.814354"
+  },
+  {
+    "id": 3778,
+    "assignment_id": 224,
+    "student_id": 1045,
+    "score": 53.0,
+    "submitted_at": "2026-02-07T09:11:10.044766"
+  },
+  {
+    "id": 3779,
+    "assignment_id": 232,
+    "student_id": 1045,
+    "score": 61.3,
+    "submitted_at": "2025-11-27T04:43:15.513432"
+  },
+  {
+    "id": 3780,
+    "assignment_id": 210,
+    "student_id": 1045,
+    "score": 54.6,
+    "submitted_at": "2025-11-30T03:16:54.427613"
+  },
+  {
+    "id": 3781,
+    "assignment_id": 218,
+    "student_id": 1045,
+    "score": 68.5,
+    "submitted_at": "2026-01-23T18:53:20.335933"
+  },
+  {
+    "id": 3782,
+    "assignment_id": 226,
+    "student_id": 1045,
+    "score": 85.4,
+    "submitted_at": "2025-11-30T09:39:58.740400"
+  },
+  {
+    "id": 3783,
+    "assignment_id": 234,
+    "student_id": 1045,
+    "score": 58.2,
+    "submitted_at": "2025-12-07T23:28:13.695441"
+  },
+  {
+    "id": 3784,
+    "assignment_id": 216,
+    "student_id": 1046,
+    "score": 50.0,
+    "submitted_at": "2025-12-21T19:54:42.347057"
+  },
+  {
+    "id": 3785,
+    "assignment_id": 224,
+    "student_id": 1046,
+    "score": 55.8,
+    "submitted_at": "2025-12-31T01:13:29.494606"
+  },
+  {
+    "id": 3786,
+    "assignment_id": 232,
+    "student_id": 1046,
+    "score": 69.5,
+    "submitted_at": "2025-12-08T12:11:10.728381"
+  },
+  {
+    "id": 3787,
+    "assignment_id": 207,
+    "student_id": 1046,
+    "score": 81.0,
+    "submitted_at": "2026-01-03T14:47:42.320820"
+  },
+  {
+    "id": 3788,
+    "assignment_id": 215,
+    "student_id": 1046,
+    "score": 50.1,
+    "submitted_at": "2025-12-23T20:18:28.992228"
+  },
+  {
+    "id": 3789,
+    "assignment_id": 231,
+    "student_id": 1046,
+    "score": 50.0,
+    "submitted_at": "2025-12-18T11:52:02.609017"
+  },
+  {
+    "id": 3790,
+    "assignment_id": 206,
+    "student_id": 1046,
+    "score": 78.8,
+    "submitted_at": "2025-12-29T06:39:12.585454"
+  },
+  {
+    "id": 3791,
+    "assignment_id": 214,
+    "student_id": 1046,
+    "score": 70.5,
+    "submitted_at": "2026-01-06T04:12:37.289417"
+  },
+  {
+    "id": 3792,
+    "assignment_id": 222,
+    "student_id": 1046,
+    "score": 75.0,
+    "submitted_at": "2026-02-17T02:13:22.084235"
+  },
+  {
+    "id": 3793,
+    "assignment_id": 230,
+    "student_id": 1046,
+    "score": 62.9,
+    "submitted_at": "2026-02-14T07:19:48.379234"
+  },
+  {
+    "id": 3794,
+    "assignment_id": 205,
+    "student_id": 1046,
+    "score": 55.1,
+    "submitted_at": "2026-02-05T03:04:25.815784"
+  },
+  {
+    "id": 3795,
+    "assignment_id": 213,
+    "student_id": 1046,
+    "score": 71.7,
+    "submitted_at": "2026-02-09T05:19:36.466797"
+  },
+  {
+    "id": 3796,
+    "assignment_id": 221,
+    "student_id": 1046,
+    "score": 52.5,
+    "submitted_at": "2025-12-26T06:07:56.649327"
+  },
+  {
+    "id": 3797,
+    "assignment_id": 229,
+    "student_id": 1046,
+    "score": 67.3,
+    "submitted_at": "2025-12-11T15:40:51.477095"
+  },
+  {
+    "id": 3798,
+    "assignment_id": 210,
+    "student_id": 1047,
+    "score": 57.1,
+    "submitted_at": "2026-01-21T15:26:29.864194"
+  },
+  {
+    "id": 3799,
+    "assignment_id": 218,
+    "student_id": 1047,
+    "score": 53.8,
+    "submitted_at": "2026-02-17T23:15:10.452756"
+  },
+  {
+    "id": 3800,
+    "assignment_id": 208,
+    "student_id": 1047,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T19:09:50.646409"
+  },
+  {
+    "id": 3801,
+    "assignment_id": 216,
+    "student_id": 1047,
+    "score": 50.0,
+    "submitted_at": "2026-01-12T20:40:02.308485"
+  },
+  {
+    "id": 3802,
+    "assignment_id": 224,
+    "student_id": 1047,
+    "score": 64.6,
+    "submitted_at": "2025-12-04T12:02:18.214284"
+  },
+  {
+    "id": 3803,
+    "assignment_id": 232,
+    "student_id": 1047,
+    "score": 56.8,
+    "submitted_at": "2026-01-28T17:47:49.177436"
+  },
+  {
+    "id": 3804,
+    "assignment_id": 203,
+    "student_id": 1047,
+    "score": 50.0,
+    "submitted_at": "2026-02-18T11:48:48.511165"
+  },
+  {
+    "id": 3805,
+    "assignment_id": 204,
+    "student_id": 1047,
+    "score": 50.0,
+    "submitted_at": "2025-11-29T23:20:43.452689"
+  },
+  {
+    "id": 3806,
+    "assignment_id": 212,
+    "student_id": 1047,
+    "score": 70.1,
+    "submitted_at": "2026-02-05T14:30:10.603532"
+  },
+  {
+    "id": 3807,
+    "assignment_id": 206,
+    "student_id": 1047,
+    "score": 73.3,
+    "submitted_at": "2026-02-07T13:02:47.215709"
+  },
+  {
+    "id": 3808,
+    "assignment_id": 214,
+    "student_id": 1047,
+    "score": 88.0,
+    "submitted_at": "2025-12-21T14:21:16.966208"
+  },
+  {
+    "id": 3809,
+    "assignment_id": 222,
+    "student_id": 1047,
+    "score": 77.7,
+    "submitted_at": "2025-12-22T20:04:31.342550"
+  },
+  {
+    "id": 3810,
+    "assignment_id": 230,
+    "student_id": 1047,
+    "score": 57.0,
+    "submitted_at": "2026-02-07T07:13:31.691916"
+  },
+  {
+    "id": 3811,
+    "assignment_id": 209,
+    "student_id": 1047,
+    "score": 50.0,
+    "submitted_at": "2025-11-24T00:21:02.748500"
+  },
+  {
+    "id": 3812,
+    "assignment_id": 217,
+    "student_id": 1047,
+    "score": 59.3,
+    "submitted_at": "2025-12-08T08:05:09.875904"
+  },
+  {
+    "id": 3813,
+    "assignment_id": 225,
+    "student_id": 1047,
+    "score": 74.7,
+    "submitted_at": "2025-12-12T14:04:00.317472"
+  },
+  {
+    "id": 3814,
+    "assignment_id": 233,
+    "student_id": 1047,
+    "score": 55.9,
+    "submitted_at": "2026-02-01T07:24:28.340939"
+  },
+  {
+    "id": 3815,
+    "assignment_id": 213,
+    "student_id": 1047,
+    "score": 57.4,
+    "submitted_at": "2026-01-18T21:10:46.362817"
+  },
+  {
+    "id": 3816,
+    "assignment_id": 221,
+    "student_id": 1047,
+    "score": 52.1,
+    "submitted_at": "2026-02-04T02:45:50.027967"
+  },
+  {
+    "id": 3817,
+    "assignment_id": 229,
+    "student_id": 1047,
+    "score": 56.9,
+    "submitted_at": "2025-12-30T07:30:06.050598"
+  },
+  {
+    "id": 3818,
+    "assignment_id": 231,
+    "student_id": 1048,
+    "score": 50.0,
+    "submitted_at": "2026-02-17T08:09:47.852207"
+  },
+  {
+    "id": 3819,
+    "assignment_id": 214,
+    "student_id": 1048,
+    "score": 54.7,
+    "submitted_at": "2026-01-26T09:34:02.457399"
+  },
+  {
+    "id": 3820,
+    "assignment_id": 222,
+    "student_id": 1048,
+    "score": 61.9,
+    "submitted_at": "2026-02-02T15:11:14.528104"
+  },
+  {
+    "id": 3821,
+    "assignment_id": 230,
+    "student_id": 1048,
+    "score": 52.1,
+    "submitted_at": "2025-12-20T12:47:27.733333"
+  },
+  {
+    "id": 3822,
+    "assignment_id": 204,
+    "student_id": 1048,
+    "score": 50.0,
+    "submitted_at": "2025-12-02T04:16:56.125971"
+  },
+  {
+    "id": 3823,
+    "assignment_id": 228,
+    "student_id": 1048,
+    "score": 57.0,
+    "submitted_at": "2025-12-03T07:04:18.720864"
+  },
+  {
+    "id": 3824,
+    "assignment_id": 209,
+    "student_id": 1048,
+    "score": 50.0,
+    "submitted_at": "2025-12-12T07:49:10.673097"
+  },
+  {
+    "id": 3825,
+    "assignment_id": 217,
+    "student_id": 1048,
+    "score": 51.9,
+    "submitted_at": "2025-12-11T15:54:38.352826"
+  },
+  {
+    "id": 3826,
+    "assignment_id": 225,
+    "student_id": 1048,
+    "score": 91.0,
+    "submitted_at": "2026-01-15T08:16:49.735938"
+  },
+  {
+    "id": 3827,
+    "assignment_id": 233,
+    "student_id": 1048,
+    "score": 67.0,
+    "submitted_at": "2026-01-31T18:20:41.788553"
+  },
+  {
+    "id": 3828,
+    "assignment_id": 207,
+    "student_id": 1049,
+    "score": 83.7,
+    "submitted_at": "2026-01-15T01:22:14.841115"
+  },
+  {
+    "id": 3829,
+    "assignment_id": 215,
+    "student_id": 1049,
+    "score": 51.3,
+    "submitted_at": "2026-02-09T14:56:37.403750"
+  },
+  {
+    "id": 3830,
+    "assignment_id": 223,
+    "student_id": 1049,
+    "score": 90.0,
+    "submitted_at": "2025-11-30T22:21:32.602056"
+  },
+  {
+    "id": 3831,
+    "assignment_id": 231,
+    "student_id": 1049,
+    "score": 50.0,
+    "submitted_at": "2025-11-27T23:29:36.831016"
+  },
+  {
+    "id": 3832,
+    "assignment_id": 205,
+    "student_id": 1049,
+    "score": 63.6,
+    "submitted_at": "2025-12-05T19:24:25.957762"
+  },
+  {
+    "id": 3833,
+    "assignment_id": 213,
+    "student_id": 1049,
+    "score": 56.1,
+    "submitted_at": "2026-02-18T20:32:15.564516"
+  },
+  {
+    "id": 3834,
+    "assignment_id": 221,
+    "student_id": 1049,
+    "score": 52.9,
+    "submitted_at": "2025-12-29T13:27:13.013580"
+  },
+  {
+    "id": 3835,
+    "assignment_id": 229,
+    "student_id": 1049,
+    "score": 53.3,
+    "submitted_at": "2025-12-23T06:18:39.403128"
+  },
+  {
+    "id": 3836,
+    "assignment_id": 209,
+    "student_id": 1049,
+    "score": 50.0,
+    "submitted_at": "2026-01-24T02:21:07.168301"
+  },
+  {
+    "id": 3837,
+    "assignment_id": 217,
+    "student_id": 1049,
+    "score": 69.3,
+    "submitted_at": "2026-02-02T06:23:01.422805"
+  },
+  {
+    "id": 3838,
+    "assignment_id": 225,
+    "student_id": 1049,
+    "score": 65.4,
+    "submitted_at": "2025-12-13T08:48:30.502554"
+  },
+  {
+    "id": 3839,
+    "assignment_id": 233,
+    "student_id": 1049,
+    "score": 53.6,
+    "submitted_at": "2026-01-10T07:22:53.610784"
+  },
+  {
+    "id": 3840,
+    "assignment_id": 210,
+    "student_id": 1049,
+    "score": 60.3,
+    "submitted_at": "2026-01-12T09:54:13.404385"
+  },
+  {
+    "id": 3841,
+    "assignment_id": 226,
+    "student_id": 1049,
+    "score": 52.0,
+    "submitted_at": "2025-11-25T21:52:01.839869"
+  },
+  {
+    "id": 3842,
+    "assignment_id": 208,
+    "student_id": 1049,
+    "score": 50.0,
+    "submitted_at": "2025-12-11T05:51:16.126320"
+  },
+  {
+    "id": 3843,
+    "assignment_id": 216,
+    "student_id": 1049,
+    "score": 50.0,
+    "submitted_at": "2025-11-30T04:10:12.303565"
+  },
+  {
+    "id": 3844,
+    "assignment_id": 224,
+    "student_id": 1049,
+    "score": 73.7,
+    "submitted_at": "2026-02-18T09:19:58.542689"
+  },
+  {
+    "id": 3845,
+    "assignment_id": 232,
+    "student_id": 1049,
+    "score": 74.8,
+    "submitted_at": "2026-01-31T03:38:02.262045"
+  },
+  {
+    "id": 3846,
+    "assignment_id": 210,
+    "student_id": 1050,
+    "score": 56.1,
+    "submitted_at": "2026-01-14T02:01:00.051964"
+  },
+  {
+    "id": 3847,
+    "assignment_id": 218,
+    "student_id": 1050,
+    "score": 68.7,
+    "submitted_at": "2025-12-26T13:48:58.657371"
+  },
+  {
+    "id": 3848,
+    "assignment_id": 226,
+    "student_id": 1050,
+    "score": 73.1,
+    "submitted_at": "2025-11-21T00:24:49.594166"
+  },
+  {
+    "id": 3849,
+    "assignment_id": 206,
+    "student_id": 1050,
+    "score": 50.6,
+    "submitted_at": "2026-02-03T14:19:54.323525"
+  },
+  {
+    "id": 3850,
+    "assignment_id": 230,
+    "student_id": 1050,
+    "score": 78.8,
+    "submitted_at": "2026-01-23T16:35:42.612242"
+  },
+  {
+    "id": 3851,
+    "assignment_id": 201,
+    "student_id": 1050,
+    "score": 75.2,
+    "submitted_at": "2026-02-16T21:31:31.128098"
+  },
+  {
+    "id": 3852,
+    "assignment_id": 202,
+    "student_id": 1050,
+    "score": 64.6,
+    "submitted_at": "2026-01-05T10:39:49.874370"
+  },
+  {
+    "id": 3853,
+    "assignment_id": 211,
+    "student_id": 1050,
+    "score": 58.1,
+    "submitted_at": "2026-01-07T10:20:33.830961"
+  },
+  {
+    "id": 3854,
+    "assignment_id": 219,
+    "student_id": 1050,
+    "score": 52.9,
+    "submitted_at": "2026-02-04T12:55:09.169096"
+  },
+  {
+    "id": 3855,
+    "assignment_id": 208,
+    "student_id": 1050,
+    "score": 50.0,
+    "submitted_at": "2026-01-28T08:09:59.427786"
+  },
+  {
+    "id": 3856,
+    "assignment_id": 232,
+    "student_id": 1050,
+    "score": 51.1,
+    "submitted_at": "2025-12-27T12:38:09.291837"
+  },
+  {
+    "id": 3857,
+    "assignment_id": 205,
+    "student_id": 1050,
+    "score": 58.4,
+    "submitted_at": "2025-12-20T19:24:25.465617"
+  },
+  {
+    "id": 3858,
+    "assignment_id": 213,
+    "student_id": 1050,
+    "score": 74.7,
+    "submitted_at": "2026-01-23T13:51:38.719189"
+  },
+  {
+    "id": 3859,
+    "assignment_id": 221,
+    "student_id": 1050,
+    "score": 50.1,
+    "submitted_at": "2026-01-14T03:20:07.776317"
+  },
+  {
+    "id": 3860,
+    "assignment_id": 229,
+    "student_id": 1050,
+    "score": 53.5,
+    "submitted_at": "2026-01-27T22:50:44.935447"
+  },
+  {
+    "id": 3861,
+    "assignment_id": 207,
+    "student_id": 1050,
+    "score": 56.6,
+    "submitted_at": "2026-02-10T16:11:57.812847"
+  },
+  {
+    "id": 3862,
+    "assignment_id": 215,
+    "student_id": 1050,
+    "score": 54.4,
+    "submitted_at": "2025-12-22T22:37:53.772228"
+  },
+  {
+    "id": 3863,
+    "assignment_id": 223,
+    "student_id": 1050,
+    "score": 81.0,
+    "submitted_at": "2025-12-16T21:35:29.368077"
+  },
+  {
+    "id": 3864,
+    "assignment_id": 231,
+    "student_id": 1050,
+    "score": 50.0,
+    "submitted_at": "2026-01-27T23:36:01.099026"
+  },
+  {
+    "id": 3865,
+    "assignment_id": 207,
+    "student_id": 1051,
+    "score": 69.3,
+    "submitted_at": "2025-11-30T06:57:20.429171"
+  },
+  {
+    "id": 3866,
+    "assignment_id": 215,
+    "student_id": 1051,
+    "score": 51.4,
+    "submitted_at": "2026-01-28T19:20:46.856285"
+  },
+  {
+    "id": 3867,
+    "assignment_id": 223,
+    "student_id": 1051,
+    "score": 60.0,
+    "submitted_at": "2025-11-28T00:40:15.535167"
+  },
+  {
+    "id": 3868,
+    "assignment_id": 205,
+    "student_id": 1051,
+    "score": 81.5,
+    "submitted_at": "2025-12-02T08:29:27.473394"
+  },
+  {
+    "id": 3869,
+    "assignment_id": 221,
+    "student_id": 1051,
+    "score": 54.9,
+    "submitted_at": "2026-02-14T07:46:50.458260"
+  },
+  {
+    "id": 3870,
+    "assignment_id": 229,
+    "student_id": 1051,
+    "score": 57.2,
+    "submitted_at": "2026-02-06T23:21:00.923762"
+  },
+  {
+    "id": 3871,
+    "assignment_id": 203,
+    "student_id": 1051,
+    "score": 50.0,
+    "submitted_at": "2026-02-03T14:56:05.274559"
+  },
+  {
+    "id": 3872,
+    "assignment_id": 212,
+    "student_id": 1051,
+    "score": 59.7,
+    "submitted_at": "2025-11-23T22:29:33.275585"
+  },
+  {
+    "id": 3873,
+    "assignment_id": 220,
+    "student_id": 1051,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T02:43:16.761483"
+  },
+  {
+    "id": 3874,
+    "assignment_id": 228,
+    "student_id": 1051,
+    "score": 59.0,
+    "submitted_at": "2026-01-21T11:42:21.041166"
+  },
+  {
+    "id": 3875,
+    "assignment_id": 201,
+    "student_id": 1051,
+    "score": 52.3,
+    "submitted_at": "2025-12-16T21:37:08.580356"
+  },
+  {
+    "id": 3876,
+    "assignment_id": 211,
+    "student_id": 1051,
+    "score": 57.7,
+    "submitted_at": "2025-12-20T19:44:22.799474"
+  },
+  {
+    "id": 3877,
+    "assignment_id": 208,
+    "student_id": 1051,
+    "score": 50.0,
+    "submitted_at": "2026-01-28T06:04:29.507920"
+  },
+  {
+    "id": 3878,
+    "assignment_id": 216,
+    "student_id": 1051,
+    "score": 50.0,
+    "submitted_at": "2025-12-21T18:21:21.966162"
+  },
+  {
+    "id": 3879,
+    "assignment_id": 232,
+    "student_id": 1051,
+    "score": 74.9,
+    "submitted_at": "2026-02-16T13:03:46.164554"
+  },
+  {
+    "id": 3880,
+    "assignment_id": 207,
+    "student_id": 1052,
+    "score": 79.6,
+    "submitted_at": "2025-12-21T09:51:08.624056"
+  },
+  {
+    "id": 3881,
+    "assignment_id": 215,
+    "student_id": 1052,
+    "score": 51.8,
+    "submitted_at": "2025-12-24T22:01:28.324264"
+  },
+  {
+    "id": 3882,
+    "assignment_id": 201,
+    "student_id": 1052,
+    "score": 73.7,
+    "submitted_at": "2026-02-06T07:14:56.202214"
+  },
+  {
+    "id": 3883,
+    "assignment_id": 211,
+    "student_id": 1052,
+    "score": 59.1,
+    "submitted_at": "2025-11-22T00:07:21.853050"
+  },
+  {
+    "id": 3884,
+    "assignment_id": 219,
+    "student_id": 1052,
+    "score": 81.5,
+    "submitted_at": "2026-02-08T15:23:36.536129"
+  },
+  {
+    "id": 3885,
+    "assignment_id": 203,
+    "student_id": 1052,
+    "score": 50.0,
+    "submitted_at": "2026-01-17T08:55:19.717367"
+  },
+  {
+    "id": 3886,
+    "assignment_id": 204,
+    "student_id": 1052,
+    "score": 50.0,
+    "submitted_at": "2026-01-23T05:55:01.677490"
+  },
+  {
+    "id": 3887,
+    "assignment_id": 220,
+    "student_id": 1052,
+    "score": 50.0,
+    "submitted_at": "2025-12-08T16:11:31.043686"
+  },
+  {
+    "id": 3888,
+    "assignment_id": 228,
+    "student_id": 1052,
+    "score": 50.9,
+    "submitted_at": "2026-02-02T15:50:20.730467"
+  },
+  {
+    "id": 3889,
+    "assignment_id": 205,
+    "student_id": 1052,
+    "score": 60.9,
+    "submitted_at": "2026-01-20T14:37:38.266252"
+  },
+  {
+    "id": 3890,
+    "assignment_id": 213,
+    "student_id": 1052,
+    "score": 50.0,
+    "submitted_at": "2026-02-04T14:43:36.452956"
+  },
+  {
+    "id": 3891,
+    "assignment_id": 229,
+    "student_id": 1052,
+    "score": 52.6,
+    "submitted_at": "2025-12-20T13:45:53.905837"
+  },
+  {
+    "id": 3892,
+    "assignment_id": 208,
+    "student_id": 1052,
+    "score": 50.0,
+    "submitted_at": "2025-12-21T09:01:28.041366"
+  },
+  {
+    "id": 3893,
+    "assignment_id": 224,
+    "student_id": 1052,
+    "score": 50.8,
+    "submitted_at": "2025-12-05T13:26:52.518301"
+  },
+  {
+    "id": 3894,
+    "assignment_id": 232,
+    "student_id": 1052,
+    "score": 72.9,
+    "submitted_at": "2025-11-25T00:03:57.103909"
+  },
+  {
+    "id": 3895,
+    "assignment_id": 206,
+    "student_id": 1052,
+    "score": 92.3,
+    "submitted_at": "2025-12-03T16:44:06.551428"
+  },
+  {
+    "id": 3896,
+    "assignment_id": 230,
+    "student_id": 1052,
+    "score": 83.0,
+    "submitted_at": "2025-12-13T06:20:20.693050"
+  },
+  {
+    "id": 3897,
+    "assignment_id": 203,
+    "student_id": 1053,
+    "score": 50.0,
+    "submitted_at": "2026-02-02T12:28:47.452912"
+  },
+  {
+    "id": 3898,
+    "assignment_id": 204,
+    "student_id": 1053,
+    "score": 50.0,
+    "submitted_at": "2026-01-02T12:25:41.287368"
+  },
+  {
+    "id": 3899,
+    "assignment_id": 212,
+    "student_id": 1053,
+    "score": 73.7,
+    "submitted_at": "2025-12-10T07:38:38.279759"
+  },
+  {
+    "id": 3900,
+    "assignment_id": 220,
+    "student_id": 1053,
+    "score": 50.0,
+    "submitted_at": "2025-11-25T04:08:06.186668"
+  },
+  {
+    "id": 3901,
+    "assignment_id": 228,
+    "student_id": 1053,
+    "score": 51.7,
+    "submitted_at": "2026-01-21T07:51:32.219839"
+  },
+  {
+    "id": 3902,
+    "assignment_id": 217,
+    "student_id": 1053,
+    "score": 68.6,
+    "submitted_at": "2026-01-08T04:22:53.067114"
+  },
+  {
+    "id": 3903,
+    "assignment_id": 225,
+    "student_id": 1053,
+    "score": 61.2,
+    "submitted_at": "2025-12-15T10:14:12.293037"
+  },
+  {
+    "id": 3904,
+    "assignment_id": 233,
+    "student_id": 1053,
+    "score": 55.3,
+    "submitted_at": "2025-11-22T06:00:17.762985"
+  },
+  {
+    "id": 3905,
+    "assignment_id": 201,
+    "student_id": 1053,
+    "score": 77.5,
+    "submitted_at": "2026-01-16T02:51:56.682932"
+  },
+  {
+    "id": 3906,
+    "assignment_id": 202,
+    "student_id": 1053,
+    "score": 68.2,
+    "submitted_at": "2025-12-15T10:49:44.872623"
+  },
+  {
+    "id": 3907,
+    "assignment_id": 227,
+    "student_id": 1053,
+    "score": 79.8,
+    "submitted_at": "2025-11-30T11:46:06.747005"
+  },
+  {
+    "id": 3908,
+    "assignment_id": 215,
+    "student_id": 1053,
+    "score": 53.0,
+    "submitted_at": "2026-02-10T04:49:31.953482"
+  },
+  {
+    "id": 3909,
+    "assignment_id": 205,
+    "student_id": 1053,
+    "score": 78.3,
+    "submitted_at": "2025-12-03T18:13:36.946267"
+  },
+  {
+    "id": 3910,
+    "assignment_id": 221,
+    "student_id": 1053,
+    "score": 53.7,
+    "submitted_at": "2025-12-31T16:57:54.552804"
+  },
+  {
+    "id": 3911,
+    "assignment_id": 229,
+    "student_id": 1053,
+    "score": 69.6,
+    "submitted_at": "2025-12-03T23:20:39.215369"
+  },
+  {
+    "id": 3912,
+    "assignment_id": 210,
+    "student_id": 1054,
+    "score": 63.3,
+    "submitted_at": "2025-11-20T19:49:02.726316"
+  },
+  {
+    "id": 3913,
+    "assignment_id": 218,
+    "student_id": 1054,
+    "score": 67.7,
+    "submitted_at": "2025-12-28T23:30:57.754842"
+  },
+  {
+    "id": 3914,
+    "assignment_id": 226,
+    "student_id": 1054,
+    "score": 94.3,
+    "submitted_at": "2025-12-14T14:11:11.824977"
+  },
+  {
+    "id": 3915,
+    "assignment_id": 234,
+    "student_id": 1054,
+    "score": 63.3,
+    "submitted_at": "2025-12-22T06:46:39.350642"
+  },
+  {
+    "id": 3916,
+    "assignment_id": 201,
+    "student_id": 1054,
+    "score": 52.7,
+    "submitted_at": "2025-11-24T11:27:51.264856"
+  },
+  {
+    "id": 3917,
+    "assignment_id": 202,
+    "student_id": 1054,
+    "score": 52.7,
+    "submitted_at": "2026-01-20T16:30:05.912340"
+  },
+  {
+    "id": 3918,
+    "assignment_id": 211,
+    "student_id": 1054,
+    "score": 53.9,
+    "submitted_at": "2025-12-04T23:19:21.151565"
+  },
+  {
+    "id": 3919,
+    "assignment_id": 219,
+    "student_id": 1054,
+    "score": 93.6,
+    "submitted_at": "2026-01-26T10:40:15.696387"
+  },
+  {
+    "id": 3920,
+    "assignment_id": 207,
+    "student_id": 1054,
+    "score": 63.3,
+    "submitted_at": "2026-02-03T04:02:19.207378"
+  },
+  {
+    "id": 3921,
+    "assignment_id": 215,
+    "student_id": 1054,
+    "score": 50.5,
+    "submitted_at": "2026-01-26T19:48:35.902175"
+  },
+  {
+    "id": 3922,
+    "assignment_id": 223,
+    "student_id": 1054,
+    "score": 93.2,
+    "submitted_at": "2026-01-17T03:29:01.278950"
+  },
+  {
+    "id": 3923,
+    "assignment_id": 231,
+    "student_id": 1054,
+    "score": 50.0,
+    "submitted_at": "2026-02-02T22:59:01.336770"
+  },
+  {
+    "id": 3924,
+    "assignment_id": 209,
+    "student_id": 1054,
+    "score": 50.0,
+    "submitted_at": "2026-02-12T00:15:05.921331"
+  },
+  {
+    "id": 3925,
+    "assignment_id": 225,
+    "student_id": 1054,
+    "score": 65.9,
+    "submitted_at": "2025-12-18T18:06:17.857030"
+  },
+  {
+    "id": 3926,
+    "assignment_id": 203,
+    "student_id": 1054,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T17:43:06.807550"
+  },
+  {
+    "id": 3927,
+    "assignment_id": 204,
+    "student_id": 1054,
+    "score": 50.0,
+    "submitted_at": "2026-01-30T18:31:25.867868"
+  },
+  {
+    "id": 3928,
+    "assignment_id": 212,
+    "student_id": 1054,
+    "score": 72.5,
+    "submitted_at": "2025-12-17T04:30:37.574452"
+  },
+  {
+    "id": 3929,
+    "assignment_id": 220,
+    "student_id": 1054,
+    "score": 50.0,
+    "submitted_at": "2026-02-07T20:41:35.062961"
+  },
+  {
+    "id": 3930,
+    "assignment_id": 228,
+    "student_id": 1054,
+    "score": 54.8,
+    "submitted_at": "2025-12-18T17:34:15.236772"
+  },
+  {
+    "id": 3931,
+    "assignment_id": 206,
+    "student_id": 1055,
+    "score": 97.1,
+    "submitted_at": "2025-12-18T12:27:17.160091"
+  },
+  {
+    "id": 3932,
+    "assignment_id": 214,
+    "student_id": 1055,
+    "score": 90.0,
+    "submitted_at": "2026-02-13T06:33:32.633937"
+  },
+  {
+    "id": 3933,
+    "assignment_id": 222,
+    "student_id": 1055,
+    "score": 55.1,
+    "submitted_at": "2026-01-07T23:34:15.296261"
+  },
+  {
+    "id": 3934,
+    "assignment_id": 230,
+    "student_id": 1055,
+    "score": 56.6,
+    "submitted_at": "2025-12-04T18:13:04.005488"
+  },
+  {
+    "id": 3935,
+    "assignment_id": 209,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2026-01-19T10:50:22.404708"
+  },
+  {
+    "id": 3936,
+    "assignment_id": 217,
+    "student_id": 1055,
+    "score": 55.3,
+    "submitted_at": "2026-01-24T14:55:17.333994"
+  },
+  {
+    "id": 3937,
+    "assignment_id": 225,
+    "student_id": 1055,
+    "score": 61.9,
+    "submitted_at": "2026-01-03T15:32:48.740282"
+  },
+  {
+    "id": 3938,
+    "assignment_id": 233,
+    "student_id": 1055,
+    "score": 67.2,
+    "submitted_at": "2026-01-23T15:52:59.130673"
+  },
+  {
+    "id": 3939,
+    "assignment_id": 215,
+    "student_id": 1055,
+    "score": 51.8,
+    "submitted_at": "2025-12-21T15:32:52.613770"
+  },
+  {
+    "id": 3940,
+    "assignment_id": 223,
+    "student_id": 1055,
+    "score": 64.7,
+    "submitted_at": "2025-12-30T05:18:57.067499"
+  },
+  {
+    "id": 3941,
+    "assignment_id": 231,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T12:49:10.948811"
+  },
+  {
+    "id": 3942,
+    "assignment_id": 210,
+    "student_id": 1055,
+    "score": 50.4,
+    "submitted_at": "2026-02-03T23:41:38.851111"
+  },
+  {
+    "id": 3943,
+    "assignment_id": 218,
+    "student_id": 1055,
+    "score": 57.3,
+    "submitted_at": "2026-01-27T01:32:37.833380"
+  },
+  {
+    "id": 3944,
+    "assignment_id": 226,
+    "student_id": 1055,
+    "score": 92.2,
+    "submitted_at": "2026-02-17T04:24:44.054371"
+  },
+  {
+    "id": 3945,
+    "assignment_id": 234,
+    "student_id": 1055,
+    "score": 69.9,
+    "submitted_at": "2025-11-23T05:57:16.663144"
+  },
+  {
+    "id": 3946,
+    "assignment_id": 208,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2026-01-12T14:43:10.834651"
+  },
+  {
+    "id": 3947,
+    "assignment_id": 216,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2025-11-21T17:46:01.167744"
+  },
+  {
+    "id": 3948,
+    "assignment_id": 224,
+    "student_id": 1055,
+    "score": 81.0,
+    "submitted_at": "2026-02-12T04:50:31.791125"
+  },
+  {
+    "id": 3949,
+    "assignment_id": 232,
+    "student_id": 1055,
+    "score": 61.1,
+    "submitted_at": "2025-12-10T14:02:41.360035"
+  },
+  {
+    "id": 3950,
+    "assignment_id": 203,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2025-11-30T08:40:32.845728"
+  },
+  {
+    "id": 3951,
+    "assignment_id": 204,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2026-01-29T06:21:10.684989"
+  },
+  {
+    "id": 3952,
+    "assignment_id": 212,
+    "student_id": 1055,
+    "score": 68.8,
+    "submitted_at": "2026-02-09T12:44:51.930863"
+  },
+  {
+    "id": 3953,
+    "assignment_id": 220,
+    "student_id": 1055,
+    "score": 50.0,
+    "submitted_at": "2026-01-03T10:51:40.083611"
+  },
+  {
+    "id": 3954,
+    "assignment_id": 228,
+    "student_id": 1055,
+    "score": 55.4,
+    "submitted_at": "2026-01-28T21:45:41.519438"
+  },
+  {
+    "id": 3955,
+    "assignment_id": 214,
+    "student_id": 1056,
+    "score": 74.9,
+    "submitted_at": "2025-12-05T20:55:03.774533"
+  },
+  {
+    "id": 3956,
+    "assignment_id": 205,
+    "student_id": 1056,
+    "score": 76.8,
+    "submitted_at": "2026-02-02T22:24:32.945161"
+  },
+  {
+    "id": 3957,
+    "assignment_id": 221,
+    "student_id": 1056,
+    "score": 54.4,
+    "submitted_at": "2025-12-17T20:33:37.149536"
+  },
+  {
+    "id": 3958,
+    "assignment_id": 229,
+    "student_id": 1056,
+    "score": 51.6,
+    "submitted_at": "2026-01-27T20:26:10.239009"
+  },
+  {
+    "id": 3959,
+    "assignment_id": 216,
+    "student_id": 1056,
+    "score": 50.0,
+    "submitted_at": "2026-01-06T02:53:48.232431"
+  },
+  {
+    "id": 3960,
+    "assignment_id": 201,
+    "student_id": 1056,
+    "score": 74.8,
+    "submitted_at": "2025-12-29T00:15:28.105783"
+  },
+  {
+    "id": 3961,
+    "assignment_id": 202,
+    "student_id": 1056,
+    "score": 68.9,
+    "submitted_at": "2025-11-23T06:44:31.553498"
+  },
+  {
+    "id": 3962,
+    "assignment_id": 211,
+    "student_id": 1056,
+    "score": 59.8,
+    "submitted_at": "2026-02-16T14:53:09.798932"
+  },
+  {
+    "id": 3963,
+    "assignment_id": 203,
+    "student_id": 1056,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T01:46:37.944592"
+  },
+  {
+    "id": 3964,
+    "assignment_id": 212,
+    "student_id": 1056,
+    "score": 74.9,
+    "submitted_at": "2026-01-08T07:41:43.712956"
+  },
+  {
+    "id": 3965,
+    "assignment_id": 220,
+    "student_id": 1056,
+    "score": 50.0,
+    "submitted_at": "2026-02-06T09:21:54.182595"
+  },
+  {
+    "id": 3966,
+    "assignment_id": 228,
+    "student_id": 1056,
+    "score": 59.1,
+    "submitted_at": "2025-12-11T04:40:23.309564"
+  },
+  {
+    "id": 3967,
+    "assignment_id": 215,
+    "student_id": 1056,
+    "score": 51.9,
+    "submitted_at": "2026-01-07T01:27:11.757332"
+  },
+  {
+    "id": 3968,
+    "assignment_id": 223,
+    "student_id": 1056,
+    "score": 66.3,
+    "submitted_at": "2026-01-25T07:02:29.572040"
+  },
+  {
+    "id": 3969,
+    "assignment_id": 231,
+    "student_id": 1056,
+    "score": 50.0,
+    "submitted_at": "2025-12-20T10:36:43.930128"
+  },
+  {
+    "id": 3970,
+    "assignment_id": 218,
+    "student_id": 1057,
+    "score": 65.6,
+    "submitted_at": "2025-12-21T04:05:54.549067"
+  },
+  {
+    "id": 3971,
+    "assignment_id": 226,
+    "student_id": 1057,
+    "score": 71.0,
+    "submitted_at": "2025-12-10T16:57:27.474666"
+  },
+  {
+    "id": 3972,
+    "assignment_id": 234,
+    "student_id": 1057,
+    "score": 57.4,
+    "submitted_at": "2025-12-30T01:08:02.911552"
+  },
+  {
+    "id": 3973,
+    "assignment_id": 201,
+    "student_id": 1057,
+    "score": 80.3,
+    "submitted_at": "2025-12-02T11:32:38.190535"
+  },
+  {
+    "id": 3974,
+    "assignment_id": 219,
+    "student_id": 1057,
+    "score": 54.5,
+    "submitted_at": "2026-01-15T00:29:46.984072"
+  },
+  {
+    "id": 3975,
+    "assignment_id": 227,
+    "student_id": 1057,
+    "score": 66.1,
+    "submitted_at": "2025-11-29T19:30:33.712036"
+  },
+  {
+    "id": 3976,
+    "assignment_id": 208,
+    "student_id": 1057,
+    "score": 50.0,
+    "submitted_at": "2026-02-13T07:44:08.423187"
+  },
+  {
+    "id": 3977,
+    "assignment_id": 216,
+    "student_id": 1057,
+    "score": 50.0,
+    "submitted_at": "2025-12-11T12:15:26.701785"
+  },
+  {
+    "id": 3978,
+    "assignment_id": 224,
+    "student_id": 1057,
+    "score": 51.3,
+    "submitted_at": "2026-01-08T00:28:07.969685"
+  },
+  {
+    "id": 3979,
+    "assignment_id": 232,
+    "student_id": 1057,
+    "score": 53.6,
+    "submitted_at": "2026-01-14T03:02:05.490092"
+  },
+  {
+    "id": 3980,
+    "assignment_id": 203,
+    "student_id": 1057,
+    "score": 50.0,
+    "submitted_at": "2026-01-23T06:46:25.639761"
+  },
+  {
+    "id": 3981,
+    "assignment_id": 204,
+    "student_id": 1057,
+    "score": 50.0,
+    "submitted_at": "2025-11-23T03:04:58.861475"
+  },
+  {
+    "id": 3982,
+    "assignment_id": 212,
+    "student_id": 1057,
+    "score": 55.9,
+    "submitted_at": "2025-11-30T00:00:23.004126"
+  },
+  {
+    "id": 3983,
+    "assignment_id": 220,
+    "student_id": 1057,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T21:21:19.247720"
+  },
+  {
+    "id": 3984,
+    "assignment_id": 205,
+    "student_id": 1057,
+    "score": 90.9,
+    "submitted_at": "2025-12-19T01:15:50.513909"
+  },
+  {
+    "id": 3985,
+    "assignment_id": 213,
+    "student_id": 1057,
+    "score": 58.4,
+    "submitted_at": "2026-01-15T16:19:40.392935"
+  },
+  {
+    "id": 3986,
+    "assignment_id": 221,
+    "student_id": 1057,
+    "score": 53.5,
+    "submitted_at": "2025-12-27T15:51:05.220702"
+  },
+  {
+    "id": 3987,
+    "assignment_id": 229,
+    "student_id": 1057,
+    "score": 67.4,
+    "submitted_at": "2025-12-26T13:14:16.304551"
+  },
+  {
+    "id": 3988,
+    "assignment_id": 206,
+    "student_id": 1057,
+    "score": 98.7,
+    "submitted_at": "2025-11-23T16:15:21.799604"
+  },
+  {
+    "id": 3989,
+    "assignment_id": 214,
+    "student_id": 1057,
+    "score": 87.2,
+    "submitted_at": "2026-02-17T20:24:23.903933"
+  },
+  {
+    "id": 3990,
+    "assignment_id": 222,
+    "student_id": 1057,
+    "score": 70.8,
+    "submitted_at": "2025-11-21T15:06:22.735107"
+  },
+  {
+    "id": 3991,
+    "assignment_id": 230,
+    "student_id": 1057,
+    "score": 56.6,
+    "submitted_at": "2026-02-18T16:00:43.617876"
+  },
+  {
+    "id": 3992,
+    "assignment_id": 205,
+    "student_id": 1058,
+    "score": 91.2,
+    "submitted_at": "2026-01-01T18:14:59.601708"
+  },
+  {
+    "id": 3993,
+    "assignment_id": 213,
+    "student_id": 1058,
+    "score": 72.8,
+    "submitted_at": "2025-11-28T22:13:37.064286"
+  },
+  {
+    "id": 3994,
+    "assignment_id": 209,
+    "student_id": 1058,
+    "score": 50.0,
+    "submitted_at": "2026-02-01T15:48:11.021123"
+  },
+  {
+    "id": 3995,
+    "assignment_id": 217,
+    "student_id": 1058,
+    "score": 60.1,
+    "submitted_at": "2026-01-26T00:31:34.751016"
+  },
+  {
+    "id": 3996,
+    "assignment_id": 225,
+    "student_id": 1058,
+    "score": 92.6,
+    "submitted_at": "2026-01-08T22:47:18.935719"
+  },
+  {
+    "id": 3997,
+    "assignment_id": 210,
+    "student_id": 1058,
+    "score": 52.9,
+    "submitted_at": "2026-01-14T16:14:38.268970"
+  },
+  {
+    "id": 3998,
+    "assignment_id": 234,
+    "student_id": 1058,
+    "score": 72.8,
+    "submitted_at": "2026-02-16T03:29:21.010148"
+  },
+  {
+    "id": 3999,
+    "assignment_id": 215,
+    "student_id": 1058,
+    "score": 51.4,
+    "submitted_at": "2026-01-16T01:14:05.276045"
+  },
+  {
+    "id": 4000,
+    "assignment_id": 231,
+    "student_id": 1058,
+    "score": 50.0,
+    "submitted_at": "2026-01-09T15:56:50.851864"
+  },
+  {
+    "id": 4001,
+    "assignment_id": 210,
+    "student_id": 1059,
+    "score": 50.5,
+    "submitted_at": "2026-02-14T18:53:01.219854"
+  },
+  {
+    "id": 4002,
+    "assignment_id": 218,
+    "student_id": 1059,
+    "score": 64.9,
+    "submitted_at": "2026-01-10T14:12:31.901392"
+  },
+  {
+    "id": 4003,
+    "assignment_id": 226,
+    "student_id": 1059,
+    "score": 93.5,
+    "submitted_at": "2026-01-21T03:14:53.563108"
+  },
+  {
+    "id": 4004,
+    "assignment_id": 234,
+    "student_id": 1059,
+    "score": 67.5,
+    "submitted_at": "2025-12-06T03:04:19.630253"
+  },
+  {
+    "id": 4005,
+    "assignment_id": 206,
+    "student_id": 1059,
+    "score": 94.7,
+    "submitted_at": "2026-01-17T16:32:15.894687"
+  },
+  {
+    "id": 4006,
+    "assignment_id": 214,
+    "student_id": 1059,
+    "score": 81.0,
+    "submitted_at": "2025-12-18T00:45:02.434628"
+  },
+  {
+    "id": 4007,
+    "assignment_id": 222,
+    "student_id": 1059,
+    "score": 69.3,
+    "submitted_at": "2025-12-13T11:00:44.588770"
+  },
+  {
+    "id": 4008,
+    "assignment_id": 230,
+    "student_id": 1059,
+    "score": 70.0,
+    "submitted_at": "2026-01-01T18:45:15.059197"
+  },
+  {
+    "id": 4009,
+    "assignment_id": 211,
+    "student_id": 1059,
+    "score": 56.8,
+    "submitted_at": "2025-12-15T00:25:11.028887"
+  },
+  {
+    "id": 4010,
+    "assignment_id": 219,
+    "student_id": 1059,
+    "score": 68.4,
+    "submitted_at": "2025-12-01T19:20:53.108730"
+  },
+  {
+    "id": 4011,
+    "assignment_id": 227,
+    "student_id": 1059,
+    "score": 73.4,
+    "submitted_at": "2026-02-09T15:08:43.748435"
+  },
+  {
+    "id": 4012,
+    "assignment_id": 207,
+    "student_id": 1059,
+    "score": 50.3,
+    "submitted_at": "2026-01-16T07:38:22.437259"
+  },
+  {
+    "id": 4013,
+    "assignment_id": 223,
+    "student_id": 1059,
+    "score": 80.1,
+    "submitted_at": "2026-01-31T00:00:45.899879"
+  },
+  {
+    "id": 4014,
+    "assignment_id": 231,
+    "student_id": 1059,
+    "score": 50.0,
+    "submitted_at": "2026-02-03T03:16:22.641842"
+  },
+  {
+    "id": 4015,
+    "assignment_id": 216,
+    "student_id": 1059,
+    "score": 50.0,
+    "submitted_at": "2025-12-29T09:44:51.768268"
+  },
+  {
+    "id": 4016,
+    "assignment_id": 224,
+    "student_id": 1059,
+    "score": 64.8,
+    "submitted_at": "2026-01-08T00:05:26.710306"
+  },
+  {
+    "id": 4017,
+    "assignment_id": 232,
+    "student_id": 1059,
+    "score": 58.7,
+    "submitted_at": "2026-01-26T16:32:39.368044"
+  },
+  {
+    "id": 4018,
+    "assignment_id": 203,
+    "student_id": 1059,
+    "score": 50.0,
+    "submitted_at": "2025-11-27T19:19:18.753746"
+  },
+  {
+    "id": 4019,
+    "assignment_id": 204,
+    "student_id": 1059,
+    "score": 50.0,
+    "submitted_at": "2026-01-25T20:13:59.202891"
+  },
+  {
+    "id": 4020,
+    "assignment_id": 212,
+    "student_id": 1059,
+    "score": 52.6,
+    "submitted_at": "2026-01-29T06:27:48.733982"
+  },
+  {
+    "id": 4021,
+    "assignment_id": 220,
+    "student_id": 1059,
+    "score": 50.0,
+    "submitted_at": "2025-12-20T08:47:06.870837"
+  },
+  {
+    "id": 4022,
+    "assignment_id": 201,
+    "student_id": 1060,
+    "score": 75.9,
+    "submitted_at": "2026-01-31T02:37:20.022941"
+  },
+  {
+    "id": 4023,
+    "assignment_id": 202,
+    "student_id": 1060,
+    "score": 57.5,
+    "submitted_at": "2025-11-30T03:30:09.115399"
+  },
+  {
+    "id": 4024,
+    "assignment_id": 211,
+    "student_id": 1060,
+    "score": 50.6,
+    "submitted_at": "2025-11-29T09:17:51.388863"
+  },
+  {
+    "id": 4025,
+    "assignment_id": 227,
+    "student_id": 1060,
+    "score": 75.8,
+    "submitted_at": "2026-01-08T15:45:52.226501"
+  },
+  {
+    "id": 4026,
+    "assignment_id": 209,
+    "student_id": 1060,
+    "score": 50.0,
+    "submitted_at": "2025-12-12T23:12:29.387397"
+  },
+  {
+    "id": 4027,
+    "assignment_id": 225,
+    "student_id": 1060,
+    "score": 57.5,
+    "submitted_at": "2025-12-25T20:27:54.015488"
+  },
+  {
+    "id": 4028,
+    "assignment_id": 233,
+    "student_id": 1060,
+    "score": 77.0,
+    "submitted_at": "2025-12-08T08:02:17.941314"
+  },
+  {
+    "id": 4029,
+    "assignment_id": 212,
+    "student_id": 1060,
+    "score": 66.5,
+    "submitted_at": "2026-02-18T08:33:25.039142"
+  },
+  {
+    "id": 4030,
+    "assignment_id": 220,
+    "student_id": 1060,
+    "score": 50.0,
+    "submitted_at": "2025-11-20T04:02:30.188426"
+  },
+  {
+    "id": 4031,
+    "assignment_id": 228,
+    "student_id": 1060,
+    "score": 60.0,
+    "submitted_at": "2026-01-12T16:49:00.350683"
+  },
+  {
+    "id": 4032,
+    "assignment_id": 206,
+    "student_id": 1060,
+    "score": 70.9,
+    "submitted_at": "2025-12-21T07:12:41.641097"
+  },
+  {
+    "id": 4033,
+    "assignment_id": 214,
+    "student_id": 1060,
+    "score": 51.6,
+    "submitted_at": "2025-11-26T10:16:52.003594"
+  },
+  {
+    "id": 4034,
+    "assignment_id": 222,
+    "student_id": 1060,
+    "score": 78.6,
+    "submitted_at": "2026-02-04T14:18:30.954752"
+  },
+  {
+    "id": 4035,
+    "assignment_id": 230,
+    "student_id": 1060,
+    "score": 75.4,
+    "submitted_at": "2026-01-09T13:18:54.994506"
+  },
+  {
+    "id": 4036,
+    "assignment_id": 207,
+    "student_id": 1060,
+    "score": 68.7,
+    "submitted_at": "2025-12-24T03:02:15.697754"
+  },
+  {
+    "id": 4037,
+    "assignment_id": 215,
+    "student_id": 1060,
+    "score": 54.5,
+    "submitted_at": "2025-12-04T12:42:24.693714"
+  },
+  {
+    "id": 4038,
+    "assignment_id": 223,
+    "student_id": 1060,
+    "score": 75.4,
+    "submitted_at": "2025-11-24T07:45:34.479759"
+  },
+  {
+    "id": 4039,
+    "assignment_id": 224,
+    "student_id": 1061,
+    "score": 53.4,
+    "submitted_at": "2026-02-12T05:20:23.001106"
+  },
+  {
+    "id": 4040,
+    "assignment_id": 232,
+    "student_id": 1061,
+    "score": 56.5,
+    "submitted_at": "2025-11-29T11:41:38.613297"
+  },
+  {
+    "id": 4041,
+    "assignment_id": 218,
+    "student_id": 1061,
+    "score": 54.6,
+    "submitted_at": "2026-01-02T21:42:10.489828"
+  },
+  {
+    "id": 4042,
+    "assignment_id": 226,
+    "student_id": 1061,
+    "score": 66.8,
+    "submitted_at": "2026-01-11T17:51:10.396027"
+  },
+  {
+    "id": 4043,
+    "assignment_id": 234,
+    "student_id": 1061,
+    "score": 67.8,
+    "submitted_at": "2026-01-29T11:13:31.749984"
+  },
+  {
+    "id": 4044,
+    "assignment_id": 201,
+    "student_id": 1061,
+    "score": 62.3,
+    "submitted_at": "2026-01-12T04:49:56.384290"
+  },
+  {
+    "id": 4045,
+    "assignment_id": 202,
+    "student_id": 1061,
+    "score": 58.3,
+    "submitted_at": "2025-12-23T14:00:09.004791"
+  },
+  {
+    "id": 4046,
+    "assignment_id": 211,
+    "student_id": 1061,
+    "score": 52.9,
+    "submitted_at": "2025-12-08T21:15:38.809301"
+  },
+  {
+    "id": 4047,
+    "assignment_id": 227,
+    "student_id": 1061,
+    "score": 76.0,
+    "submitted_at": "2025-12-19T13:10:34.284228"
+  },
+  {
+    "id": 4048,
+    "assignment_id": 203,
+    "student_id": 1061,
+    "score": 50.0,
+    "submitted_at": "2026-01-13T15:04:36.937423"
+  },
+  {
+    "id": 4049,
+    "assignment_id": 204,
+    "student_id": 1061,
+    "score": 50.0,
+    "submitted_at": "2026-02-17T22:04:06.765742"
+  },
+  {
+    "id": 4050,
+    "assignment_id": 212,
+    "student_id": 1061,
+    "score": 71.7,
+    "submitted_at": "2026-01-22T23:37:15.632432"
+  },
+  {
+    "id": 4051,
+    "assignment_id": 220,
+    "student_id": 1061,
+    "score": 50.0,
+    "submitted_at": "2026-01-25T10:01:42.678641"
+  },
+  {
+    "id": 4052,
+    "assignment_id": 228,
+    "student_id": 1061,
+    "score": 58.5,
+    "submitted_at": "2026-01-30T12:48:32.034762"
+  },
+  {
+    "id": 4053,
+    "assignment_id": 205,
+    "student_id": 1061,
+    "score": 60.0,
+    "submitted_at": "2026-01-16T07:43:38.473115"
+  },
+  {
+    "id": 4054,
+    "assignment_id": 213,
+    "student_id": 1061,
+    "score": 67.1,
+    "submitted_at": "2026-01-02T17:00:03.672133"
+  },
+  {
+    "id": 4055,
+    "assignment_id": 229,
+    "student_id": 1061,
+    "score": 56.3,
+    "submitted_at": "2025-11-30T04:17:57.491429"
+  },
+  {
+    "id": 4056,
+    "assignment_id": 208,
+    "student_id": 1062,
+    "score": 50.0,
+    "submitted_at": "2026-01-28T17:03:14.603033"
+  },
+  {
+    "id": 4057,
+    "assignment_id": 216,
+    "student_id": 1062,
+    "score": 50.0,
+    "submitted_at": "2025-12-31T07:38:07.123836"
+  },
+  {
+    "id": 4058,
+    "assignment_id": 224,
+    "student_id": 1062,
+    "score": 72.2,
+    "submitted_at": "2025-12-09T09:07:01.583771"
+  },
+  {
+    "id": 4059,
+    "assignment_id": 232,
+    "student_id": 1062,
+    "score": 56.8,
+    "submitted_at": "2025-11-29T02:11:03.051876"
+  },
+  {
+    "id": 4060,
+    "assignment_id": 201,
+    "student_id": 1062,
+    "score": 56.7,
+    "submitted_at": "2025-12-22T18:43:56.826279"
+  },
+  {
+    "id": 4061,
+    "assignment_id": 202,
+    "student_id": 1062,
+    "score": 62.2,
+    "submitted_at": "2026-02-01T02:49:03.802380"
+  },
+  {
+    "id": 4062,
+    "assignment_id": 211,
+    "student_id": 1062,
+    "score": 50.9,
+    "submitted_at": "2026-01-30T22:13:40.835771"
+  },
+  {
+    "id": 4063,
+    "assignment_id": 219,
+    "student_id": 1062,
+    "score": 78.5,
+    "submitted_at": "2025-12-12T20:33:37.912193"
+  },
+  {
+    "id": 4064,
+    "assignment_id": 227,
+    "student_id": 1062,
+    "score": 79.0,
+    "submitted_at": "2026-01-05T14:03:35.657907"
+  },
+  {
+    "id": 4065,
+    "assignment_id": 206,
+    "student_id": 1062,
+    "score": 51.9,
+    "submitted_at": "2025-11-27T08:56:34.403596"
+  },
+  {
+    "id": 4066,
+    "assignment_id": 214,
+    "student_id": 1062,
+    "score": 66.8,
+    "submitted_at": "2026-01-14T09:17:15.698116"
+  },
+  {
+    "id": 4067,
+    "assignment_id": 222,
+    "student_id": 1062,
+    "score": 66.1,
+    "submitted_at": "2026-02-01T12:07:58.792794"
+  },
+  {
+    "id": 4068,
+    "assignment_id": 207,
+    "student_id": 1062,
+    "score": 73.7,
+    "submitted_at": "2026-02-14T01:39:41.663874"
+  },
+  {
+    "id": 4069,
+    "assignment_id": 215,
+    "student_id": 1062,
+    "score": 51.2,
+    "submitted_at": "2025-11-22T04:57:15.988139"
+  },
+  {
+    "id": 4070,
+    "assignment_id": 223,
+    "student_id": 1062,
+    "score": 67.2,
+    "submitted_at": "2025-12-06T18:28:13.479195"
+  },
+  {
+    "id": 4071,
+    "assignment_id": 231,
+    "student_id": 1062,
+    "score": 50.0,
+    "submitted_at": "2026-02-07T22:57:46.541158"
+  },
+  {
+    "id": 4072,
+    "assignment_id": 209,
+    "student_id": 1062,
+    "score": 50.0,
+    "submitted_at": "2025-12-25T20:17:15.161305"
+  },
+  {
+    "id": 4073,
+    "assignment_id": 225,
+    "student_id": 1062,
+    "score": 64.5,
+    "submitted_at": "2026-01-28T04:37:57.360113"
+  },
+  {
+    "id": 4074,
+    "assignment_id": 233,
+    "student_id": 1062,
+    "score": 67.9,
+    "submitted_at": "2025-11-30T19:50:27.253605"
+  },
+  {
+    "id": 4075,
+    "assignment_id": 206,
+    "student_id": 1063,
+    "score": 94.4,
+    "submitted_at": "2025-12-16T15:41:27.847236"
+  },
+  {
+    "id": 4076,
+    "assignment_id": 222,
+    "student_id": 1063,
+    "score": 95.1,
+    "submitted_at": "2025-12-05T00:59:09.429590"
+  },
+  {
+    "id": 4077,
+    "assignment_id": 230,
+    "student_id": 1063,
+    "score": 56.6,
+    "submitted_at": "2025-11-30T10:01:27.890571"
+  },
+  {
+    "id": 4078,
+    "assignment_id": 221,
+    "student_id": 1063,
+    "score": 51.1,
+    "submitted_at": "2025-12-31T05:32:28.387558"
+  },
+  {
+    "id": 4079,
+    "assignment_id": 229,
+    "student_id": 1063,
+    "score": 52.6,
+    "submitted_at": "2026-02-02T09:04:14.061969"
+  },
+  {
+    "id": 4080,
+    "assignment_id": 207,
+    "student_id": 1063,
+    "score": 70.6,
+    "submitted_at": "2025-12-14T04:39:53.742693"
+  },
+  {
+    "id": 4081,
+    "assignment_id": 215,
+    "student_id": 1063,
+    "score": 51.8,
+    "submitted_at": "2025-12-31T14:16:19.198055"
+  },
+  {
+    "id": 4082,
+    "assignment_id": 223,
+    "student_id": 1063,
+    "score": 51.9,
+    "submitted_at": "2025-12-06T22:00:43.431815"
+  },
+  {
+    "id": 4083,
+    "assignment_id": 203,
+    "student_id": 1063,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T20:49:18.100090"
+  },
+  {
+    "id": 4084,
+    "assignment_id": 204,
+    "student_id": 1063,
+    "score": 50.0,
+    "submitted_at": "2025-11-29T16:40:42.957227"
+  },
+  {
+    "id": 4085,
+    "assignment_id": 212,
+    "student_id": 1063,
+    "score": 66.3,
+    "submitted_at": "2026-01-22T23:43:45.871289"
+  },
+  {
+    "id": 4086,
+    "assignment_id": 220,
+    "student_id": 1063,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T13:10:26.800627"
+  },
+  {
+    "id": 4087,
+    "assignment_id": 228,
+    "student_id": 1063,
+    "score": 53.8,
+    "submitted_at": "2026-02-10T20:50:45.580771"
+  },
+  {
+    "id": 4088,
+    "assignment_id": 201,
+    "student_id": 1064,
+    "score": 69.0,
+    "submitted_at": "2026-01-26T16:29:42.197116"
+  },
+  {
+    "id": 4089,
+    "assignment_id": 202,
+    "student_id": 1064,
+    "score": 67.4,
+    "submitted_at": "2026-02-18T20:03:48.468607"
+  },
+  {
+    "id": 4090,
+    "assignment_id": 211,
+    "student_id": 1064,
+    "score": 53.0,
+    "submitted_at": "2026-02-18T00:52:55.784464"
+  },
+  {
+    "id": 4091,
+    "assignment_id": 219,
+    "student_id": 1064,
+    "score": 79.8,
+    "submitted_at": "2025-11-28T00:50:23.432869"
+  },
+  {
+    "id": 4092,
+    "assignment_id": 227,
+    "student_id": 1064,
+    "score": 68.2,
+    "submitted_at": "2026-01-16T18:23:10.672333"
+  },
+  {
+    "id": 4093,
+    "assignment_id": 207,
+    "student_id": 1064,
+    "score": 79.1,
+    "submitted_at": "2025-12-21T15:38:02.935177"
+  },
+  {
+    "id": 4094,
+    "assignment_id": 215,
+    "student_id": 1064,
+    "score": 53.6,
+    "submitted_at": "2026-01-24T23:20:10.314968"
+  },
+  {
+    "id": 4095,
+    "assignment_id": 223,
+    "student_id": 1064,
+    "score": 55.7,
+    "submitted_at": "2026-02-07T18:14:37.152443"
+  },
+  {
+    "id": 4096,
+    "assignment_id": 231,
+    "student_id": 1064,
+    "score": 50.0,
+    "submitted_at": "2025-12-09T14:00:11.152315"
+  },
+  {
+    "id": 4097,
+    "assignment_id": 206,
+    "student_id": 1064,
+    "score": 63.1,
+    "submitted_at": "2026-02-10T03:33:41.487445"
+  },
+  {
+    "id": 4098,
+    "assignment_id": 214,
+    "student_id": 1064,
+    "score": 59.1,
+    "submitted_at": "2026-02-13T02:02:51.058800"
+  },
+  {
+    "id": 4099,
+    "assignment_id": 222,
+    "student_id": 1064,
+    "score": 64.8,
+    "submitted_at": "2025-11-26T18:57:21.898045"
+  },
+  {
+    "id": 4100,
+    "assignment_id": 230,
+    "student_id": 1064,
+    "score": 67.4,
+    "submitted_at": "2025-11-24T03:25:43.309320"
+  },
+  {
+    "id": 4101,
+    "assignment_id": 210,
+    "student_id": 1064,
+    "score": 64.0,
+    "submitted_at": "2025-12-18T16:51:42.181839"
+  },
+  {
+    "id": 4102,
+    "assignment_id": 218,
+    "student_id": 1064,
+    "score": 50.1,
+    "submitted_at": "2026-02-11T15:08:34.771643"
+  },
+  {
+    "id": 4103,
+    "assignment_id": 226,
+    "student_id": 1064,
+    "score": 95.3,
+    "submitted_at": "2025-12-06T05:15:20.384059"
+  },
+  {
+    "id": 4104,
+    "assignment_id": 203,
+    "student_id": 1064,
+    "score": 50.0,
+    "submitted_at": "2026-02-11T19:10:41.122225"
+  },
+  {
+    "id": 4105,
+    "assignment_id": 204,
+    "student_id": 1064,
+    "score": 50.0,
+    "submitted_at": "2026-01-04T05:01:02.257297"
+  },
+  {
+    "id": 4106,
+    "assignment_id": 212,
+    "student_id": 1064,
+    "score": 52.5,
+    "submitted_at": "2025-12-25T13:02:20.983226"
+  },
+  {
+    "id": 4107,
+    "assignment_id": 220,
+    "student_id": 1064,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T05:44:15.954442"
+  },
+  {
+    "id": 4108,
+    "assignment_id": 209,
+    "student_id": 1064,
+    "score": 50.0,
+    "submitted_at": "2026-01-03T03:18:27.635010"
+  },
+  {
+    "id": 4109,
+    "assignment_id": 217,
+    "student_id": 1064,
+    "score": 53.5,
+    "submitted_at": "2025-11-23T08:09:22.604818"
+  },
+  {
+    "id": 4110,
+    "assignment_id": 225,
+    "student_id": 1064,
+    "score": 64.5,
+    "submitted_at": "2026-02-16T10:01:22.398509"
+  },
+  {
+    "id": 4111,
+    "assignment_id": 206,
+    "student_id": 1065,
+    "score": 86.9,
+    "submitted_at": "2025-11-27T19:53:39.636871"
+  },
+  {
+    "id": 4112,
+    "assignment_id": 214,
+    "student_id": 1065,
+    "score": 84.1,
+    "submitted_at": "2025-11-30T02:24:52.241653"
+  },
+  {
+    "id": 4113,
+    "assignment_id": 222,
+    "student_id": 1065,
+    "score": 92.6,
+    "submitted_at": "2026-02-14T13:39:21.794383"
+  },
+  {
+    "id": 4114,
+    "assignment_id": 230,
+    "student_id": 1065,
+    "score": 56.0,
+    "submitted_at": "2025-11-22T18:03:42.224284"
+  },
+  {
+    "id": 4115,
+    "assignment_id": 210,
+    "student_id": 1065,
+    "score": 56.6,
+    "submitted_at": "2026-01-13T07:50:47.681146"
+  },
+  {
+    "id": 4116,
+    "assignment_id": 218,
+    "student_id": 1065,
+    "score": 72.0,
+    "submitted_at": "2026-02-07T09:19:03.293129"
+  },
+  {
+    "id": 4117,
+    "assignment_id": 226,
+    "student_id": 1065,
+    "score": 90.7,
+    "submitted_at": "2026-02-03T04:16:33.054779"
+  },
+  {
+    "id": 4118,
+    "assignment_id": 234,
+    "student_id": 1065,
+    "score": 70.0,
+    "submitted_at": "2026-01-12T04:59:23.998137"
+  },
+  {
+    "id": 4119,
+    "assignment_id": 215,
+    "student_id": 1065,
+    "score": 51.9,
+    "submitted_at": "2025-12-31T20:00:45.018212"
+  },
+  {
+    "id": 4120,
+    "assignment_id": 231,
+    "student_id": 1065,
+    "score": 50.0,
+    "submitted_at": "2025-12-29T16:18:57.171887"
+  },
+  {
+    "id": 4121,
+    "assignment_id": 203,
+    "student_id": 1065,
+    "score": 50.0,
+    "submitted_at": "2025-12-14T09:23:23.467648"
+  },
+  {
+    "id": 4122,
+    "assignment_id": 204,
+    "student_id": 1065,
+    "score": 50.0,
+    "submitted_at": "2026-02-05T00:40:16.979053"
+  },
+  {
+    "id": 4123,
+    "assignment_id": 220,
+    "student_id": 1065,
+    "score": 50.0,
+    "submitted_at": "2025-12-19T11:07:18.918013"
+  },
+  {
+    "id": 4124,
+    "assignment_id": 228,
+    "student_id": 1065,
+    "score": 58.0,
+    "submitted_at": "2026-01-28T04:01:06.866981"
+  },
+  {
+    "id": 4125,
+    "assignment_id": 209,
+    "student_id": 1065,
+    "score": 50.0,
+    "submitted_at": "2026-01-04T23:27:35.354813"
+  },
+  {
+    "id": 4126,
+    "assignment_id": 217,
+    "student_id": 1065,
+    "score": 57.2,
+    "submitted_at": "2026-02-02T16:41:57.755067"
+  },
+  {
+    "id": 4127,
+    "assignment_id": 225,
+    "student_id": 1065,
+    "score": 84.2,
+    "submitted_at": "2025-12-24T05:42:49.211232"
+  },
+  {
+    "id": 4128,
+    "assignment_id": 215,
+    "student_id": 1066,
+    "score": 54.6,
+    "submitted_at": "2025-12-18T12:01:56.776657"
+  },
+  {
+    "id": 4129,
+    "assignment_id": 223,
+    "student_id": 1066,
+    "score": 70.6,
+    "submitted_at": "2025-11-27T09:17:30.455276"
+  },
+  {
+    "id": 4130,
+    "assignment_id": 231,
+    "student_id": 1066,
+    "score": 50.0,
+    "submitted_at": "2026-01-29T22:22:32.790371"
+  },
+  {
+    "id": 4131,
+    "assignment_id": 209,
+    "student_id": 1066,
+    "score": 50.0,
+    "submitted_at": "2026-01-27T23:26:09.230674"
+  },
+  {
+    "id": 4132,
+    "assignment_id": 217,
+    "student_id": 1066,
+    "score": 65.4,
+    "submitted_at": "2026-01-09T07:34:01.854703"
+  },
+  {
+    "id": 4133,
+    "assignment_id": 225,
+    "student_id": 1066,
+    "score": 78.3,
+    "submitted_at": "2025-12-12T19:21:40.957430"
+  },
+  {
+    "id": 4134,
+    "assignment_id": 201,
+    "student_id": 1066,
+    "score": 63.5,
+    "submitted_at": "2025-12-10T10:49:17.714230"
+  },
+  {
+    "id": 4135,
+    "assignment_id": 202,
+    "student_id": 1066,
+    "score": 67.5,
+    "submitted_at": "2026-01-06T16:14:49.277412"
+  },
+  {
+    "id": 4136,
+    "assignment_id": 211,
+    "student_id": 1066,
+    "score": 56.6,
+    "submitted_at": "2025-12-25T20:55:19.385089"
+  },
+  {
+    "id": 4137,
+    "assignment_id": 219,
+    "student_id": 1066,
+    "score": 65.6,
+    "submitted_at": "2025-12-21T21:01:44.635412"
+  },
+  {
+    "id": 4138,
+    "assignment_id": 227,
+    "student_id": 1066,
+    "score": 61.5,
+    "submitted_at": "2026-02-16T21:52:37.206373"
+  },
+  {
+    "id": 4139,
+    "assignment_id": 213,
+    "student_id": 1066,
+    "score": 79.6,
+    "submitted_at": "2025-12-13T10:58:40.971826"
+  },
+  {
+    "id": 4140,
+    "assignment_id": 221,
+    "student_id": 1066,
+    "score": 53.2,
+    "submitted_at": "2025-12-06T06:44:39.954832"
+  },
+  {
+    "id": 4141,
+    "assignment_id": 229,
+    "student_id": 1066,
+    "score": 67.0,
+    "submitted_at": "2026-02-03T18:05:22.825662"
+  },
+  {
+    "id": 4142,
+    "assignment_id": 226,
+    "student_id": 1066,
+    "score": 74.6,
+    "submitted_at": "2026-02-04T10:04:19.036279"
+  },
+  {
+    "id": 4143,
+    "assignment_id": 234,
+    "student_id": 1066,
+    "score": 98.5,
+    "submitted_at": "2025-12-26T03:14:55.576859"
+  },
+  {
+    "id": 4144,
+    "assignment_id": 206,
+    "student_id": 1066,
+    "score": 61.1,
+    "submitted_at": "2026-02-13T01:14:51.401286"
+  },
+  {
+    "id": 4145,
+    "assignment_id": 214,
+    "student_id": 1066,
+    "score": 68.1,
+    "submitted_at": "2026-01-17T00:58:08.722623"
+  },
+  {
+    "id": 4146,
+    "assignment_id": 222,
+    "student_id": 1066,
+    "score": 73.0,
+    "submitted_at": "2025-11-20T15:33:02.145751"
+  },
+  {
+    "id": 4147,
+    "assignment_id": 206,
+    "student_id": 1067,
+    "score": 92.8,
+    "submitted_at": "2026-01-13T06:48:31.257983"
+  },
+  {
+    "id": 4148,
+    "assignment_id": 214,
+    "student_id": 1067,
+    "score": 55.3,
+    "submitted_at": "2025-12-29T23:42:53.517900"
+  },
+  {
+    "id": 4149,
+    "assignment_id": 222,
+    "student_id": 1067,
+    "score": 82.7,
+    "submitted_at": "2025-12-18T10:51:06.205136"
+  },
+  {
+    "id": 4150,
+    "assignment_id": 230,
+    "student_id": 1067,
+    "score": 64.4,
+    "submitted_at": "2025-11-22T18:34:40.426833"
+  },
+  {
+    "id": 4151,
+    "assignment_id": 207,
+    "student_id": 1067,
+    "score": 50.0,
+    "submitted_at": "2026-02-03T05:17:12.329316"
+  },
+  {
+    "id": 4152,
+    "assignment_id": 215,
+    "student_id": 1067,
+    "score": 53.0,
+    "submitted_at": "2025-12-14T03:31:33.625081"
+  },
+  {
+    "id": 4153,
+    "assignment_id": 223,
+    "student_id": 1067,
+    "score": 65.2,
+    "submitted_at": "2026-01-22T17:50:35.854692"
+  },
+  {
+    "id": 4154,
+    "assignment_id": 231,
+    "student_id": 1067,
+    "score": 50.0,
+    "submitted_at": "2025-12-12T06:17:04.112022"
+  },
+  {
+    "id": 4155,
+    "assignment_id": 210,
+    "student_id": 1067,
+    "score": 64.3,
+    "submitted_at": "2025-12-02T14:51:32.871923"
+  },
+  {
+    "id": 4156,
+    "assignment_id": 218,
+    "student_id": 1067,
+    "score": 51.4,
+    "submitted_at": "2025-12-16T19:54:08.685927"
+  },
+  {
+    "id": 4157,
+    "assignment_id": 226,
+    "student_id": 1067,
+    "score": 72.7,
+    "submitted_at": "2025-12-27T10:19:43.768406"
+  },
+  {
+    "id": 4158,
+    "assignment_id": 234,
+    "student_id": 1067,
+    "score": 81.0,
+    "submitted_at": "2025-11-29T00:32:32.578484"
+  },
+  {
+    "id": 4159,
+    "assignment_id": 203,
+    "student_id": 1067,
+    "score": 50.0,
+    "submitted_at": "2026-01-14T06:46:25.516620"
+  },
+  {
+    "id": 4160,
+    "assignment_id": 204,
+    "student_id": 1067,
+    "score": 50.0,
+    "submitted_at": "2025-12-15T23:28:40.500498"
+  },
+  {
+    "id": 4161,
+    "assignment_id": 212,
+    "student_id": 1067,
+    "score": 55.5,
+    "submitted_at": "2026-01-01T20:05:06.703199"
+  },
+  {
+    "id": 4162,
+    "assignment_id": 220,
+    "student_id": 1067,
+    "score": 50.0,
+    "submitted_at": "2026-01-16T04:02:39.275435"
+  },
+  {
+    "id": 4163,
+    "assignment_id": 205,
+    "student_id": 1068,
+    "score": 76.1,
+    "submitted_at": "2025-12-11T19:23:56.639391"
+  },
+  {
+    "id": 4164,
+    "assignment_id": 213,
+    "student_id": 1068,
+    "score": 51.4,
+    "submitted_at": "2026-01-09T13:49:52.152621"
+  },
+  {
+    "id": 4165,
+    "assignment_id": 221,
+    "student_id": 1068,
+    "score": 50.7,
+    "submitted_at": "2026-01-30T03:38:21.635400"
+  },
+  {
+    "id": 4166,
+    "assignment_id": 229,
+    "student_id": 1068,
+    "score": 64.4,
+    "submitted_at": "2025-12-10T00:33:19.748983"
+  },
+  {
+    "id": 4167,
+    "assignment_id": 206,
+    "student_id": 1068,
+    "score": 80.5,
+    "submitted_at": "2026-01-12T04:09:33.073305"
+  },
+  {
+    "id": 4168,
+    "assignment_id": 214,
+    "student_id": 1068,
+    "score": 91.9,
+    "submitted_at": "2025-12-21T21:03:20.144533"
+  },
+  {
+    "id": 4169,
+    "assignment_id": 222,
+    "student_id": 1068,
+    "score": 72.9,
+    "submitted_at": "2026-01-24T04:53:36.389296"
+  },
+  {
+    "id": 4170,
+    "assignment_id": 230,
+    "student_id": 1068,
+    "score": 75.1,
+    "submitted_at": "2026-02-02T11:17:58.727930"
+  },
+  {
+    "id": 4171,
+    "assignment_id": 201,
+    "student_id": 1068,
+    "score": 66.6,
+    "submitted_at": "2025-12-21T09:41:58.876334"
+  },
+  {
+    "id": 4172,
+    "assignment_id": 219,
+    "student_id": 1068,
+    "score": 84.7,
+    "submitted_at": "2026-02-11T03:13:29.040673"
+  },
+  {
+    "id": 4173,
+    "assignment_id": 227,
+    "student_id": 1068,
+    "score": 69.8,
+    "submitted_at": "2026-01-31T05:50:42.862482"
+  },
+  {
+    "id": 4174,
+    "assignment_id": 204,
+    "student_id": 1068,
+    "score": 50.0,
+    "submitted_at": "2026-01-21T00:36:11.878513"
+  },
+  {
+    "id": 4175,
+    "assignment_id": 212,
+    "student_id": 1068,
+    "score": 51.2,
+    "submitted_at": "2026-01-21T07:22:58.411937"
+  },
+  {
+    "id": 4176,
+    "assignment_id": 210,
+    "student_id": 1068,
+    "score": 57.6,
+    "submitted_at": "2026-01-27T23:26:45.891911"
+  },
+  {
+    "id": 4177,
+    "assignment_id": 226,
+    "student_id": 1068,
+    "score": 78.9,
+    "submitted_at": "2025-12-28T19:27:03.036576"
+  },
+  {
+    "id": 4178,
+    "assignment_id": 234,
+    "student_id": 1068,
+    "score": 56.4,
+    "submitted_at": "2025-11-22T19:29:26.470852"
+  },
+  {
+    "id": 4179,
+    "assignment_id": 208,
+    "student_id": 1068,
+    "score": 50.0,
+    "submitted_at": "2025-12-03T01:24:01.914010"
+  },
+  {
+    "id": 4180,
+    "assignment_id": 224,
+    "student_id": 1068,
+    "score": 63.5,
+    "submitted_at": "2025-12-01T03:01:37.495089"
+  },
+  {
+    "id": 4181,
+    "assignment_id": 216,
+    "student_id": 1069,
+    "score": 50.0,
+    "submitted_at": "2025-12-21T20:33:05.278945"
+  },
+  {
+    "id": 4182,
+    "assignment_id": 207,
+    "student_id": 1069,
+    "score": 54.7,
+    "submitted_at": "2025-12-30T01:53:16.799525"
+  },
+  {
+    "id": 4183,
+    "assignment_id": 215,
+    "student_id": 1069,
+    "score": 53.5,
+    "submitted_at": "2026-01-30T04:08:00.396422"
+  },
+  {
+    "id": 4184,
+    "assignment_id": 223,
+    "student_id": 1069,
+    "score": 64.9,
+    "submitted_at": "2025-12-27T18:47:15.998493"
+  },
+  {
+    "id": 4185,
+    "assignment_id": 231,
+    "student_id": 1069,
+    "score": 50.0,
+    "submitted_at": "2026-01-28T23:27:07.207685"
+  },
+  {
+    "id": 4186,
+    "assignment_id": 210,
+    "student_id": 1069,
+    "score": 64.0,
+    "submitted_at": "2026-01-01T15:48:28.789651"
+  },
+  {
+    "id": 4187,
+    "assignment_id": 218,
+    "student_id": 1069,
+    "score": 55.0,
+    "submitted_at": "2026-02-14T02:10:41.665144"
+  },
+  {
+    "id": 4188,
+    "assignment_id": 226,
+    "student_id": 1069,
+    "score": 64.5,
+    "submitted_at": "2026-02-12T17:34:05.252687"
+  },
+  {
+    "id": 4189,
+    "assignment_id": 234,
+    "student_id": 1069,
+    "score": 83.6,
+    "submitted_at": "2026-02-16T21:37:35.714612"
+  },
+  {
+    "id": 4190,
+    "assignment_id": 214,
+    "student_id": 1069,
+    "score": 93.1,
+    "submitted_at": "2025-12-09T13:23:39.661997"
+  },
+  {
+    "id": 4191,
+    "assignment_id": 222,
+    "student_id": 1069,
+    "score": 84.7,
+    "submitted_at": "2026-02-12T09:16:47.646188"
+  },
+  {
+    "id": 4192,
+    "assignment_id": 230,
+    "student_id": 1069,
+    "score": 54.0,
+    "submitted_at": "2026-01-28T12:29:37.649271"
+  },
+  {
+    "id": 4193,
+    "assignment_id": 201,
+    "student_id": 1069,
+    "score": 69.2,
+    "submitted_at": "2026-02-04T17:47:42.441432"
+  },
+  {
+    "id": 4194,
+    "assignment_id": 202,
+    "student_id": 1069,
+    "score": 66.7,
+    "submitted_at": "2025-11-30T15:21:13.088467"
+  },
+  {
+    "id": 4195,
+    "assignment_id": 211,
+    "student_id": 1069,
+    "score": 57.5,
+    "submitted_at": "2026-01-12T18:09:14.208008"
+  },
+  {
+    "id": 4196,
+    "assignment_id": 227,
+    "student_id": 1069,
+    "score": 75.4,
+    "submitted_at": "2025-12-19T09:24:48.835864"
+  },
+  {
+    "id": 4197,
+    "assignment_id": 204,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2025-11-27T23:22:33.147215"
+  },
+  {
+    "id": 4198,
+    "assignment_id": 212,
+    "student_id": 1070,
+    "score": 66.8,
+    "submitted_at": "2025-12-08T15:03:10.229044"
+  },
+  {
+    "id": 4199,
+    "assignment_id": 220,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2025-12-13T01:43:13.537307"
+  },
+  {
+    "id": 4200,
+    "assignment_id": 228,
+    "student_id": 1070,
+    "score": 52.9,
+    "submitted_at": "2026-01-26T13:09:28.708534"
+  },
+  {
+    "id": 4201,
+    "assignment_id": 210,
+    "student_id": 1070,
+    "score": 62.6,
+    "submitted_at": "2025-12-27T19:36:19.032552"
+  },
+  {
+    "id": 4202,
+    "assignment_id": 218,
+    "student_id": 1070,
+    "score": 57.4,
+    "submitted_at": "2025-12-07T19:46:08.642244"
+  },
+  {
+    "id": 4203,
+    "assignment_id": 226,
+    "student_id": 1070,
+    "score": 51.6,
+    "submitted_at": "2026-01-12T15:23:16.987645"
+  },
+  {
+    "id": 4204,
+    "assignment_id": 208,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2025-12-14T09:40:23.490899"
+  },
+  {
+    "id": 4205,
+    "assignment_id": 216,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2026-02-08T01:56:50.434925"
+  },
+  {
+    "id": 4206,
+    "assignment_id": 224,
+    "student_id": 1070,
+    "score": 69.6,
+    "submitted_at": "2025-12-31T12:34:26.558448"
+  },
+  {
+    "id": 4207,
+    "assignment_id": 232,
+    "student_id": 1070,
+    "score": 69.6,
+    "submitted_at": "2025-12-13T16:53:27.506163"
+  },
+  {
+    "id": 4208,
+    "assignment_id": 205,
+    "student_id": 1070,
+    "score": 64.4,
+    "submitted_at": "2025-12-30T15:12:09.336424"
+  },
+  {
+    "id": 4209,
+    "assignment_id": 213,
+    "student_id": 1070,
+    "score": 77.8,
+    "submitted_at": "2025-12-24T05:40:34.834860"
+  },
+  {
+    "id": 4210,
+    "assignment_id": 221,
+    "student_id": 1070,
+    "score": 54.8,
+    "submitted_at": "2026-02-15T02:15:56.366419"
+  },
+  {
+    "id": 4211,
+    "assignment_id": 209,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2025-12-04T18:22:00.672336"
+  },
+  {
+    "id": 4212,
+    "assignment_id": 217,
+    "student_id": 1070,
+    "score": 55.0,
+    "submitted_at": "2026-01-05T21:03:16.781837"
+  },
+  {
+    "id": 4213,
+    "assignment_id": 225,
+    "student_id": 1070,
+    "score": 89.0,
+    "submitted_at": "2025-12-13T09:22:17.122290"
+  },
+  {
+    "id": 4214,
+    "assignment_id": 223,
+    "student_id": 1070,
+    "score": 82.4,
+    "submitted_at": "2025-11-25T09:51:57.181852"
+  },
+  {
+    "id": 4215,
+    "assignment_id": 231,
+    "student_id": 1070,
+    "score": 50.0,
+    "submitted_at": "2026-01-22T18:22:32.712400"
+  },
+  {
+    "id": 4216,
+    "assignment_id": 201,
+    "student_id": 1071,
+    "score": 81.0,
+    "submitted_at": "2026-02-14T06:04:38.110730"
+  },
+  {
+    "id": 4217,
+    "assignment_id": 211,
+    "student_id": 1071,
+    "score": 51.8,
+    "submitted_at": "2026-01-01T16:04:57.610632"
+  },
+  {
+    "id": 4218,
+    "assignment_id": 219,
+    "student_id": 1071,
+    "score": 58.4,
+    "submitted_at": "2025-12-08T00:56:57.352587"
+  },
+  {
+    "id": 4219,
+    "assignment_id": 227,
+    "student_id": 1071,
+    "score": 65.4,
+    "submitted_at": "2026-02-08T10:35:39.964066"
+  },
+  {
+    "id": 4220,
+    "assignment_id": 205,
+    "student_id": 1071,
+    "score": 71.4,
+    "submitted_at": "2026-01-25T13:19:26.412589"
+  },
+  {
+    "id": 4221,
+    "assignment_id": 213,
+    "student_id": 1071,
+    "score": 53.9,
+    "submitted_at": "2026-01-03T14:59:05.529483"
+  },
+  {
+    "id": 4222,
+    "assignment_id": 221,
+    "student_id": 1071,
+    "score": 51.3,
+    "submitted_at": "2025-12-03T04:51:35.040209"
+  },
+  {
+    "id": 4223,
+    "assignment_id": 229,
+    "student_id": 1071,
+    "score": 64.2,
+    "submitted_at": "2025-12-11T15:03:48.785051"
+  },
+  {
+    "id": 4224,
+    "assignment_id": 209,
+    "student_id": 1071,
+    "score": 50.0,
+    "submitted_at": "2026-01-13T22:30:06.432037"
+  },
+  {
+    "id": 4225,
+    "assignment_id": 217,
+    "student_id": 1071,
+    "score": 51.0,
+    "submitted_at": "2025-12-10T03:24:12.760998"
+  },
+  {
+    "id": 4226,
+    "assignment_id": 233,
+    "student_id": 1071,
+    "score": 69.9,
+    "submitted_at": "2026-01-24T06:04:51.325867"
+  },
+  {
+    "id": 4227,
+    "assignment_id": 208,
+    "student_id": 1071,
+    "score": 50.0,
+    "submitted_at": "2025-12-10T17:46:28.245877"
+  },
+  {
+    "id": 4228,
+    "assignment_id": 216,
+    "student_id": 1071,
+    "score": 50.0,
+    "submitted_at": "2025-12-23T05:49:41.902333"
+  },
+  {
+    "id": 4229,
+    "assignment_id": 224,
+    "student_id": 1071,
+    "score": 57.7,
+    "submitted_at": "2025-12-05T01:28:18.972731"
+  },
+  {
+    "id": 4230,
+    "assignment_id": 232,
+    "student_id": 1071,
+    "score": 51.7,
+    "submitted_at": "2026-02-17T22:28:14.253523"
+  },
+  {
+    "id": 4231,
+    "assignment_id": 206,
+    "student_id": 1071,
+    "score": 70.8,
+    "submitted_at": "2026-01-17T08:52:02.972123"
+  },
+  {
+    "id": 4232,
+    "assignment_id": 214,
+    "student_id": 1071,
+    "score": 54.1,
+    "submitted_at": "2026-01-05T20:27:17.544126"
+  },
+  {
+    "id": 4233,
+    "assignment_id": 222,
+    "student_id": 1071,
+    "score": 60.7,
+    "submitted_at": "2026-02-09T00:42:08.333325"
+  },
+  {
+    "id": 4234,
+    "assignment_id": 230,
+    "student_id": 1071,
+    "score": 62.6,
+    "submitted_at": "2025-11-22T03:24:38.439172"
+  },
+  {
+    "id": 4235,
+    "assignment_id": 206,
+    "student_id": 1072,
+    "score": 87.6,
+    "submitted_at": "2025-12-27T11:04:02.182982"
+  },
+  {
+    "id": 4236,
+    "assignment_id": 214,
+    "student_id": 1072,
+    "score": 94.8,
+    "submitted_at": "2025-12-10T03:31:12.427957"
+  },
+  {
+    "id": 4237,
+    "assignment_id": 210,
+    "student_id": 1072,
+    "score": 60.0,
+    "submitted_at": "2026-01-31T06:37:12.159020"
+  },
+  {
+    "id": 4238,
+    "assignment_id": 218,
+    "student_id": 1072,
+    "score": 72.6,
+    "submitted_at": "2026-02-15T04:45:36.155571"
+  },
+  {
+    "id": 4239,
+    "assignment_id": 226,
+    "student_id": 1072,
+    "score": 81.1,
+    "submitted_at": "2026-02-03T01:18:12.200001"
+  },
+  {
+    "id": 4240,
+    "assignment_id": 207,
+    "student_id": 1072,
+    "score": 61.2,
+    "submitted_at": "2026-01-26T02:20:57.638340"
+  },
+  {
+    "id": 4241,
+    "assignment_id": 231,
+    "student_id": 1072,
+    "score": 50.0,
+    "submitted_at": "2026-01-02T05:20:56.614558"
+  },
+  {
+    "id": 4242,
+    "assignment_id": 203,
+    "student_id": 1072,
+    "score": 50.0,
+    "submitted_at": "2025-12-27T10:55:26.295574"
+  },
+  {
+    "id": 4243,
+    "assignment_id": 212,
+    "student_id": 1072,
+    "score": 70.1,
+    "submitted_at": "2025-11-29T04:15:28.558824"
+  },
+  {
+    "id": 4244,
+    "assignment_id": 220,
+    "student_id": 1072,
+    "score": 50.0,
+    "submitted_at": "2026-01-12T18:54:20.859067"
+  },
+  {
+    "id": 4245,
+    "assignment_id": 208,
+    "student_id": 1072,
+    "score": 50.0,
+    "submitted_at": "2026-01-01T13:24:45.697961"
+  },
+  {
+    "id": 4246,
+    "assignment_id": 224,
+    "student_id": 1072,
+    "score": 83.5,
+    "submitted_at": "2026-02-13T23:29:25.968644"
+  },
+  {
+    "id": 4247,
+    "assignment_id": 232,
+    "student_id": 1072,
+    "score": 50.2,
+    "submitted_at": "2026-01-20T11:52:09.729819"
+  },
+  {
+    "id": 4248,
+    "assignment_id": 209,
+    "student_id": 1072,
+    "score": 50.0,
+    "submitted_at": "2026-02-14T07:27:32.310697"
+  },
+  {
+    "id": 4249,
+    "assignment_id": 217,
+    "student_id": 1072,
+    "score": 67.3,
+    "submitted_at": "2026-01-27T06:08:57.833682"
+  },
+  {
+    "id": 4250,
+    "assignment_id": 225,
+    "student_id": 1072,
+    "score": 55.2,
+    "submitted_at": "2026-02-10T18:03:55.370952"
+  },
+  {
+    "id": 4251,
+    "assignment_id": 233,
+    "student_id": 1072,
+    "score": 71.1,
+    "submitted_at": "2026-01-14T13:21:45.273913"
+  },
+  {
+    "id": 4252,
+    "assignment_id": 215,
+    "student_id": 1073,
+    "score": 53.2,
+    "submitted_at": "2026-02-17T05:14:55.703887"
+  },
+  {
+    "id": 4253,
+    "assignment_id": 231,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2026-01-03T00:42:18.030891"
+  },
+  {
+    "id": 4254,
+    "assignment_id": 208,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2026-02-04T19:26:37.535276"
+  },
+  {
+    "id": 4255,
+    "assignment_id": 216,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2026-02-11T07:55:53.153255"
+  },
+  {
+    "id": 4256,
+    "assignment_id": 224,
+    "student_id": 1073,
+    "score": 69.5,
+    "submitted_at": "2026-01-11T11:04:37.970236"
+  },
+  {
+    "id": 4257,
+    "assignment_id": 232,
+    "student_id": 1073,
+    "score": 55.7,
+    "submitted_at": "2026-01-01T22:39:08.040859"
+  },
+  {
+    "id": 4258,
+    "assignment_id": 206,
+    "student_id": 1073,
+    "score": 69.4,
+    "submitted_at": "2025-12-12T05:25:12.947299"
+  },
+  {
+    "id": 4259,
+    "assignment_id": 214,
+    "student_id": 1073,
+    "score": 69.5,
+    "submitted_at": "2025-12-22T11:27:38.706661"
+  },
+  {
+    "id": 4260,
+    "assignment_id": 222,
+    "student_id": 1073,
+    "score": 83.7,
+    "submitted_at": "2025-12-04T03:59:41.056093"
+  },
+  {
+    "id": 4261,
+    "assignment_id": 230,
+    "student_id": 1073,
+    "score": 72.4,
+    "submitted_at": "2026-02-04T06:46:13.796707"
+  },
+  {
+    "id": 4262,
+    "assignment_id": 205,
+    "student_id": 1073,
+    "score": 87.8,
+    "submitted_at": "2025-12-13T21:09:51.158656"
+  },
+  {
+    "id": 4263,
+    "assignment_id": 213,
+    "student_id": 1073,
+    "score": 71.0,
+    "submitted_at": "2026-01-11T07:08:36.669947"
+  },
+  {
+    "id": 4264,
+    "assignment_id": 221,
+    "student_id": 1073,
+    "score": 54.6,
+    "submitted_at": "2025-11-25T23:51:38.127181"
+  },
+  {
+    "id": 4265,
+    "assignment_id": 229,
+    "student_id": 1073,
+    "score": 65.7,
+    "submitted_at": "2026-02-08T04:23:24.814634"
+  },
+  {
+    "id": 4266,
+    "assignment_id": 209,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2025-12-31T07:41:57.148384"
+  },
+  {
+    "id": 4267,
+    "assignment_id": 217,
+    "student_id": 1073,
+    "score": 58.8,
+    "submitted_at": "2025-12-27T19:52:30.170053"
+  },
+  {
+    "id": 4268,
+    "assignment_id": 225,
+    "student_id": 1073,
+    "score": 83.0,
+    "submitted_at": "2026-01-20T08:04:33.726677"
+  },
+  {
+    "id": 4269,
+    "assignment_id": 233,
+    "student_id": 1073,
+    "score": 66.0,
+    "submitted_at": "2025-11-21T01:21:43.967430"
+  },
+  {
+    "id": 4270,
+    "assignment_id": 203,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2025-12-07T18:56:17.167699"
+  },
+  {
+    "id": 4271,
+    "assignment_id": 204,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2025-11-25T11:15:30.431419"
+  },
+  {
+    "id": 4272,
+    "assignment_id": 220,
+    "student_id": 1073,
+    "score": 50.0,
+    "submitted_at": "2026-01-10T01:25:52.242589"
+  },
+  {
+    "id": 4273,
+    "assignment_id": 207,
+    "student_id": 1074,
+    "score": 75.5,
+    "submitted_at": "2025-12-23T12:29:36.834603"
+  },
+  {
+    "id": 4274,
+    "assignment_id": 215,
+    "student_id": 1074,
+    "score": 54.7,
+    "submitted_at": "2025-12-20T09:00:21.872317"
+  },
+  {
+    "id": 4275,
+    "assignment_id": 223,
+    "student_id": 1074,
+    "score": 77.8,
+    "submitted_at": "2025-12-24T22:42:36.987863"
+  },
+  {
+    "id": 4276,
+    "assignment_id": 231,
+    "student_id": 1074,
+    "score": 50.0,
+    "submitted_at": "2025-11-23T20:26:57.023250"
+  },
+  {
+    "id": 4277,
+    "assignment_id": 201,
+    "student_id": 1074,
+    "score": 71.5,
+    "submitted_at": "2026-02-07T21:36:31.174049"
+  },
+  {
+    "id": 4278,
+    "assignment_id": 211,
+    "student_id": 1074,
+    "score": 57.5,
+    "submitted_at": "2025-12-04T04:20:21.462666"
+  },
+  {
+    "id": 4279,
+    "assignment_id": 227,
+    "student_id": 1074,
+    "score": 62.4,
+    "submitted_at": "2026-01-28T01:47:05.001998"
+  },
+  {
+    "id": 4280,
+    "assignment_id": 210,
+    "student_id": 1074,
+    "score": 57.7,
+    "submitted_at": "2026-01-30T08:13:11.398211"
+  },
+  {
+    "id": 4281,
+    "assignment_id": 218,
+    "student_id": 1074,
+    "score": 55.5,
+    "submitted_at": "2026-02-07T11:35:15.577076"
+  },
+  {
+    "id": 4282,
+    "assignment_id": 234,
+    "student_id": 1074,
+    "score": 59.1,
+    "submitted_at": "2026-01-27T16:02:52.077227"
+  },
+  {
+    "id": 4283,
+    "assignment_id": 209,
+    "student_id": 1074,
+    "score": 50.0,
+    "submitted_at": "2025-12-16T15:58:11.366137"
+  },
+  {
+    "id": 4284,
+    "assignment_id": 206,
+    "student_id": 1074,
+    "score": 77.5,
+    "submitted_at": "2026-01-08T18:18:40.596670"
+  },
+  {
+    "id": 4285,
+    "assignment_id": 214,
+    "student_id": 1074,
+    "score": 53.0,
+    "submitted_at": "2026-01-05T18:55:31.262851"
+  },
+  {
+    "id": 4286,
+    "assignment_id": 222,
+    "student_id": 1074,
+    "score": 86.3,
+    "submitted_at": "2026-01-14T20:53:50.743265"
+  },
+  {
+    "id": 4287,
+    "assignment_id": 230,
+    "student_id": 1074,
+    "score": 61.6,
+    "submitted_at": "2026-01-11T01:19:10.625179"
+  },
+  {
+    "id": 4288,
+    "assignment_id": 205,
+    "student_id": 1075,
+    "score": 82.8,
+    "submitted_at": "2025-11-26T18:01:08.399999"
+  },
+  {
+    "id": 4289,
+    "assignment_id": 213,
+    "student_id": 1075,
+    "score": 68.6,
+    "submitted_at": "2025-11-23T19:29:57.705724"
+  },
+  {
+    "id": 4290,
+    "assignment_id": 229,
+    "student_id": 1075,
+    "score": 59.0,
+    "submitted_at": "2026-01-24T20:08:38.909599"
+  },
+  {
+    "id": 4291,
+    "assignment_id": 208,
+    "student_id": 1075,
+    "score": 50.0,
+    "submitted_at": "2025-12-01T03:20:01.286298"
+  },
+  {
+    "id": 4292,
+    "assignment_id": 216,
+    "student_id": 1075,
+    "score": 50.0,
+    "submitted_at": "2026-01-20T11:46:42.279700"
+  },
+  {
+    "id": 4293,
+    "assignment_id": 224,
+    "student_id": 1075,
+    "score": 61.1,
+    "submitted_at": "2026-02-12T12:08:17.728307"
+  },
+  {
+    "id": 4294,
+    "assignment_id": 232,
+    "student_id": 1075,
+    "score": 50.1,
+    "submitted_at": "2026-01-02T02:54:22.468096"
+  },
+  {
+    "id": 4295,
+    "assignment_id": 201,
+    "student_id": 1075,
+    "score": 58.9,
+    "submitted_at": "2026-01-10T18:04:39.138710"
+  },
+  {
+    "id": 4296,
+    "assignment_id": 202,
+    "student_id": 1075,
+    "score": 60.9,
+    "submitted_at": "2026-02-05T15:21:52.989033"
+  },
+  {
+    "id": 4297,
+    "assignment_id": 219,
+    "student_id": 1075,
+    "score": 83.0,
+    "submitted_at": "2026-01-22T06:30:17.556545"
+  },
+  {
+    "id": 4298,
+    "assignment_id": 209,
+    "student_id": 1075,
+    "score": 50.0,
+    "submitted_at": "2025-11-26T07:23:58.963539"
+  },
+  {
+    "id": 4299,
+    "assignment_id": 217,
+    "student_id": 1075,
+    "score": 61.0,
+    "submitted_at": "2025-12-16T06:22:00.168110"
+  },
+  {
+    "id": 4300,
+    "assignment_id": 225,
+    "student_id": 1075,
+    "score": 80.3,
+    "submitted_at": "2026-01-12T18:57:30.514802"
+  },
+  {
+    "id": 4301,
+    "assignment_id": 218,
+    "student_id": 1075,
+    "score": 63.5,
+    "submitted_at": "2026-02-14T11:15:30.200430"
+  },
+  {
+    "id": 4302,
+    "assignment_id": 226,
+    "student_id": 1075,
+    "score": 94.3,
+    "submitted_at": "2025-11-23T00:55:43.130076"
+  },
+  {
+    "id": 4303,
+    "assignment_id": 234,
+    "student_id": 1075,
+    "score": 53.8,
+    "submitted_at": "2026-02-02T17:19:09.247866"
+  }
+]
