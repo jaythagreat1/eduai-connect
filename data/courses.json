@@ -5,7 +5,7 @@
     "name": "Math",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Shane Mckinney",
+    "instructor": "Kristen Jones",
     "number_of_students": 21
   },
   {
@@ -14,7 +14,7 @@
     "name": "Biology",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "David Peck",
+    "instructor": "Edwin Robles",
     "number_of_students": 19
   },
   {
@@ -23,7 +23,7 @@
     "name": "English",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Steven Garza",
+    "instructor": "Jennifer Jones",
     "number_of_students": 32
   },
   {
@@ -32,7 +32,7 @@
     "name": "History",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Joshua Wise DVM",
+    "instructor": "Judy Paul",
     "number_of_students": 26
   },
   {
@@ -41,7 +41,7 @@
     "name": "Physics",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Lisa Smith",
+    "instructor": "Jeffrey Sanders",
     "number_of_students": 31
   },
   {
@@ -50,7 +50,7 @@
     "name": "Chemistry",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Sophia Lewis",
+    "instructor": "Daniel Contreras",
     "number_of_students": 31
   },
   {
@@ -59,7 +59,7 @@
     "name": "Spanish",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Gary Vargas",
+    "instructor": "Joshua Long",
     "number_of_students": 23
   },
   {
@@ -68,7 +68,7 @@
     "name": "Art",
     "start_date": "2024-09-01",
     "end_date": "2024-12-15",
-    "instructor": "Sara Ortiz",
+    "instructor": "Erica Colon DDS",
     "number_of_students": 20
   }
 ]
