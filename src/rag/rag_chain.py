@@ -3,7 +3,6 @@ from langchain_aws import ChatBedrock, BedrockEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough
 
 # -------------------------
 # 1. AWS / Bedrock Setup
@@ -15,7 +14,6 @@ bedrock_runtime = boto3.client(
     region_name=region
 )
 
-# Claude model for generating answers
 llm = ChatBedrock(
     client=bedrock_runtime,
     model_id="anthropic.claude-3-sonnet-20240229-v1:0",
@@ -39,15 +37,18 @@ vectorstore = FAISS.load_local(
     allow_dangerous_deserialization=True
 )
 
-# Turn the vector store into a retriever — this searches for relevant docs
 retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
 
 # -------------------------
-# 4. Prompt Template
+# 4. Prompt Template (now includes chat_history)
 # -------------------------
 prompt = ChatPromptTemplate.from_template("""
 You are an education analytics assistant that helps teachers understand student performance data.
 Use the context below to answer the question. If the answer is not in the context, say you don't know.
+Use the chat history to understand follow-up questions — if the user says "her" or "their", refer to the previous conversation.
+
+Chat History:
+{chat_history}
 
 Context:
 {context}
@@ -59,29 +60,29 @@ Answer:
 """)
 
 # -------------------------
-# 5. LCEL Chain — this is the modern LangChain way
-# The | operator pipes data from one step to the next
-# Step 1: Pass the question to retriever AND pass it through as-is
-# Step 2: Format into the prompt template
-# Step 3: Send to Claude on Bedrock
-# Step 4: Parse the output as a string
+# 5. Chain (retriever called separately so memory works)
 # -------------------------
 chain = (
-    {"context": retriever, "question": RunnablePassthrough()}
-    | prompt
+    prompt
     | llm
     | StrOutputParser()
 )
 
 # -------------------------
-# 6. Ask Questions
+# 6. Ask Questions with Memory
 # -------------------------
 if __name__ == "__main__":
+    chat_history = ""
     while True:
         q = input("\nAsk a question (or 'exit'): ")
         if q.lower() == "exit":
             break
-        # chain.invoke() runs the full pipeline:
-        # question → retriever finds docs → prompt formats it → Claude answers
-        answer = chain.invoke(q)
+        docs = retriever.invoke(q)
+        context = "\n\n".join([doc.page_content for doc in docs])
+        answer = chain.invoke({
+            "context": context,
+            "question": q,
+            "chat_history": chat_history
+        })
         print("\nAnswer:", answer)
+        chat_history += f"Human: {q}\nAssistant: {answer}\n"
