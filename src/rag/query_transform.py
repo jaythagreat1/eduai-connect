@@ -36,4 +36,4 @@ def transform_query(question: str) -> str:
 
 if __name__ == "__main__":
     result = transform_query("who needs help")
-    print(result)
+    print(result) 

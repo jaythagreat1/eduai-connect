@@ -4,6 +4,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from query_transform import transform_query
+from reranker import rerank_docs
 
 # -------------------------
 # 1. AWS / Bedrock Setup
@@ -80,7 +81,7 @@ if __name__ == "__main__":
             break
         better_query = transform_query(q)
         docs = retriever.invoke(better_query)   
-        context = "\n\n".join([doc.page_content for doc in docs])
+        context = rerank_docs(q, docs)
         answer = chain.invoke({
             "context": context,
             "question": q,
