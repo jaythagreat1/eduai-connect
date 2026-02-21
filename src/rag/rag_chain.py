@@ -3,6 +3,7 @@ from langchain_aws import ChatBedrock, BedrockEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from query_transform import transform_query
 
 # -------------------------
 # 1. AWS / Bedrock Setup
@@ -77,7 +78,8 @@ if __name__ == "__main__":
         q = input("\nAsk a question (or 'exit'): ")
         if q.lower() == "exit":
             break
-        docs = retriever.invoke(q)
+        better_query = transform_query(q)
+        docs = retriever.invoke(better_query)   
         context = "\n\n".join([doc.page_content for doc in docs])
         answer = chain.invoke({
             "context": context,
