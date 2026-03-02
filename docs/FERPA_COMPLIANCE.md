@@ -12,13 +12,13 @@ safeguards implemented to ensure compliance.
 - All student data stored in S3 is encrypted using AWS KMS with automatic key rotation
 - FAISS vector index files are stored in encrypted S3 buckets
 - KMS key policy restricts access to authorized IAM roles only
-- **Reference:** 📘 Bedrock Ch 12 p.276-280 / 📕 AWS SA Ch 8 p.370-375
+
 
 ### In Transit
 - All API calls use TLS 1.2+ encryption
 - VPC endpoints used for Bedrock API calls — traffic never crosses public internet
 - HTTPS enforced on all FastAPI endpoints via API Gateway
-- **Reference:** 📘 Bedrock Ch 12 p.285-290
+
 
 ## 2. Access Control
 
@@ -28,14 +28,13 @@ safeguards implemented to ensure compliance.
   - Read from the specific student data S3 bucket
   - Write to CloudWatch logs
 - No wildcard permissions (`*`) are used anywhere
-- **Reference:** 📘 Bedrock Ch 12 p.280-285 / 📕 AWS SA Ch 8 p.350-360
 
 ### Role-Based Access
 - **Teacher role:** Can only view students in their assigned sections
 - **Administrator role:** Can view all students across all sections
 - Role selection enforced at the Streamlit dashboard level
 - API endpoints validate role before returning data
-- **Reference:** 📘 Bedrock Ch 12 p.280-285
+
 
 ## 3. PII Protection
 
@@ -45,7 +44,7 @@ safeguards implemented to ensure compliance.
 - **Anonymized PII:** Email addresses, Phone numbers, Names (when accessed by unauthorized roles)
 - **Denied Topics:** Requests for home addresses, parent contact info, medical records
 - Custom blocked messaging: "This response has been filtered to protect student privacy under FERPA."
-- **Reference:** 📘 Bedrock Ch 12 p.290-307
+
 
 ### Synthetic Data for Development
 - All development and testing uses synthetic student data generated with Python Faker
@@ -58,14 +57,13 @@ safeguards implemented to ensure compliance.
 - All Bedrock API calls are logged with user attribution
 - Logs include: who made the request, what model was called, when it happened
 - CloudTrail logs stored in encrypted S3 bucket with 1-year retention
-- **Reference:** 📘 Bedrock Ch 11 p.260-270
+
 
 ### CloudWatch
 - Lambda invocation metrics: duration, errors, throttles
 - API Gateway metrics: request count, latency, 4xx/5xx errors
 - Custom dashboard for monitoring student data access patterns
 - Alerts configured for unusual access patterns (potential breach indicator)
-- **Reference:** 📘 Bedrock Ch 11 p.251-260
 
 ### Application Logging
 - Every RAG query is logged with timestamp and user role
@@ -85,7 +83,7 @@ safeguards implemented to ensure compliance.
 - RAG pipeline evaluated against 15 test questions for accuracy and fairness
 - At-risk detection thresholds are transparent and configurable (not black-box)
 - Risk levels (high/medium/low) based on explicit criteria: grades <70, attendance <0.80, engagement <60
-- **Reference:** 📙 ML Handbook Ch 12 p.368-391 / Ch 13 p.399-400
+
 
 ### Hallucination Prevention
 - System prompt explicitly instructs Claude: "If the answer is not in the context, say you don't know"
@@ -96,7 +94,7 @@ safeguards implemented to ensure compliance.
 - Input validation on all API endpoints via Pydantic models
 - Bedrock Guardrails filter malicious prompts attempting to extract PII
 - Rate limiting on API endpoints prevents abuse
-- **Reference:** 📙 ML Handbook Ch 13 p.410-412
+
 
 ## 7. Incident Response
 
