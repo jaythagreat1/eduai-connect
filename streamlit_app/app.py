@@ -220,7 +220,7 @@ st.markdown("""
 <div style='text-align: center; color: #8892b0; padding: 20px;'>
     <b>EduAI Connect</b> — Built with Amazon Bedrock • LangChain • LangGraph • FAISS • FastAPI<br>
     🔒 FERPA Compliant • KMS Encrypted • Guardrails Active<br>
-    <span style='color: #64ffda;'>AWS Solutions Architect Professional • AWS Generative AI Developer</span>
+    <span style='color: #64ffda;'></span>
 </div>
 """, unsafe_allow_html=True)
 
