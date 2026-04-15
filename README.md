@@ -16,6 +16,8 @@ FERPA-compliant AI system that:
 
 ## Architecture
 
+![EduAI Connect Architecture](docs/EduAI_Connect_Architecture.png)
+
 Multi-agent RAG system built on Amazon Bedrock with:
 - **Grading Agent**: Analyzes student work using Claude 3 Sonnet
 - **At-Risk Detection Agent**: Identifies patterns indicating academic struggle
